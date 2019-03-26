@@ -10,9 +10,11 @@ r = requests.get(url=url_json)
 data = r.json()
 dict_of_problems = {1: [], 2: [], 3: []}
 for problem in data.get("stat_status_pairs", []):
-    dict_of_problems[problem.get("difficulty", {}).get("level")].append(problem.get("stat", {}).get("question__title_slug"))
+    if problem.get("paid_only") == False:
+        dict_of_problems[problem.get("difficulty", {}).get("level")].append(problem.get("stat", {}).get("question__title_slug"))
 
 if __name__ == "__main__":
     print(data) #displays the json given by the url
     print(len(data.get("stat_status_pairs", [])))
     print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
+    print(len(dict_of_problems[1]), len(dict_of_problems[2]), len(dict_of_problems[3]))
