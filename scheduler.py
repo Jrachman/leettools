@@ -10,7 +10,7 @@
 #    - difficulty selection (no hards, complete easys then meds, med-easy)
 #    - target overall leetcode question coverage percentage
 #    - bring already completed
-#
+
 # https://zapier.com/blog/smart-goals/
 #    - the most achievable goals you can set: HARD mnemonic
 #      - Heartfelt: enriching your own life and the lives of others. Who else is impacted positively by the achievement of this goal?
@@ -30,19 +30,24 @@ import requests
 
 url_problem_prefix = "https://leetcode.com/problems/"
 
-url_json = "https://leetcode.com/api/problems/algorithms/"
-r = requests.get(url=url_json)
+def get_problems():
+    url_json = "https://leetcode.com/api/problems/algorithms/"
+    r = requests.get(url=url_json)
+    data = r.json()
+    dict_of_problems = {1: [], 2: [], 3: []}
+    for problem in data.get("stat_status_pairs", []):
+        if problem.get("paid_only") == False:
+            dict_of_problems[problem.get("difficulty", {}).get("level")].append(problem.get("stat", {}).get("question__title_slug"))
 
-data = r.json()
-dict_of_problems = {1: [], 2: [], 3: []}
-for problem in data.get("stat_status_pairs", []):
-    if problem.get("paid_only") == False:
-        dict_of_problems[problem.get("difficulty", {}).get("level")].append(problem.get("stat", {}).get("question__title_slug"))
+    return dict_of_problems
+
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
     #print(len(data.get("stat_status_pairs", [])))
     #print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
+
+    dict_of_problems = get_problems()
     print(len(dict_of_problems[1]), len(dict_of_problems[2]), len(dict_of_problems[3]))
 
     problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
