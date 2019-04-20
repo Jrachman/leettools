@@ -3,7 +3,7 @@
 #stucture: problems = {1: [question_title_slug, question_title_slug, ...], 2: [question_title_slug, question_title_slug, ...], 3: [question_title_slug, question_title_slug, ...]}
 
 # different parameters to customize study strategy:
-#    - days till interview / expectec time to completion
+#    - days till interview / expected time to completion
 #    - percent of time in day willing to devote to leetcode
 #    - specific skills wanting to focus on
 #    - weekly pattern (every day, every other day, work-work-break, etc.)
@@ -26,32 +26,56 @@
 
 
 import requests
-import random #random.shuffle(list) for popping problems
-#import webbrowser
+import random
+import math
 
 url_problem_prefix = "https://leetcode.com/problems/"
 
 def get_problems():
     url_json = "https://leetcode.com/api/problems/algorithms/"
-    r = requests.get(url=url_json)
-    data = r.json()
-    dict_of_problems = {1: [], 2: [], 3: []}
-    for problem in data.get("stat_status_pairs", []):
+    r_data = requests.get(url=url_json).json()
+    num_to_str = {1: "e", 2: "m", 3: "h"}
+    dict_of_problems = {"e": [], "m": [], "h": []}
+
+    for problem in r_data.get("stat_status_pairs", []):
         if problem.get("paid_only") == False:
-            dict_of_problems[problem.get("difficulty", {}).get("level")].append(problem.get("stat", {}).get("question__title_slug"))
+            dict_of_problems[num_to_str[problem.get("difficulty", {}).get("level")]].append(problem.get("stat", {}).get("question__title_slug"))
+
+    for key in dict_of_problems.keys():
+        random.shuffle(dict_of_problems[key])
 
     return dict_of_problems
 
-def user_personalization_entries(): #a start...
+def user_personalization_entries():
     problems = get_problems()
 
-    while True:
-        hard_omit = input("Include hard problems? [Y/n]: ")
-        if hard_omit in ["Y", "n"]:
-            if hard_omit == "n":
-                problems.pop(3)
+    while True: #difficulty range
+        difficulty_range = input("Choose your difficulty range. [e/em/m/mh/h]: ")
+
+        if difficulty_range in ["e", "em", "m", "mh", "h"]:
             break
+
         print("Please enter a valid answer.")
+
+    while True: #amount of time for grinding
+        try:
+            time_range = int(input("How many days in grind period? [i.e., '120' = 120 days]: "))
+            break
+        except:
+            print("Please enter a valid answer.")
+
+    #below is just for experimentation
+    len_of_problems = [len(problems[i]) for i in list(difficulty_range)]
+    max_len = max(len_of_problems)
+    sum_len = sum(len_of_problems)
+    pairing_len = (2 * max_len) - min(len_of_problems)
+    #THE ABOVE IS WRONG: grab the min then add the difference between min and max
+
+
+    print(len_of_problems, max_len, sum_len, pairing_len)
+    #compare max_len and time_range
+    #   - if max_len > time_range,
+
 
 
 if __name__ == "__main__":
@@ -66,7 +90,6 @@ if __name__ == "__main__":
 
     problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
     print(problem_url)
-    #webbrowser.open(problem_url)
     """
 
     user_personalization_entries()
