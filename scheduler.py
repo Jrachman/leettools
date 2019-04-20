@@ -26,6 +26,7 @@
 
 
 import requests
+import random #random.shuffle(list) for popping problems
 #import webbrowser
 
 url_problem_prefix = "https://leetcode.com/problems/"
@@ -41,15 +42,31 @@ def get_problems():
 
     return dict_of_problems
 
+def user_personalization_entries(): #a start...
+    problems = get_problems()
+
+    while True:
+        hard_omit = input("Include hard problems? [Y/n]: ")
+        if hard_omit in ["Y", "n"]:
+            if hard_omit == "n":
+                problems.pop(3)
+            break
+        print("Please enter a valid answer.")
+
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
     #print(len(data.get("stat_status_pairs", [])))
     #print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
 
+    """
     dict_of_problems = get_problems()
     print(len(dict_of_problems[1]), len(dict_of_problems[2]), len(dict_of_problems[3]))
+    print(len(dict_of_problems[1]) + len(dict_of_problems[2]) + len(dict_of_problems[3]), len(dict_of_problems[1]) + len(dict_of_problems[2]))
 
     problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
     print(problem_url)
     #webbrowser.open(problem_url)
+    """
+
+    user_personalization_entries()
