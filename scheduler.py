@@ -32,7 +32,6 @@
 
 #work strategies:
 #   - weekend vs no weekend ask option
-#   -
 #   for pairs:
 #      - 1-1 every day till pairs run out then go through whatever is left
 #      - 2-1 every day till one runs out or they end up lining up
@@ -41,7 +40,6 @@
 #      - 1 question/day
 #      - 2 questions/day
 #      - (3 questions/day) (if you are really grinding)
-#      -
 
 
 import requests
