@@ -64,8 +64,6 @@ def get_problems():
     return dict_of_problems
 
 def user_personalization_entries():
-    problems = get_problems()
-
     while True: #difficulty range
         difficulty_range = input("Choose your difficulty range. [e/em/m/mh/h]: ")
 
@@ -81,11 +79,25 @@ def user_personalization_entries():
         except:
             print("Please enter a valid answer.")
 
+    return difficulty_range, time_range
+
+def analyze_strategies():
+    problems = get_problems()
+    difficulty_range, time_range = user_personalization_entries()
+
     #below is just for experimentation
     len_of_problems = [len(problems[i]) for i in list(difficulty_range)]
+    print(len(len_of_problems))
     min_len = min(len_of_problems)
     sum_len = sum(len_of_problems)
     remaining_len = max(len_of_problems) - min(len_of_problems)
+
+    if len(len_of_problems) == 1: #for single difficulty
+        pass
+    else: #for 2 difficulties
+        pass
+
+
 
     print(len_of_problems, min_len, sum_len, remaining_len)
     print(min_len/time_range)
@@ -105,4 +117,4 @@ if __name__ == "__main__":
     print(problem_url)
     """
 
-    user_personalization_entries()
+    analyze_strategies()
