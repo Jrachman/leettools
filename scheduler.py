@@ -24,6 +24,25 @@
 #      - Realistic
 #      - Time-bounded
 
+#compare min_len and time_range
+#   - if min_len <= time_range, can complete pairings within time frame and can throw in single/double problems from the remaining problems
+#   - if min_len > time_range, going to have to not be able to complete all of the pairings or choose a different pattern
+
+#19 days/month for work-work-break method
+
+#work strategies:
+#   - weekend vs no weekend ask option
+#   -
+#   for pairs:
+#      - 1-1 every day till pairs run out then go through whatever is left
+#      - 2-1 every day till one runs out or they end up lining up
+#      - (alternate 1 each day) (if really want to space out)
+#   for singles:
+#      - 1 question/day
+#      - 2 questions/day
+#      - (3 questions/day) (if you are really grinding)
+#      -
+
 
 import requests
 import random
@@ -72,24 +91,7 @@ def user_personalization_entries():
 
     print(len_of_problems, min_len, sum_len, remaining_len)
     print(min_len/time_range)
-    #compare min_len and time_range
-    #   - if min_len <= time_range, can complete pairings within time frame and can throw in single/double problems from the remaining problems
-    #   - if min_len > time_range, going to have to not be able to complete all of the pairings or choose a different pattern
 
-    #19 days/month for work-work-break method
-
-    #work strategies:
-    #   - weekend vs no weekend ask option
-    #
-    #for pairs:
-    #   - 1-1 every day till pairs run out then go through whatever is left
-    #   -
-    #
-    #for singles:
-    #   - 1 question/day
-    #   - 2 questions/day
-    #   - (3 questions/day)
-    #   - 
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
