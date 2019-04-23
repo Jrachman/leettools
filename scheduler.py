@@ -66,17 +66,30 @@ def user_personalization_entries():
 
     #below is just for experimentation
     len_of_problems = [len(problems[i]) for i in list(difficulty_range)]
-    max_len = max(len_of_problems)
+    min_len = min(len_of_problems)
     sum_len = sum(len_of_problems)
-    pairing_len = (2 * max_len) - min(len_of_problems)
-    #THE ABOVE IS WRONG: grab the min then add the difference between min and max
+    remaining_len = max(len_of_problems) - min(len_of_problems)
 
+    print(len_of_problems, min_len, sum_len, remaining_len)
+    print(min_len/time_range)
+    #compare min_len and time_range
+    #   - if min_len <= time_range, can complete pairings within time frame and can throw in single/double problems from the remaining problems
+    #   - if min_len > time_range, going to have to not be able to complete all of the pairings or choose a different pattern
 
-    print(len_of_problems, max_len, sum_len, pairing_len)
-    #compare max_len and time_range
-    #   - if max_len > time_range,
+    #19 days/month for work-work-break method
 
-
+    #work strategies:
+    #   - weekend vs no weekend ask option
+    #
+    #for pairs:
+    #   - 1-1 every day till pairs run out then go through whatever is left
+    #   -
+    #
+    #for singles:
+    #   - 1 question/day
+    #   - 2 questions/day
+    #   - (3 questions/day)
+    #   - 
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
