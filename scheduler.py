@@ -79,28 +79,57 @@ def user_personalization_entries():
         except:
             print("Please enter a valid answer.")
 
-    return difficulty_range, time_range
+    """
+    while True: #weekends?
+        weekends = input("Will you practice on the weekends? [y/n]: ")
+
+        if weekends in ["y", "n"]:
+            break
+
+        print("Please enter a valid answer.")
+    """
+
+    return difficulty_range, time_range#, weekends
 
 def analyze_strategies():
     problems = get_problems()
-    difficulty_range, time_range = user_personalization_entries()
+    difficulty_range, time_range = user_personalization_entries() #, weekends
+    strategies = dict()
 
-    #below is just for experimentation
-    len_of_problems = [len(problems[i]) for i in list(difficulty_range)]
-    print(len(len_of_problems))
+    len_of_problems = [len(problems[i]) for i in difficulty_range]
+    #print(len(len_of_problems))
+    max_len = max(len_of_problems)
     min_len = min(len_of_problems)
     sum_len = sum(len_of_problems)
-    remaining_len = max(len_of_problems) - min(len_of_problems)
+    remaining_len = max_len - min_len
 
     if len(len_of_problems) == 1: #for single difficulty
-        pass
+        strategies["1 problem per day"] = min_len
+
+        for num in [2, 3]:
+                strategies[f"{num} problems per day"] = int(min_len/num) + int(min_len%num)
+
+        #need to add 2 problems a day, 1 day break AND 3 problems a day, 1 day break
+
     else: #for 2 difficulties
-        pass
+        strategies["1 pair of problems per day (without leftovers)"] = min_len
+        strategies["1 pair of problems per day (with leftovers)"] = max_len
+
+        if len_of_problems[0]/2 > len_of_problems[1]:
+            strategies[f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"] = len_of_problems[0]/2
+        else:
+            strategies[f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"] = int(min_len/2) + int(min_len%2)
+            strategies[f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"] = max_len
+
+        if len_of_problems[0] < len_of_problems[1]/2:
+            strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"] = len_of_problems[1]/2
+        else:
+            strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"] = int(max_len/2) + int(max_len%2)
+            strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"] = min_len
 
 
 
-    print(len_of_problems, min_len, sum_len, remaining_len)
-    print(min_len/time_range)
+    return strategies
 
 
 if __name__ == "__main__":
@@ -108,13 +137,12 @@ if __name__ == "__main__":
     #print(len(data.get("stat_status_pairs", [])))
     #print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
 
-    """
+    #"""
     dict_of_problems = get_problems()
-    print(len(dict_of_problems[1]), len(dict_of_problems[2]), len(dict_of_problems[3]))
-    print(len(dict_of_problems[1]) + len(dict_of_problems[2]) + len(dict_of_problems[3]), len(dict_of_problems[1]) + len(dict_of_problems[2]))
+    print(len(dict_of_problems["e"]), len(dict_of_problems["m"]), len(dict_of_problems["h"]))
+    #problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
+    #print(problem_url)
+    #"""
 
-    problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
-    print(problem_url)
-    """
-
-    analyze_strategies()
+    strategies = analyze_strategies()
+    print(strategies)
