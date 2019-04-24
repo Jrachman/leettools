@@ -127,10 +127,9 @@ def analyze_strategies():
             strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"] = int(max_len/2) + int(max_len%2)
             strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"] = min_len
 
-
-
     return strategies
 
+# need to add function to find strategy closest to the time frame and then also give the increasing order of the strategies by time
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
@@ -146,3 +145,4 @@ if __name__ == "__main__":
 
     strategies = analyze_strategies()
     print(strategies)
+    print(dict(sorted(strategies.items(), key=lambda x: x[1]))) #sorted in increasing order
