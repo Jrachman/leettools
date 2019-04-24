@@ -41,6 +41,9 @@
 #      - 2 questions/day
 #      - (3 questions/day) (if you are really grinding)
 
+#for the future iterations:
+#   - possibly look into dynamic question choosing like Connect with confidence scales and weighing problems
+
 
 import requests
 import random
@@ -107,7 +110,7 @@ def analyze_strategies():
         strategies["1 problem per day"] = min_len
 
         for num in [2, 3]:
-                strategies[f"{num} problems per day"] = int(min_len/num) + int(min_len%num)
+            strategies[f"{num} problems per day"] = int(min_len/num) + int(min_len%num)
 
         #need to add 2 problems a day, 1 day break AND 3 problems a day, 1 day break
 
@@ -127,9 +130,14 @@ def analyze_strategies():
             strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"] = int(max_len/2) + int(max_len%2)
             strategies[f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"] = min_len
 
-    return strategies
+    return strategies, time_range
 
 # need to add function to find strategy closest to the time frame and then also give the increasing order of the strategies by time
+def strat_best_fit():
+    strategies, time_range = analyze_strategies()
+    # 1. find strat closest to time_range
+    # 2. order remaining strats in increasing time order
+    # note: might consider weighing with/without leftovers or making then separate categories
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
@@ -143,6 +151,6 @@ if __name__ == "__main__":
     #print(problem_url)
     #"""
 
-    strategies = analyze_strategies()
-    print(strategies)
+    strategies, time_range = analyze_strategies()
+    print(strategies, time_range)
     print(dict(sorted(strategies.items(), key=lambda x: x[1]))) #sorted in increasing order
