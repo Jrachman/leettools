@@ -162,11 +162,9 @@ def strat_best_fit():
 
     #2
     #print(strategies)
-    best_fits["desc"] = sorted(strategies.keys(), key=lambda x: strategies[x])
+    best_fits["incr"] = sorted(strategies.keys(), key=lambda x: strategies[x])
 
     return best_fits
-
-
 
 
 if __name__ == "__main__":
