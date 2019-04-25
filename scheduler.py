@@ -160,6 +160,10 @@ def strat_best_fit():
             best_fits["closest"] = [key]
             closest_abs_diff = value
 
+    #2
+    #print(strategies)
+    best_fits["desc"] = sorted(strategies.keys(), key=lambda x: strategies[x])
+
     return best_fits
 
 
