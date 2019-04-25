@@ -48,6 +48,7 @@
 import requests
 import random
 import math
+#from collections import defaultdict
 
 url_problem_prefix = "https://leetcode.com/problems/"
 
@@ -139,18 +140,47 @@ def strat_best_fit():
     # 2. order remaining strats in increasing time order
     # note: might consider weighing with/without leftovers or making then separate categories
 
+    best_fits = dict()
+
+    # 1
+    best_fits["closest"] = []
+    closest_abs_diff = -1
+
+    for key, value in strategies.items():
+        abs_diff = abs(time_range - value)
+
+        if closest_abs_diff == -1:
+            closest_abs_diff = abs_diff
+
+        if abs_diff == closest_abs_diff:
+            #print(key, 1, closest_abs_diff)
+            best_fits["closest"].append(key)
+        elif abs_diff < closest_abs_diff:
+            #print(key, 2, closest_abs_diff)
+            best_fits["closest"] = [key]
+            closest_abs_diff = value
+
+    return best_fits
+
+
+
+
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
     #print(len(data.get("stat_status_pairs", [])))
     #print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
 
-    #"""
+    """
     dict_of_problems = get_problems()
     print(len(dict_of_problems["e"]), len(dict_of_problems["m"]), len(dict_of_problems["h"]))
     #problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
     #print(problem_url)
-    #"""
-
+    """
+    """
     strategies, time_range = analyze_strategies()
     print(strategies, time_range)
     print(dict(sorted(strategies.items(), key=lambda x: x[1]))) #sorted in increasing order
+    """
+
+    best_fits = strat_best_fit()
+    print(best_fits)
