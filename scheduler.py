@@ -111,8 +111,19 @@ def user_personalization_entries():
 
     return difficulty_range, time_range#, weekends
 
+def strat_key_to_name(strat_key):
+    pass
+
 def analyze_strategies():
     #need to come up with better naming conventions
+    #create tuple:
+    #   (difficulty, [number of problems for each difficulty], leftovers?)
+    #names of categories:
+    #   1 problem per day
+    #   [2|3] problems per day
+    #   1 pair of problems per day ([with|without] leftovers)
+    #   2 {difficulty} and 1 {difficulty} {([with|without] leftovers)}
+    
     problems = get_problems()
     difficulty_range, time_range = user_personalization_entries() #, weekends
     strategies = dict()
