@@ -140,7 +140,7 @@ def analyze_strategies():
     strategies = dict()
 
     len_of_problems = [len(problems[i]) for i in difficulty_range]
-    #print(len(len_of_problems))
+    
     max_len = max(len_of_problems)
     min_len = min(len_of_problems)
     sum_len = sum(len_of_problems)
@@ -192,10 +192,10 @@ def strat_best_fit():
             closest_abs_diff = abs_diff
 
         if abs_diff == closest_abs_diff:
-            #print(key, 1, closest_abs_diff)
+
             best_fits["closest"].append(key)
         elif abs_diff < closest_abs_diff:
-            #print(key, 2, closest_abs_diff)
+
             best_fits["closest"] = [key]
             closest_abs_diff = value
 
@@ -237,9 +237,8 @@ def choose_strategy():
             print("Invalid entry not an integer")
 
 def create_calendar(strat_choice, problems, date_start):
-    c = Calendar(creator="Julian Rachman")
-    #d = datetime.date.today() + datetime.timedelta(days=1)
-    #print(d.strftime("%Y%m%d"))
+    c = Calendar(creator="LeetTools: created by Julian Rachman")
+    #d = datetime.date.today()
     t = "00:00:00"
 
     test = date_start + datetime.timedelta(days=1) #current format: yyyy-mm-dd
