@@ -183,7 +183,7 @@ def strat_best_fit():
     return best_fits
 
 def create_calendar():
-    c = Calendar()
+    c = Calendar(creator="Julian Rachman")
     for i in range(10):
         e = Event() # create events through strat_best_fit
         e.name = f"hello {i}"
