@@ -60,10 +60,16 @@
 #     TRANSP:TRANSPARENT
 #     END:VEVENT
 
+#approach to creating calendar
+#   - determine pattern type
+
+#THING TO KEEP IN MIND: there are a lot of params that are just going down the pipeline like problems and start_date so just set as variable then grab
+#   (look at all of the "here"'s)
 import requests
 import random
 import math
 from ics import Calendar, Event
+import datetime
 #from collections import defaultdict
 
 url_problem_prefix = "https://leetcode.com/problems/"
@@ -99,6 +105,15 @@ def user_personalization_entries():
         except:
             print("Please enter a valid answer.")
 
+    while True:
+        try:
+            date_start = datetime.datetime.strptime(input("Choose your start date. [format: yyyy-mm-dd]: "), "%Y-%m-%d").date()
+            if date_start >= datetime.date.today():
+                break
+            print("Please enter a valid answer.")
+        except:
+            print("Please enter a valid answer.")
+
     """
     while True: #weekends?
         weekends = input("Will you practice on the weekends? [y/n]: ")
@@ -109,7 +124,7 @@ def user_personalization_entries():
         print("Please enter a valid answer.")
     """
 
-    return difficulty_range, time_range#, weekends
+    return difficulty_range, time_range, date_start#, weekends
 
 def strat_key_to_name(strat_key):
     abbr_to_word = {"e": "easy", "m": "medium", "h": "hard"}
@@ -122,7 +137,7 @@ def strat_key_to_name(strat_key):
 
 def analyze_strategies():
     problems = get_problems()
-    difficulty_range, time_range = user_personalization_entries() #, weekends
+    difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
     strategies = dict()
 
     len_of_problems = [len(problems[i]) for i in difficulty_range]
@@ -156,11 +171,11 @@ def analyze_strategies():
             strategies[(difficulty_range, (1, 2), False)] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
             strategies[(difficulty_range, (1, 2), True)] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
 
-    return strategies, time_range
+    return strategies, time_range, problems, date_start #here
 
 # need to add function to find strategy closest to the time frame and then also give the increasing order of the strategies by time
 def strat_best_fit():
-    strategies, time_range = analyze_strategies()
+    strategies, time_range, problems, date_start = analyze_strategies() #here
     # 1. find strat closest to time_range
     # 2. order remaining strats in increasing time order
     # note: might consider weighing with/without leftovers or making then separate categories
@@ -186,7 +201,6 @@ def strat_best_fit():
             closest_abs_diff = value
 
     #2
-    #print(strategies)
     best_fits["incr"] = sorted(strategies.keys(), key=lambda x: strategies[x])
 
     #3
@@ -195,10 +209,10 @@ def strat_best_fit():
     #4
     best_fits["time_range"] = time_range
 
-    return best_fits
+    return best_fits, problems, date_start #here
 
 def choose_strategy():
-    best_fits = strat_best_fit()
+    best_fits, problems, date_start = strat_best_fit() #here
     num = 0
     strategies, time_range = best_fits.pop("strategies"), best_fits.pop("time_range")
     choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
@@ -218,15 +232,15 @@ def choose_strategy():
         try:
             choice = int(input(choices))
             if 0 <= choice <= len(strategies)+1:
-                return list_of_ord_strats[choice]
+                return list_of_ord_strats[choice], problems, date_start #here
             print(f"Invalid entry not in range 0 to {len(strategies)+1}")
         except:
             print("Invalid entry not an integer")
 
-def create_calendar():
+def create_calendar(strat_choice, problems, date_start):
     c = Calendar(creator="Julian Rachman")
-    #d = datetime.date.today()
-    #d.strftime("%Y%m%d")
+    d = datetime.date.today() + datetime.timedelta(days=1)
+    print(d.strftime("%Y%m%d"))
     #t = "00:00:00"
     for i in range(10):
         e = Event() # create events through strat_best_fit
@@ -243,30 +257,15 @@ def create_calendar():
     return c.events
 
 if __name__ == "__main__":
-    #print(data) #displays the json given by the url
-    #print(len(data.get("stat_status_pairs", [])))
-    #print(dict_of_problems) #grabs the title slugs (used for suffix of urls)
-
-    """
-    dict_of_problems = get_problems()
-    print(len(dict_of_problems["e"]), len(dict_of_problems["m"]), len(dict_of_problems["h"]))
-    #problem_url = f"{url_problem_prefix}{dict_of_problems[1][0]}"
-    #print(problem_url)
-    """
-    """
-    strategies, time_range = analyze_strategies()
-    print(strategies, time_range)
-    print(dict(sorted(strategies.items(), key=lambda x: x[1]))) #sorted in increasing order
-    """
-
     #best_fits = strat_best_fit()
     #print(best_fits)
 
     #cal = create_calendar()
     #print(cal)
 
-    choice = choose_strategy()
-    print(choice)
+    #choice, problems = choose_strategy()
+    cal = create_calendar(*choose_strategy())
+    print(cal)
 
     #output_name = strat_key_to_name(("em", [1, 2], False))
     #print(output_name)
