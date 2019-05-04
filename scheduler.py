@@ -112,6 +112,7 @@ def user_personalization_entries():
     return difficulty_range, time_range#, weekends
 
 def analyze_strategies():
+    #need to come up with better naming conventions
     problems = get_problems()
     difficulty_range, time_range = user_personalization_entries() #, weekends
     strategies = dict()
