@@ -121,15 +121,6 @@ def strat_key_to_name(strat_key):
     return output_name
 
 def analyze_strategies():
-    #need to come up with better naming conventions
-    #create tuple:
-    #   (difficulty, [number of problems for each difficulty], leftovers?)
-    #names of categories:
-    #   1 problem per day
-    #   [2|3] problems per day
-    #   1 pair of problems per day ([with|without] leftovers)
-    #   2 {difficulty} and 1 {difficulty} {([with|without] leftovers)}
-
     problems = get_problems()
     difficulty_range, time_range = user_personalization_entries() #, weekends
     strategies = dict()
@@ -142,28 +133,28 @@ def analyze_strategies():
     remaining_len = max_len - min_len
 
     if len(len_of_problems) == 1: #for single difficulty
-        strategies[(difficulty_range, [1], False)] = min_len # "1 problem per day"
+        strategies[(difficulty_range, (1,), False)] = min_len # "1 problem per day"
 
         for num in [2, 3]:
-            strategies[(difficulty_range, [num], False)] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
+            strategies[(difficulty_range, (num,), False)] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
 
         #need to add 2 problems a day, 1 day break AND 3 problems a day, 1 day break
 
     else: #for 2 difficulties
-        strategies[(difficulty_range, [1, 1], False)] = min_len # "1 pair of problems per day (without leftovers)"
-        strategies[(difficulty_range, [1, 1], True)] = max_len # "1 pair of problems per day (with leftovers)"
+        strategies[(difficulty_range, (1, 1), False)] = min_len # "1 pair of problems per day (without leftovers)"
+        strategies[(difficulty_range, (1, 1), True)] = max_len # "1 pair of problems per day (with leftovers)"
 
         if len_of_problems[0]/2 > len_of_problems[1]:
-            strategies[(difficulty_range, [2, 1], False)] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
+            strategies[(difficulty_range, (2, 1), False)] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
         else:
-            strategies[(difficulty_range, [2, 1], False)] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
-            strategies[(difficulty_range, [2, 1], True)] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
+            strategies[(difficulty_range, (2, 1), False)] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
+            strategies[(difficulty_range, (2, 1), True)] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
 
         if len_of_problems[0] < len_of_problems[1]/2:
-            strategies[(difficulty_range, [1, 2], False)] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
+            strategies[(difficulty_range, (1, 2), False)] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
         else:
-            strategies[(difficulty_range, [1, 2], False)] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
-            strategies[(difficulty_range, [1, 2], True)] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
+            strategies[(difficulty_range, (1, 2), False)] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
+            strategies[(difficulty_range, (1, 2), True)] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
 
     return strategies, time_range
 
@@ -217,7 +208,7 @@ def choose_strategy():
         choices += f"   {cat.upper()}\n"
 
         for strat in strats:
-            choices += f"      [{num}] ({strategies[strat]} days) {strat}\n"
+            choices += f"      [{num}] ({strategies[strat]} days) {strat_key_to_name(strat)}\n"
             list_of_ord_strats.append(strat)
             num += 1
 
