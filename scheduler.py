@@ -193,7 +193,7 @@ def create_calendar():
         e.make_all_day()
         c.events.add(e)
 
-    with open('my.ics', 'w') as f:
+    with open('test.ics', 'w') as f:
         f.writelines(c)
 
     return c.events
