@@ -112,7 +112,13 @@ def user_personalization_entries():
     return difficulty_range, time_range#, weekends
 
 def strat_key_to_name(strat_key):
-    pass
+    abbr_to_word = {"e": "easy", "m": "medium", "h": "hard"}
+    diff, num_of_prob, leftover = strat_key[0], strat_key[1], strat_key[2]
+
+    output_name =  ", ".join([f"{num_of_prob[i]} {abbr_to_word[diff[i]]}" for i in range(len(diff))])
+    output_name += f" problem(s) per day ({'with' if leftover else 'without'} leftovers)"
+
+    return output_name
 
 def analyze_strategies():
     #need to come up with better naming conventions
@@ -136,10 +142,10 @@ def analyze_strategies():
     remaining_len = max_len - min_len
 
     if len(len_of_problems) == 1: #for single difficulty
-        strategies[(difficulty_range, 1, False)] = min_len # "1 problem per day"
+        strategies[(difficulty_range, [1], False)] = min_len # "1 problem per day"
 
         for num in [2, 3]:
-            strategies[(difficulty_range, num, False)] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
+            strategies[(difficulty_range, [num], False)] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
 
         #need to add 2 problems a day, 1 day break AND 3 problems a day, 1 day break
 
@@ -267,5 +273,9 @@ if __name__ == "__main__":
 
     #cal = create_calendar()
     #print(cal)
+
     choice = choose_strategy()
     print(choice)
+
+    #output_name = strat_key_to_name(("em", [1, 2], False))
+    #print(output_name)
