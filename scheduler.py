@@ -180,10 +180,32 @@ def strat_best_fit():
     #print(strategies)
     best_fits["incr"] = sorted(strategies.keys(), key=lambda x: strategies[x])
 
+    #3
+    best_fits["strategies"] = strategies
+
+    #4
+    best_fits["time_range"] = time_range
+
     return best_fits
+
+def choose_strategy(best_fits):
+    num = 1
+    strategies, time_range = best_fits.pop("strategies"), best_fits.pop("time_range")
+    choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
+
+    for cat, strats in best_fits.items():
+        choices += f"   {cat.upper()}\n"
+
+        for strat in strats:
+            choices += f"      [{num}] ({strategies[strat]} days) {strat}\n"
+            num += 1
+    print(choices)
 
 def create_calendar():
     c = Calendar(creator="Julian Rachman")
+    #d = datetime.date.today()
+    #d.strftime("%Y%m%d")
+    #t = "00:00:00"
     for i in range(10):
         e = Event() # create events through strat_best_fit
         e.name = f"hello {i}"
@@ -218,5 +240,8 @@ if __name__ == "__main__":
     #best_fits = strat_best_fit()
     #print(best_fits)
 
-    cal = create_calendar()
-    print(cal)
+    #cal = create_calendar()
+    #print(cal)
+    best_fits = strat_best_fit()
+    print(best_fits)
+    choose_strategy(best_fits)
