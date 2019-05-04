@@ -60,11 +60,10 @@
 #     TRANSP:TRANSPARENT
 #     END:VEVENT
 
-#approach to creating calendar
-#   - determine pattern type
-
 #THING TO KEEP IN MIND: there are a lot of params that are just going down the pipeline like problems and start_date so just set as variable then grab
 #   (look at all of the "here"'s)
+
+
 import requests
 import random
 import math
@@ -239,9 +238,13 @@ def choose_strategy():
 
 def create_calendar(strat_choice, problems, date_start):
     c = Calendar(creator="Julian Rachman")
-    d = datetime.date.today() + datetime.timedelta(days=1)
-    print(d.strftime("%Y%m%d"))
-    #t = "00:00:00"
+    #d = datetime.date.today() + datetime.timedelta(days=1)
+    #print(d.strftime("%Y%m%d"))
+    t = "00:00:00"
+
+    test = date_start + datetime.timedelta(days=1) #current format: yyyy-mm-dd
+    print(test.strftime("%Y%m%d"))
+
     for i in range(10):
         e = Event() # create events through strat_best_fit
         e.name = f"hello {i}"
