@@ -188,18 +188,31 @@ def strat_best_fit():
 
     return best_fits
 
-def choose_strategy(best_fits):
-    num = 1
+def choose_strategy():
+    best_fits = strat_best_fit()
+    num = 0
     strategies, time_range = best_fits.pop("strategies"), best_fits.pop("time_range")
     choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
 
+    list_of_ord_strats = []
     for cat, strats in best_fits.items():
         choices += f"   {cat.upper()}\n"
 
         for strat in strats:
             choices += f"      [{num}] ({strategies[strat]} days) {strat}\n"
+            list_of_ord_strats.append(strat)
             num += 1
-    print(choices)
+
+    choices += "Enter number here: "
+
+    while True:
+        try:
+            choice = int(input(choices))
+            if 0 <= choice <= len(strategies)+1:
+                return list_of_ord_strats[choice]
+            print(f"Invalid entry not in range 0 to {len(strategies)+1}")
+        except:
+            print("Invalid entry not an integer")
 
 def create_calendar():
     c = Calendar(creator="Julian Rachman")
@@ -242,6 +255,5 @@ if __name__ == "__main__":
 
     #cal = create_calendar()
     #print(cal)
-    best_fits = strat_best_fit()
-    print(best_fits)
-    choose_strategy(best_fits)
+    choice = choose_strategy()
+    print(choice)
