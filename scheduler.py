@@ -44,10 +44,26 @@
 #for the future iterations:
 #   - possibly look into dynamic question choosing like Connect with confidence scales and weighing problems
 
+#example of ics for all day:
+#   - BEGIN:VEVENT
+#     DTSTART;VALUE=DATE:20190503
+#     DTEND;VALUE=DATE:20190504
+#     DTSTAMP:20190503T184637Z
+#     UID:1stn8i34gpmp7vg0p06aamhren@google.com
+#     CREATED:20190503T184611Z
+#     DESCRIPTION:bitch<a href="http://www.google.com" id="ow736" __is_owner="true">hello world bitch</a>
+#     LAST-MODIFIED:20190503T184611Z
+#     LOCATION:
+#     SEQUENCE:0
+#     STATUS:CONFIRMED
+#     SUMMARY:hello world
+#     TRANSP:TRANSPARENT
+#     END:VEVENT
 
 import requests
 import random
 import math
+from ics import Calendar, Event
 #from collections import defaultdict
 
 url_problem_prefix = "https://leetcode.com/problems/"
@@ -166,6 +182,21 @@ def strat_best_fit():
 
     return best_fits
 
+def create_calendar():
+    c = Calendar()
+    for i in range(10):
+        e = Event() # create events through strat_best_fit
+        e.name = f"hello {i}"
+        e.begin = '20190503 00:00:00'
+        e.end = '20190504 00:00:00'
+        e.description = f"this\nis\na\ndescription for {e.name}"
+        e.make_all_day()
+        c.events.add(e)
+
+    with open('my.ics', 'w') as f:
+        f.writelines(c)
+
+    return c.events
 
 if __name__ == "__main__":
     #print(data) #displays the json given by the url
@@ -184,5 +215,8 @@ if __name__ == "__main__":
     print(dict(sorted(strategies.items(), key=lambda x: x[1]))) #sorted in increasing order
     """
 
-    best_fits = strat_best_fit()
-    print(best_fits)
+    #best_fits = strat_best_fit()
+    #print(best_fits)
+
+    cal = create_calendar()
+    print(cal)

@@ -1,0 +1,3231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Julian Rachman Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Julian Rachman
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303177
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\n[] (https://my.yuja.com/V/Video?v=135390&node=543483&
+ a=263976897&autoplay=1)[Week 1 Check-in/Overview Video] (https://uci.yuja.
+ com/V/Video?v=332283&node=1614474&a=330461283&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 1A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303177
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap"><iframe style=
+ "width: 640px\; height: 400px\;" title="Week1check" src="https://canvas.ee
+ e.uci.edu/courses/16175/external_tools/retrieve?display=borderless&amp\;ur
+ l=https%3A%2F%2Fuci.yuja.com%2FLMSEntry.jsp%3FredirectURL%3Dhttps%253A%252
+ F%252Fuci.yuja.com%252FV%252FVideo%253Fv%253D332283%2526a%253D330461283" w
+ idth="640" height="400" allowfullscreen="allowfullscreen" webkitallowfulls
+ creen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></if
+ rame>Back to Week 1</a></p>\n<p style="text-align: center\;"><a href="http
+ s://my.yuja.com/V/Video?v=135390&amp\;node=543483&amp\;a=263976897&amp\;au
+ toplay=1"></a><a href="https://uci.yuja.com/V/Video?v=332283&amp\;node=161
+ 4474&amp\;a=330461283&amp\;autoplay=1">Week 1 Check-in/Overview Video</a><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303178
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\n[Review Material Intro] (https://uci.yuja.com/V/Video
+ ?v=249148&node=1105000&a=2023904380&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 1B: Introduction to Review Material Video [ICS 6D Discrete Mat
+ h f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303178
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p style="text-align: center\;"><iframe style="width: 640px\; he
+ ight: 400px\;" title="Review Material" src="https://canvas.eee.uci.edu/cou
+ rses/16175/external_tools/retrieve?display=borderless&amp\;url=https%3A%2F
+ %2Fuci.yuja.com%2FLMSEntry.jsp%3FredirectURL%3Dhttps%253A%252F%252Fuci.yuj
+ a.com%252FV%252FVideo%253Fv%253D249148%2526a%253D2023904380" width="640" h
+ eight="400" allowfullscreen="allowfullscreen" webkitallowfullscreen="webki
+ tallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>\n<
+ p style="text-align: center\;"><a href="https://uci.yuja.com/V/Video?v=249
+ 148&amp\;node=1105000&amp\;a=2023904380&amp\;autoplay=1">Review Material I
+ ntro</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303179
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Sections 1.1-1.4 in the [ICS 6D zyBook.] (https
+ ://learn.zybooks.com/signin)\n\nReading for Week 1 is not for credit.
+SEQUENCE:0
+SUMMARY:Week 1C: Reading Section 1.1-1.4 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303179
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Sections 1.1-1.4 in the <a class="external" href=
+ "https://learn.zybooks.com/signin" target="_blank">ICS 6D zyBook.</a></spa
+ n></p>\n<p><span>Reading for Week 1 is not for credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303154
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 4 videos in this lecture and the total time
+  is ~30 minutes. Answer the question(s) that follow the videos and click "
+ Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1D: Lecture 1.1 Propositional Logic [ICS 6D Discrete Math f...
+ ]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303154
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are </span><strong>4 videos</strong><span> in thi
+ s lecture and the </span><strong>total time is ~30 minutes</strong><span>.
+  Answer the question(s) that follow the videos and click </span><strong>"T
+ ake the Survey"</strong><span> button to begin.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303180
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Sections 1.5-1.7 in the [ICS 6D zyBook.] (https
+ ://learn.zybooks.com/signin)\n\nReading for Week 1 is not for credit.
+SEQUENCE:0
+SUMMARY:Week 1E: Reading Section 1.5-1.7 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303180
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Sections 1.5-1.7 in the <a class="external" href=
+ "https://learn.zybooks.com/signin" target="_blank">ICS 6D zyBook.</a></spa
+ n></p>\n<p><span>Reading for Week 1 is not for credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303169
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~13 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1F: Lecture 1.2 Predicates and Quantifiers [ICS 6D Discrete Ma
+ th f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303169
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~13 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303181
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Sections 3.1-3.4 in the [ICS 6D zyBook.] (https
+ ://learn.zybooks.com/signin)\n\nReading for Week 1 is not for credit.
+SEQUENCE:0
+SUMMARY:Week 1G: Reading Section 3.1-3.4 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303181
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Sections 3.1-3.4 in the <a class="external" href=
+ "https://learn.zybooks.com/signin" target="_blank">ICS 6D zyBook.</a></spa
+ n></p>\n<p><span>Reading for Week 1 is not for credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303130
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~16 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1H: Lecture 1.3 Sets and Set Operations [ICS 6D Discrete Math 
+ f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303130
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~16 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303182
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Section 3.6 in the [ICS 6D zyBook.] (https://le
+ arn.zybooks.com/signin)\n\nReading for Week 1 is not for credit.
+SEQUENCE:0
+SUMMARY:Week 1I: Reading Section 3.6 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303182
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Section 3.6 in the <a class="external" href="http
+ s://learn.zybooks.com/signin" target="_blank">ICS 6D zyBook.</a></span></p
+ >\n<p><span>Reading for Week 1 is not for credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303138
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~11 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1J: Lecture 1.4 The Cartesian Product [ICS 6D Discrete Math f.
+ ..]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303138
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~11 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303183
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Sections 4.1\, 4.3\, and 4.4 in the [ICS 6D zyB
+ ook.] (https://learn.zybooks.com/signin)\n\nReading for Week 1 is not for 
+ credit.
+SEQUENCE:0
+SUMMARY:Week 1K: Reading Section 4.1\, 4.3\, 4.4 [ICS 6D Discrete Math f...
+ ]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303183
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Sections 4.1\, 4.3\, and 4.4 in the <a class="ext
+ ernal" href="https://learn.zybooks.com/signin" target="_blank">ICS 6D zyBo
+ ok.</a></span></p>\n<p><span>Reading for Week 1 is not for credit.</span><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303124
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~20 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1L: Lecture 1.5 Intro to Functions [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303124
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~20 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303184
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nRead Section 4.6 in the [ICS 6D zyBook.] (https://le
+ arn.zybooks.com/signin)\n\nReading for Week 1 is not for credit.
+SEQUENCE:0
+SUMMARY:Week 1M: Reading Section 4.6 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303184
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>Read Section 4.6 in the <a class="external" href="http
+ s://learn.zybooks.com/signin" target="_blank">ICS 6D zyBook.</a></span></p
+ >\n<p><span>Reading for Week 1 is not for credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303140
+DTSTART:20190408T170000Z
+DTEND:20190408T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nThere are 3 videos in this lecture and the total tim
+ e is ~20 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 1N: Lecture 1.6 Logarithms and Exponents [ICS 6D Discrete Math
+  f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303140
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p><span>There are <strong>3</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~20 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303185
+DTSTART;VALUE=DATE:20190408T000000
+DTEND;VALUE=DATE:20190408T000000
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\n* Link to enter Prof. Irani's online room for Office 
+ Hours and Discussion: [Zoom] (https://zoom.us/my/sandyirani).
+SEQUENCE:0
+SUMMARY:Week 1O: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303185
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<ul>\n<li>Link to enter Prof. Irani's online room for Office Hou
+ rs and Discussion: <a href="https://zoom.us/my/sandyirani">Zoom</a>.</li>\
+ n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T151600Z
+UID:event-assignment-303186
+DTSTART:20190410T200000Z
+DTEND:20190410T200000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 1] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap)\n\nCovers Sections 1.1-1.7\, 3.1-3.4\, 3.6\, 4.1\, 4.3\,
+  4.4\, 4.6\n\nChallenge Activities\n\nThere is nothing to turn in for the 
+ challenge activities. Just complete each activity in the [zyBook] (https:/
+ /learn.zybooks.com/signin) before the assignment due date.\n\n* 1.2.1\n\n*
+  1.2.2\n\n* 1.3.1\n\n* 1.3.2\n\n* 1.7.1\n\n* 3.1.1\n\n* 3.2.1\n\n* 3.3.1\n
+ \n* 3.4.1\n\n* 3.4.2\n\n* 3.4.3\n\n* 4.3.1\n\n* 4.6.1\n\nWritten Homework\
+ n\nThe numbers refer to the Exercises at the bottom of each section of you
+ r zyBook. Complete these on paper and upload to Gradescope. Review the gui
+ delines for homework by going to FAQ page [here] (https://canvas.eee.uci.e
+ du/courses/16175/pages/course-information-faqs) and navigating to the sect
+ ion on Homework. You do not have to copy the questions for any of the writ
+ ten homework in your solutions that you turn in.\n\n* 1.3.1\n\n* 1.4.4\n\n
+ * 1.4.6\n\n* 1.7.3\n\n* 3.2.4\n\n* 3.6.2\n\n* 3.6.6\, a\, d\, e\n\n* 4.3.4
+ \, a through e\n\n* 4.4.2\, e through h\n\n* 4.6.1
+SEQUENCE:0
+SUMMARY:Week 1P: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303186
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 1" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-1-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-1-roadmap">Back to Week 1
+ </a></p>\n<p>Covers Sections 1.1-1.7\, 3.1-3.4\, 3.6\, 4.1\, 4.3\, 4.4\, 4
+ .6</p>\n<p><strong><span style="font-size: 14pt\;">Challenge Activities</s
+ pan></strong></p>\n<p>There is nothing to turn in for the challenge activi
+ ties. Just complete each activity in the <a href="https://learn.zybooks.co
+ m/signin">zyBook</a> before the assignment due date.</p>\n<ul>\n<li>1.2.1<
+ /li>\n<li>1.2.2</li>\n<li>1.3.1</li>\n<li>1.3.2</li>\n<li>1.7.1</li>\n<li>
+ 3.1.1</li>\n<li>3.2.1</li>\n<li>3.3.1</li>\n<li>3.4.1</li>\n<li>3.4.2</li>
+ \n<li>3.4.3</li>\n<li>4.3.1</li>\n<li>4.6.1</li>\n</ul>\n<p><strong><span 
+ style="font-size: 14pt\;">Written Homework</span></strong></p>\n<p>The num
+ bers refer to the Exercises at the bottom of each section of your zyBook. 
+ Complete these on paper and upload to Gradescope. Review the guidelines fo
+ r homework by going to FAQ page <a title="Course Information (FAQs)" href=
+ "https://canvas.eee.uci.edu/courses/16175/pages/course-information-faqs" d
+ ata-api-endpoint="https://canvas.eee.uci.edu/api/v1/courses/16175/pages/co
+ urse-information-faqs" data-api-returntype="Page">here</a> and navigating 
+ to the section on Homework. You do not have to copy the questions for any 
+ of the written homework in your solutions that you turn in.</p>\n<ol>\n<li
+ >1.3.1</li>\n<li>1.4.4</li>\n<li><span>1.4.6</span></li>\n<li><span>1.7.3<
+ /span></li>\n<li><span>3.2.4</span></li>\n<li><span>3.6.2</span></li>\n<li
+ ><span>3.6.6\, a\, d\, e</span></li>\n<li><span>4.3.4\, a through e</span>
+ </li>\n<li><span>4.4.2\, e through h</span></li>\n<li><span>4.6.1</span></
+ li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190427T085400Z
+UID:event-assignment-317579
+DTSTART:20190413T050000Z
+DTEND:20190413T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Homework 1 is composed out of two parts:\n\n*******************
+ *********\nPart 1: Challenge Activities\n****************************\n\nC
+ omplete the challenge activities for sections 1.1 to 1.7 (see the correspo
+ nding zyBook assignment).\n\n************************\nPart 2: Written Hom
+ ework\n************************\n\nThe numbers refer to the Exercises at t
+ he bottom of each section of your zyBook. Complete these on paper and uplo
+ ad to Gradescope.\n\n* 1.3.1\n\n* 1.3.2\n\n* 1.4.1\n\n* 1.4.2\n\n* 1.4.3\n
+ \n* 1.5.2\n\n* 1.6.2\n\n* 1.6.3\n\n* 1.6.4\n\n* 1.7.3\n\n* 1.7.4
+SEQUENCE:0
+SUMMARY:Homework 1 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317579
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Homework 1
+  is composed out of two parts:</span></p>\n<h1><span style="font-weight: 4
+ 00\;">Part 1: Challenge Activities</span></h1>\n<p><span style="font-weigh
+ t: 400\;">Complete the challenge activities for sections 1.1 to 1.7 (see t
+ he corresponding zyBook assignment).</span></p>\n<h1><span style="font-wei
+ ght: 400\;">Part 2: Written Homework</span></h1>\n<p><span style="font-wei
+ ght: 400\;">The numbers refer to the Exercises at the bottom of each secti
+ on of your zyBook. Complete these on paper and upload to Gradescope.</span
+ ></p>\n<ol>\n<li style="font-weight: 400\;"><span style="font-weight: 400\
+ ;">1.3.1</span></li>\n<li style="font-weight: 400\;"><span style="font-wei
+ ght: 400\;">1.3.2</span></li>\n<li style="font-weight: 400\;"><span style=
+ "font-weight: 400\;">1.4.1</span></li>\n<li style="font-weight: 400\;"><sp
+ an style="font-weight: 400\;">1.4.2</span></li>\n<li style="font-weight: 4
+ 00\;"><span style="font-weight: 400\;">1.4.3</span></li>\n<li style="font-
+ weight: 400\;"><span style="font-weight: 400\;">1.5.2</span></li>\n<li sty
+ le="font-weight: 400\;"><span style="font-weight: 400\;">1.6.2</span></li>
+ \n<li style="font-weight: 400\;"><span style="font-weight: 400\;">1.6.3</s
+ pan></li>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;"
+ >1.6.4</span></li>\n<li style="font-weight: 400\;"><span style="font-weigh
+ t: 400\;">1.7.3</span></li>\n<li style="font-weight: 400\;"><span style="f
+ ont-weight: 400\;">1.7.4</span></li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303187
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\n[Week 2 Check-in/Overview Video] (https://uci.yuja.co
+ m/V/Video?v=342407&node=1651184&a=427432334&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 2A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303187
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><iframe style="width: 640px\; height: 400px\;" title="Week2ch
+ eck" src="https://canvas.eee.uci.edu/courses/16175/external_tools/retrieve
+ ?display=borderless&amp\;url=https%3A%2F%2Fuci.yuja.com%2FLMSEntry.jsp%3Fr
+ edirectURL%3Dhttps%253A%252F%252Fuci.yuja.com%252FV%252FVideo%253Fv%253D34
+ 2407%2526a%253D427432334" width="640" height="400" allowfullscreen="allowf
+ ullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscree
+ n="mozallowfullscreen" allow="autoplay *"></iframe></p>\n<p style="text-al
+ ign: center\;"><a href="https://uci.yuja.com/V/Video?v=342407&amp\;node=16
+ 51184&amp\;a=427432334&amp\;autoplay=1">Week 2 Check-in/Overview Video</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303188
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\n[Intro to Induction and Recursion] (https://uci.yuja.
+ com/V/Video?v=249149&node=1105005&a=618594794&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 2B: Introduction to Induction and Recursion Video [ICS 6D Disc
+ rete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303188
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p style="text-align: center\;"><iframe style="width: 560px\; he
+ ight: 315px\;" title="Induction and Recursion" src="https://uci.yuja.com/V
+ /Video?v=249149&amp\;a=618594794" width="560" height="315" allowfullscreen
+ ="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowf
+ ullscreen="mozallowfullscreen"></iframe></p>\n<p style="text-align: center
+ \;"><a href="https://uci.yuja.com/V/Video?v=249149&amp\;node=1105005&amp\;
+ a=618594794&amp\;autoplay=1">Intro to Induction and Recursion</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303189
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 2C: Reading Section 8.1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303189
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303136
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nThere are 5 videos in this lecture and the total tim
+ e is ~15 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 2D: Lecture 2.1 Sequences and Recurrence Relations [ICS 6D Dis
+ crete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303136
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>There are <strong>5</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~15 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303190
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 2E: Reading Section 8.2 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303190
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303151
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~15 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 2F: Lecture 2.2 Geometric and Arithmetic Sequences [ICS 6D Dis
+ crete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303151
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~15 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303191
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 2G: Reading Section 8.3 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303191
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303164
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nThere are 3 videos in this lecture and the total tim
+ e is ~11 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 2H: Lecture 2.3 Summations [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303164
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>There are <strong>3</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~11 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303192
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 2I: Reading Section 8.4 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303192
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303137
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nThere are 6 videos in this lecture and the total 
+ time is ~43 minutes. Answer the question(s) that follow the videos and cli
+ ck "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 2J: Lecture 2.4 Mathematical Induction [ICS 6D Discrete Math f
+ ...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303137
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>There are <strong>6</strong></span><strong> videos</s
+ trong><span> in this lecture and the </span><strong>total time is ~43 mi
+ nutes</strong><span>. Answer the question(s) that follow the videos and cl
+ ick </span><strong>"Take the Survey"</strong><span> button to begin.</sp
+ an></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303193
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 2K: Reading Section 8.5 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303193
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303167
+DTSTART:20190415T170000Z
+DTEND:20190415T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~20 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 2L: Lecture 2.5 More Mathematical Induction [ICS 6D Discrete M
+ ath f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303167
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~20 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190424T194900Z
+UID:event-assignment-317583
+DTSTART:20190416T050000Z
+DTEND:20190416T050000Z
+CLASS:PUBLIC
+DESCRIPTION:To complete this lab follow the instructions in [] (https://ca
+ nvas.eee.uci.edu/courses/17266/files/5957892/download?wrap=1)[Lab1.pdf] (h
+ ttps://canvas.eee.uci.edu/courses/17266/files/5957891/download?wrap=1)\n\n
+  \n\nIf you would like to complete the lab in a MATLAB live script (mlx 
+ file that can be opened in MATLAB) that is also provided.\n\n[Lab1.mlx] (h
+ ttps://canvas.eee.uci.edu/courses/17266/files/5957892/download?wrap=1)
+SEQUENCE:0
+SUMMARY:Mat-Lab 1 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317583
+X-ALT-DESC;FMTTYPE=text/html:<p>To complete this lab follow the instruction
+ s in <a class="instructure_file_link" title="Lab1.mlx" href="https://canv
+ as.eee.uci.edu/courses/17266/files/5957892/download?wrap=1" data-api-endpo
+ int="https://canvas.eee.uci.edu/api/v1/courses/17266/files/5957892" data-a
+ pi-returntype="File"></a><a class="instructure_file_link instructure_scrib
+ d_file" title="Lab1.pdf" href="https://canvas.eee.uci.edu/courses/17266/fi
+ les/5957891/download?wrap=1" data-api-endpoint="https://canvas.eee.uci.edu
+ /api/v1/courses/17266/files/5957891" data-api-returntype="File">Lab1.pdf</
+ a></p>\n<p> </p>\n<p>If you would like to complete the lab in a MATLAB li
+ ve script (mlx file that can be opened in MATLAB) that is also provided.<
+ /p>\n<p><a class="instructure_file_link" title="Lab1.mlx" href="https://ca
+ nvas.eee.uci.edu/courses/17266/files/5957892/download?wrap=1" data-api-end
+ point="https://canvas.eee.uci.edu/api/v1/courses/17266/files/5957892" data
+ -api-returntype="File">Lab1.mlx</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303194
+DTSTART;VALUE=DATE:20190415T000000
+DTEND;VALUE=DATE:20190415T000000
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\n* Link to enter Prof. Irani's online room for Office 
+ Hours and Discussion: [Zoom] (https://zoom.us/my/sandyirani).
+SEQUENCE:0
+SUMMARY:Week 2M: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303194
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<ul>\n<li>Link to enter Prof. Irani's online room for Office Hou
+ rs and Discussion: <a href="https://zoom.us/my/sandyirani">Zoom</a>.</li>\
+ n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190420T212900Z
+UID:event-assignment-305429
+DTSTART:20190417T040000Z
+DTEND:20190417T040000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Discussion 2 - Use Cases [IN4MATX 43 LEC A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =04&year=2019#assignment_305429
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303195
+DTSTART:20190417T200000Z
+DTEND:20190417T200000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 2] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap)\n\nCovers Sections 8.1-8.5\n\nChallenge Activities\n\nTh
+ ere is nothing to turn in for the challenge activities. Just complete each
+  activity in the [zyBook] (https://learn.zybooks.com/signin) before the as
+ signment due date.\n\n* 8.1.1\n\n* 8.2.1\n\n* 8.3.1\n\n* 8.3.2\n\nWritten 
+ Homework\n\nThe numbers refer to the Exercises at the bottom of each secti
+ on of your zyBook. Complete these on paper and upload to Gradescope. Revie
+ w the guidelines for homework by going to FAQ page [here] (https://canvas.
+ eee.uci.edu/courses/16175/pages/course-information-faqs) and navigating to
+  the section on Homework. You do not have to copy the questions for any of
+  the written homework in your solutions that you turn in.\n\n* 8.1.1\n\n* 
+ 8.2.2\n\n* 8.3.2\n\n* 8.3.3\n\n* 8.4.1\n\n* 8.4.2\, parts a and b\n\n* 8.4
+ .3\, parts a and b\n\n* 8.5.1\n\n* 8.5.2
+SEQUENCE:0
+SUMMARY:Week 2N: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303195
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 2" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-2-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-2-roadmap">Back to Week 2
+ </a></p>\n<p>Covers Sections 8.1-8.5</p>\n<p><strong><span style="font-siz
+ e: 14pt\;">Challenge Activities</span></strong></p>\n<p>There is nothing t
+ o turn in for the challenge activities. Just complete each activity in the
+  <a href="https://learn.zybooks.com/signin">zyBook</a> before the assignme
+ nt due date.</p>\n<ul>\n<li>8.1.1</li>\n<li>8.2.1</li>\n<li>8.3.1</li>\n<l
+ i>8.3.2</li>\n</ul>\n<p><strong><span style="font-size: 14pt\;">Written Ho
+ mework</span></strong></p>\n<p>The numbers refer to the Exercises at the b
+ ottom of each section of your zyBook. Complete these on paper and upload t
+ o Gradescope. Review the guidelines for homework by going to FAQ page <a t
+ itle="Course Information (FAQs)" href="https://canvas.eee.uci.edu/courses/
+ 16175/pages/course-information-faqs" data-api-endpoint="https://canvas.eee
+ .uci.edu/api/v1/courses/16175/pages/course-information-faqs" data-api-retu
+ rntype="Page">here</a> and navigating to the section on Homework. You do n
+ ot have to copy the questions for any of the written homework in your solu
+ tions that you turn in.</p>\n<ol>\n<li>8.1.1</li>\n<li>8.2.2</li>\n<li>8.3
+ .2</li>\n<li>8.3.3</li>\n<li>8.4.1</li>\n<li>8.4.2\, parts a and b</li>\n<
+ li>8.4.3\, parts a and b</li>\n<li>8.5.1</li>\n<li>8.5.2</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190427T085600Z
+UID:event-assignment-317580
+DTSTART:20190420T050000Z
+DTEND:20190420T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Homework 2 is composed out of two parts:\n\n*******************
+ *********\nPart 1: Challenge Activities\n****************************\n\nC
+ omplete the challenge activities for sections 2.1 to 2.4\, and 3.1 to 3.3 
+ (see the corresponding zyBook assignment).\n\n************************\nPa
+ rt 2: Written Homework\n************************\n\nThe numbers refer to t
+ he Exercises at the bottom of each section of your zyBook. Complete these 
+ on paper and upload to Gradescope.\n\n* 2.1.2 (assume that A is a triangul
+ ar matrix)\n\n* 2.1.7\n\n* 2.2.1\n\n* 2.2.3\n\n* 2.2.4\n\n* 2.3.1\n\n* 2.3
+ .2\n\n* 2.4.2\n\n* 3.1.4 (please express your answer in degrees)\n\n* 3.2.
+ 3 (c and d only)\n\n* 3.3.3
+SEQUENCE:0
+SUMMARY:Homework 2 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317580
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Homework 2
+  is composed out of two parts:</span></p>\n<h1><span style="font-weight: 4
+ 00\;">Part 1: Challenge Activities</span></h1>\n<p><span style="font-weigh
+ t: 400\;">Complete the challenge activities for sections 2.1 to 2.4\, and 
+ 3.1 to 3.3 (see the corresponding zyBook assignment).</span></p>\n<h1><spa
+ n style="font-weight: 400\;">Part 2: Written Homework</span></h1>\n<p><spa
+ n style="font-weight: 400\;">The numbers refer to the Exercises at the bot
+ tom of each section of your zyBook. Complete these on paper and upload to 
+ Gradescope.</span></p>\n<ol>\n<li style="font-weight: 400\;"><span style="
+ font-weight: 400\;">2.1.2 (assume that A is a triangular matrix)</span></l
+ i>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;">2.1.7<
+ /span></li>\n<li style="font-weight: 400\;"><span style="font-weight: 400\
+ ;">2.2.1</span></li>\n<li style="font-weight: 400\;"><span style="font-wei
+ ght: 400\;">2.2.3</span></li>\n<li style="font-weight: 400\;"><span style=
+ "font-weight: 400\;">2.2.4</span></li>\n<li style="font-weight: 400\;"><sp
+ an style="font-weight: 400\;">2.3.1</span></li>\n<li style="font-weight: 4
+ 00\;"><span style="font-weight: 400\;">2.3.2</span></li>\n<li style="font-
+ weight: 400\;"><span style="font-weight: 400\;">2.4.2</span></li>\n<li sty
+ le="font-weight: 400\;"><span style="font-weight: 400\;">3.1.4 (please exp
+ ress your answer in degrees)</span></li>\n<li style="font-weight: 400\;"><
+ span style="font-weight: 400\;">3.2.3 (c and d only)</span></li>\n<li styl
+ e="font-weight: 400\;"><span style="font-weight: 400\;">3.3.3</span></li>\
+ n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303197
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 3B: Reading Section 8.6 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303197
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303161
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nThere are 7 videos in this lecture and the total ti
+ me is ~40 minutes. Answer the question(s) that follow the videos and click
+  "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 3C: Lecture 3.1 Strong Induction [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303161
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>There are <strong>7</strong></span><strong> videos</s
+ trong><span> in this lecture and the </span><strong>total time is ~40 minu
+ tes</strong><span>. Answer the question(s) that follow the videos and clic
+ k </span><strong>"Take the Survey"</strong><span> button to begin.</span><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303198
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 3D: Reading Sections 8.10 and 8.11 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303198
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303160
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nThere are 7 videos in this lecture and the total ti
+ me is ~30 minutes. Answer the question(s) that follow the videos and click
+  "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 3E: Lecture 3.2 Recursive Algorithms [ICS 6D Discrete Math f..
+ .]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303160
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>There are <strong>7</strong></span><strong> videos</s
+ trong><span> in this lecture and the </span><strong>total time is ~30 minu
+ tes</strong><span>. Answer the question(s) that follow the videos and clic
+ k </span><strong>"Take the Survey"</strong><span> button to begin.</span><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303199
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 3F: Reading Section 8.15 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303199
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303159
+DTSTART:20190422T170000Z
+DTEND:20190422T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nThere are 7 videos in this lecture and the total ti
+ me is ~40 minutes. Answer the question(s) that follow the videos and click
+  "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 3G: Lecture 3.3 Solving Linear Homogeneous Recurrence Relation
+ s [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303159
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p><span>There are <strong>7</strong></span><strong> videos</s
+ trong><span> in this lecture and the </span><strong>total time is ~40 minu
+ tes</strong><span>. Answer the question(s) that follow the videos and clic
+ k </span><strong>"Take the Survey"</strong><span> button to begin.</span><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303196
+DTSTART:20190422T180000Z
+DTEND:20190422T180000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\n[Week 3 Check-in/Overview Video] (https://uci.yuja.co
+ m/V/Video?v=346011&node=1667891&a=724039891&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 3A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303196
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ <iframe style="width: 640px\; height: 400px\;" title="Week3check" src="htt
+ ps://canvas.eee.uci.edu/courses/16175/external_tools/retrieve?display=bord
+ erless&amp\;url=https%3A%2F%2Fuci.yuja.com%2FLMSEntry.jsp%3FredirectURL%3D
+ https%253A%252F%252Fuci.yuja.com%252FV%252FVideo%253Fv%253D346011%2526a%25
+ 3D724039891" width="640" height="400" allowfullscreen="allowfullscreen" we
+ bkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfu
+ llscreen" allow="autoplay *"></iframe></a></p>\n<p style="text-align: cent
+ er\;"><a href="https://uci.yuja.com/V/Video?v=346011&amp\;node=1667891&amp
+ \;a=724039891&amp\;autoplay=1">Week 3 Check-in/Overview Video</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T210300Z
+UID:event-assignment-317584
+DTSTART:20190423T050000Z
+DTEND:20190423T050000Z
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.eee.uci.edu/courses/17266/files/5957
+ 884/download?wrap=1)
+SEQUENCE:0
+SUMMARY:Mat-Lab 2 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317584
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Lab2.pdf" href="https://canvas.eee.uci.edu/courses/17
+ 266/files/5957884/download?wrap=1" data-api-endpoint="https://canvas.eee.u
+ ci.edu/api/v1/courses/17266/files/5957884" data-api-returntype="File">Lab2
+ .pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303200
+DTSTART;VALUE=DATE:20190422T000000
+DTEND;VALUE=DATE:20190422T000000
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\n \n\n* Link to enter Prof. Irani's online room for O
+ ffice Hours and Discussion: [Zoom] (https://zoom.us/my/sandyirani).
+SEQUENCE:0
+SUMMARY:Week 3H: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303200
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p> </p>\n<ul>\n<li>Link to enter Prof. Irani's online room for
+  Office Hours and Discussion: <a href="https://zoom.us/my/sandyirani">Zoom
+ </a>.</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190423T163300Z
+UID:event-assignment-305406
+DTSTART:20190423T163000Z
+DTEND:20190423T163000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lecture 5: Architecture of software familiar to you [IN4MATX 43 LEC
+  A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =04&year=2019#assignment_305406
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190423T163400Z
+UID:event-assignment-305421
+DTSTART:20190423T163000Z
+DTEND:20190423T163000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lecture 5: Definition of Software Architecture  [IN4MATX 43 LEC A: 
+ INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =04&year=2019#assignment_305421
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303201
+DTSTART:20190424T200000Z
+DTEND:20190424T200000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 3] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap)\n\nCovers Sections 8.6\, 8.10\, 8.11\, 8.15\n\nChallenge
+  Activities\n\nThere are no Challenge Activities assigned this week.\n\nWr
+ itten Homework\n\nThe numbers refer to the Exercises at the bottom of each
+  section of your zyBook. Complete these on paper and upload to Gradescope.
+  Review the guidelines for homework by going to FAQ page [here] (https://
+ canvas.eee.uci.edu/courses/16175/pages/course-information-faqs) and navig
+ ating to the section on Homework. You do not have to copy the questions fo
+ r any of the written homework in your solutions that you turn in.\n\n* 8.6
+ .1\n\n* 8.6.2\, parts b and c\n\n* 8.10.1\n\n* 8.10.3\n\n* 8.10.5\n\n* 8.1
+ 0.7\n\n* 8.10.9\n\n* 8.11.1\n\n* 8.11.3\n\n* 8.11.5\n\n* 8.11.7\n\n* 8.11.
+ 9\n\n* 8.11.10\n\n* 8.15.1\n\n* 8.15.2\n\n* 8.15.3\, parts a\, c\, e\, and
+  f
+SEQUENCE:0
+SUMMARY:Week 3I: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303201
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 3" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-3-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-3-roadmap">Back to Week 3
+ </a></p>\n<p>Covers Sections 8.6\, 8.10\, 8.11\, 8.15</p>\n<p><strong><spa
+ n>Challenge Activities</span></strong></p>\n<p>There are no Challenge Acti
+ vities assigned this week.</p>\n<p><strong><span>Written Homework</span></
+ strong></p>\n<p>The numbers refer to the Exercises at the bottom of each s
+ ection of your zyBook. Complete these on paper and upload to Gradescope. R
+ eview the guidelines for homework by going to FAQ page<span> </span><a ti
+ tle="Course Information (FAQs)" href="https://canvas.eee.uci.edu/courses/1
+ 6175/pages/course-information-faqs" data-api-endpoint="https://canvas.eee.
+ uci.edu/api/v1/courses/16175/pages/course-information-faqs" data-api-retur
+ ntype="Page">here</a><span> </span>and navigating to the section on Homew
+ ork. You do not have to copy the questions for any of the written homework
+  in your solutions that you turn in.</p>\n<ol>\n<li>8.6.1</li>\n<li>8.6.2\
+ , parts b and c</li>\n<li>8.10.1</li>\n<li>8.10.3</li>\n<li>8.10.5</li>\n<
+ li>8.10.7</li>\n<li>8.10.9</li>\n<li>8.11.1</li>\n<li>8.11.3</li>\n<li>8.1
+ 1.5</li>\n<li>8.11.7</li>\n<li>8.11.9</li>\n<li>8.11.10</li>\n<li>8.15.1</
+ li>\n<li>8.15.2</li>\n<li>8.15.3\, parts a\, c\, e\, and f</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190504T000600Z
+UID:event-assignment-305437
+DTSTART;VALUE=DATE:20190425T000000
+DTEND;VALUE=DATE:20190425T000000
+CLASS:PUBLIC
+DESCRIPTION:The UCI Student Housing group wishes to develop an easy to use 
+ social app ("ZoTribe") for On Campus Housing. It lets the students living 
+ on campus easily find out who their neighbors are\, organize/attend events
+ \, post classifieds (for subleasing\, buying/selling)\, enable convenient 
+ rent/utilities bill payments\, track lost and found items\, and post emerg
+ ency alerts.\n\nThe purpose of this assignment is to learn how to write a 
+ fairly complete and precise requirements specification\, which is a critic
+ al step in developing a large software system. Completing this assignment 
+ will give you experience in one of the most interesting and difficult soft
+ ware engineering tasks.\n\nThis assignment is to write a software requirem
+ ents document for the ZoTribe system. The details of the requirements shou
+ ld be elicited by client interviews with your TA during lecture (see [Cour
+ se Schedule] (https://canvas.eee.uci.edu/courses/16427/pages/course-schedu
+ le)). He will act as customer. Your document should be based solely on the
+  information discussed in these interviews. Do not add any requirements ot
+ her than what was discussed in these interviews.\n\nThe deliverable is an 
+ electronic PDF copy due via Canvas by the due date. The following late pol
+ icy applies: Assignments turned in within 24 hours after the deadline will
+  receive a 50% penalty. No assignments will be accepted after that.\n\nWe 
+ provide a [template Word document] (https://canvas.eee.uci.edu/courses/164
+ 27/files/5864359/download?wrap=1) with which you should start (see Files s
+ ection of Canvas). Your requirements specification should contain all of t
+ he sections contained in this template. There are some student samples in 
+ the Files section of Canvas for guidance.\n\n \n\nScoring\n\nThe scoring 
+ criteria are outlined in the rubric below. Throughout the document we will
+  be looking for:\n\n* Adherence to the stated structure. Carefully follow 
+ the structure defined above.\n\n* Clarity of writing. You should write you
+ r document in clear\, precise\, business-like English prose\, avoiding jar
+ gon\, humor\, and wordiness. Correct spelling and correct grammar are esse
+ ntial. Avoid acronyms\; common ones should be defined when first used. Bul
+ leted and numbered lists can be used\, with restraint\, and not as a subst
+ itute for complete sentences and readable prose.\n\n* Fidelity to customer
+ 's desires. It is important that your document be true to the requirements
+  stated by the customer. Don't add or remove requirements without approval
+ . When in doubt\, ask the professor or TA – but only for clarification p
+ urposes (no new requirements).\n\n* Your document should address all aspec
+ t of system functionality and constraints which are important to the user.
+ \n\n* Your document will contain many detailed requirements. Careful thoug
+ ht is necessary to ensure that no subtle contradictions are introduced.\n\
+ n* State detailed requirements in a manner that facilitates determining wh
+ ether they are met in the final implementation.\n\n* Avoiding implementati
+ on bias. Focus on "what" not "how".\n\n* Modularity and separation of conc
+ erns. Try to divide each section into subsections or paragraphs which are 
+ largely independent of each other. Ideally\, each requirement or feature i
+ s discussed in its entirety in one place.
+SEQUENCE:0
+SUMMARY:Homework 1: Requirements Specification [IN4MATX 43 LEC A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =04&year=2019#assignment_305437
+X-ALT-DESC;FMTTYPE=text/html:<p><span>The UCI Student Housing group wishes 
+ to develop an easy to use social app ("ZoTribe") for On Campus Housing. It
+  lets the students living on campus easily find out who their neighbors ar
+ e\, organize/attend events\, post classifieds (for subleasing\, buying/sel
+ ling)\, enable convenient rent/utilities bill payments\, track lost and fo
+ und items\, and post emergency alerts.</span></p>\n<p>The purpose of this 
+ assignment is to learn how to write a fairly complete and precise requirem
+ ents specification\, which is a critical step in developing a large softwa
+ re system. Completing this assignment will give you experience in one of t
+ he most interesting and difficult software engineering tasks.</p>\n<p>This
+  assignment is to write a software requirements document for the ZoTribe s
+ ystem. The details of the requirements should be elicited by client interv
+ iews with your TA during lecture (see <a title="Course Schedule" href="htt
+ ps://canvas.eee.uci.edu/courses/16427/pages/course-schedule" data-api-endp
+ oint="https://canvas.eee.uci.edu/api/v1/courses/16427/pages/course-schedul
+ e" data-api-returntype="Page">Course Schedule</a>). He will act as custome
+ r. <strong>Your document should be based solely on the information discuss
+ ed in these interviews. Do not add any requirements other than what was di
+ scussed in these interviews.</strong></p>\n<p>The deliverable is an electr
+ onic PDF copy due via Canvas by the due date. The following late policy ap
+ plies: Assignments turned in within 24 hours after the deadline will recei
+ ve a 50% penalty. No assignments will be accepted after that.</p>\n<p>We p
+ rovide a <a class="instructure_file_link instructure_scribd_file" title="H
+ omework1-template.docx" href="https://canvas.eee.uci.edu/courses/16427/fil
+ es/5864359/download?wrap=1" data-api-endpoint="https://canvas.eee.uci.edu/
+ api/v1/courses/16427/files/5864359" data-api-returntype="File">template Wo
+ rd document</a> with which you should start (see Files section of Canvas).
+  Your requirements specification should contain all of the sections contai
+ ned in this template. There are some student samples in the Files section 
+ of Canvas for guidance.</p>\n<p> </p>\n<p><strong>Scoring</strong></p>\n<
+ p>The scoring criteria are outlined in the rubric below. Throughout the do
+ cument we will be looking for:</p>\n<ul>\n<li>\n<strong>Adherence to the s
+ tated structure.</strong> Carefully follow the structure defined above.</l
+ i>\n<li>\n<strong>Clarity of writing.</strong> You should write your docum
+ ent in clear\, precise\, business-like English prose\, avoiding jargon\, h
+ umor\, and wordiness. Correct spelling and correct grammar are essential. 
+ Avoid acronyms\; common ones should be defined when first used. Bulleted a
+ nd numbered lists can be used\, with restraint\, and not as a substitute f
+ or complete sentences and readable prose.</li>\n<li>\n<strong>Fidelity to 
+ customer's desires.</strong> It is important that your document be true to
+  the requirements stated by the customer. Don't add or remove requirements
+  without approval. When in doubt\, ask the professor or TA – but only fo
+ r clarification purposes (no new requirements).</li>\n<li>Your document sh
+ ould address all aspect of system functionality and constraints which are 
+ important to the user.</li>\n<li>Your document will contain many detailed 
+ requirements. Careful thought is necessary to ensure that no subtle contra
+ dictions are introduced.</li>\n<li>State detailed requirements in a manner
+  that facilitates determining whether they are met in the final implementa
+ tion.</li>\n<li>\n<strong>Avoiding implementation bias.</strong> Focus on 
+ "what" not "how".</li>\n<li>\n<strong>Modularity and separation of concern
+ s.</strong> Try to divide each section into subsections or paragraphs whic
+ h are largely independent of each other. Ideally\, each requirement or fea
+ ture is discussed in its entirety in one place.</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303171
+DTSTART:20190426T230000Z
+DTEND:20190426T230000Z
+CLASS:PUBLIC
+DESCRIPTION:Test 1 covers the material In Sections 8.1-8.6\, 8\,10\, 8.11\,
+  and 8.15 of your [zyBook] (https://learn.zybooks.com/signin). \n\nThis i
+ s also the material covered in [Week 2 Homework] (https://canvas.eee.uci.e
+ du/courses/16175/assignments/303195) and [Week 3 Homework] (https://canvas
+ .eee.uci.edu/courses/16175/assignments/303201).\n\nYour are expected to kn
+ ow basic concepts\, definitions\, and notation from the review material co
+ vered in Week 1 as it arises. However\, I will not have any test questions
+  that specifically targets the review material.
+SEQUENCE:0
+SUMMARY:Test 1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303171
+X-ALT-DESC;FMTTYPE=text/html:<p>Test 1 covers the material In Sections 8.1-
+ 8.6\, 8\,10\, 8.11\, and 8.15 of your <a href="https://learn.zybooks.com/s
+ ignin">zyBook</a>. </p>\n<p>This is also the material covered in <a title
+ ="Week 2N: Homework" href="https://canvas.eee.uci.edu/courses/16175/assign
+ ments/303195" data-api-endpoint="https://canvas.eee.uci.edu/api/v1/courses
+ /16175/assignments/303195" data-api-returntype="Assignment">Week 2 Homewor
+ k</a> and <a title="Week 3I: Homework" href="https://canvas.eee.uci.edu/co
+ urses/16175/assignments/303201" data-api-endpoint="https://canvas.eee.uci.
+ edu/api/v1/courses/16175/assignments/303201" data-api-returntype="Assignme
+ nt">Week 3 Homework</a>.</p>\n<p>Your are expected to know basic concepts\
+ , definitions\, and notation from the review material covered in Week 1 as
+  it arises. However\, I will not have any test questions that specifically
+  targets the review material.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T182000Z
+UID:event-assignment-317581
+DTSTART:20190427T050000Z
+DTEND:20190427T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Homework 3 is composed out of two parts:\n\n*******************
+ *********\nPart 1: Challenge Activities\n****************************\n\nC
+ omplete the challenge activities for sections 3.3 to 3.10\, excluding sect
+ ion 3.6 (see the corresponding zyBook assignment).\n\n********************
+ ****\nPart 2: Written Homework\n************************\n\nThe numbers re
+ fer to the Exercises at the bottom of each section of your zyBook. Complet
+ e these on paper and upload to Gradescope.\n\n* 3.4.5\n\n* 3.4.7\n\n* 3.5.
+ 4\n\n* 3.7.2\n\n* 3.7.5 (c\, d\, e)\n\n* 3.8.2 (c\, d)\n\n* 3.8.4\n\n* 3.9
+ .1 (c\, d\, e)\n\n* 3.9.4\n\n* 3.10.2 (a\, d)\n\n* 3.10.7
+SEQUENCE:0
+SUMMARY:Homework 3 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317581
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Homework 3
+  is composed out of two parts:</span></p>\n<h1><span style="font-weight: 4
+ 00\;">Part 1: Challenge Activities</span></h1>\n<p><span style="font-weigh
+ t: 400\;">Complete the challenge activities for sections 3.3 to 3.10\, exc
+ luding section 3.6 (see the corresponding zyBook assignment).</span></p>\n
+ <h1><span style="font-weight: 400\;">Part 2: Written Homework</span></h1>\
+ n<p><span style="font-weight: 400\;">The numbers refer to the Exercises at
+  the bottom of each section of your zyBook. Complete these on paper and up
+ load to Gradescope.</span></p>\n<ol>\n<li style="font-weight: 400\;"><span
+  style="font-weight: 400\;">3.4.5</span></li>\n<li style="font-weight: 400
+ \;"><span style="font-weight: 400\;">3.4.7</span></li>\n<li style="font-we
+ ight: 400\;"><span style="font-weight: 400\;">3.5.4</span></li>\n<li style
+ ="font-weight: 400\;"><span style="font-weight: 400\;">3.7.2</span></li>\n
+ <li style="font-weight: 400\;"><span style="font-weight: 400\;">3.7.5 (c\,
+  d\, e)</span></li>\n<li style="font-weight: 400\;"><span style="font-weig
+ ht: 400\;">3.8.2 (c\, d)</span></li>\n<li style="font-weight: 400\;"><span
+  style="font-weight: 400\;">3.8.4</span></li>\n<li style="font-weight: 400
+ \;"><span style="font-weight: 400\;">3.9.1 (c\, d\, e)</span></li>\n<li st
+ yle="font-weight: 400\;"><span style="font-weight: 400\;">3.9.4</span></li
+ >\n<li style="font-weight: 400\;"><span style="font-weight: 400\;">3.10.2 
+ (a\, d)</span></li>\n<li style="font-weight: 400\;"><span style="font-weig
+ ht: 400\;">3.10.7</span></li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303204
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 4C: Reading Section 9.1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303204
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303147
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 3 videos in this lecture and the total tim
+ e is ~12 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4D: Lecture 4.1 Division Algorithm [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303147
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>3</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~12 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303205
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 4E: Reading Section 9.2 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303205
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303133
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~13 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4F: Lecture 4.2 Modular Arithmetic [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303133
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~13 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303206
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 4G: Reading Section 9.3 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303206
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303127
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~16 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4H: Lecture 4.3 Prime Factorizations [ICS 6D Discrete Math f..
+ .]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303127
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>2 </strong></span><strong>videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~16 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303207
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 4I: Reading Section 9.4 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303207
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303135
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~15 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4J: Lecture 4.4 Factoring and Primality Testing [ICS 6D Discre
+ te Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303135
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~15 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303208
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 4K: Reading Section 9.5 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303208
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303148
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~16 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4L: Lecture 4.5 Euclid's Algorithm for GCD\, Part 1 [ICS 6D Di
+ screte Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303148
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~16 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303168
+DTSTART:20190429T170000Z
+DTEND:20190429T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nThere are 6 videos in this lecture and the total tim
+ e is ~23 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 4M: Lecture 4.5 Euclid's Algorithm for GCD\, Part 2 [ICS 6D Di
+ screte Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303168
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><span>There are <strong>6</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~23 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190423T202200Z
+UID:event-assignment-303202
+DTSTART:20190429T180000Z
+DTEND:20190429T180000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\n[Week 4 Check-in/Overview Video] (https://uci.yuja.co
+ m/V/Video?v=349692&node=1680892&a=1141957923&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 4A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303202
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p><iframe style="width: 640px\; height: 400px\;" title="Weeek4c
+ heck" src="https://canvas.eee.uci.edu/courses/16175/external_tools/retriev
+ e?display=borderless&amp\;url=https%3A%2F%2Fuci.yuja.com%2FLMSEntry.jsp%3F
+ redirectURL%3Dhttps%253A%252F%252Fuci.yuja.com%252FV%252FVideo%253Fv%253D3
+ 49692%2526a%253D1141957923" width="640" height="400" allowfullscreen="allo
+ wfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscr
+ een="mozallowfullscreen" allow="autoplay *"></iframe></p>\n<p><a href="htt
+ ps://uci.yuja.com/V/Video?v=349692&amp\;node=1680892&amp\;a=1141957923&amp
+ \;autoplay=1">Week 4 Check-in/Overview Video</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303203
+DTSTART:20190429T180000Z
+DTEND:20190429T180000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\n[Introduction to Number Theory and Cryptography] (htt
+ ps://uci.yuja.com/V/Video?v=249150&node=1105006&a=540747881&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 4B: Introduction to Number Theory and Cryptography Video [ICS 
+ 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303203
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p style="text-align: center\;"><iframe style="width: 640px\; he
+ ight: 400px\;" title="Number Theory" src="https://canvas.eee.uci.edu/cours
+ es/16175/external_tools/retrieve?display=borderless&amp\;url=https%3A%2F%2
+ Fuci.yuja.com%2FLMSEntry.jsp%3FredirectURL%3Dhttps%253A%252F%252Fuci.yuja.
+ com%252FV%252FVideo%253Fv%253D249150%2526a%253D540747881" width="640" heig
+ ht="400" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkital
+ lowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>\n<p s
+ tyle="text-align: center\;"><a href="https://uci.yuja.com/V/Video?v=249150
+ &amp\;node=1105006&amp\;a=540747881&amp\;autoplay=1">Introduction to Numbe
+ r Theory and Cryptography</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190430T044900Z
+UID:event-assignment-317585
+DTSTART:20190430T050000Z
+DTEND:20190430T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Mlx file: [Lab3.mlx] (https://canvas.eee.uci.edu/courses/17266/
+ files/6170174/download?wrap=1)[] (https://canvas.eee.uci.edu/courses/17266
+ /files/5957880/download?wrap=1)\n\nComplete the lab in the attached MLX fi
+ le. Your submission must be a PDF.
+SEQUENCE:0
+SUMMARY:Lab 3 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =04&year=2019#assignment_317585
+X-ALT-DESC;FMTTYPE=text/html:<p>Mlx file: <a class="instructure_file_link" 
+ title="Lab3.mlx" href="https://canvas.eee.uci.edu/courses/17266/files/6170
+ 174/download?wrap=1" data-api-endpoint="https://canvas.eee.uci.edu/api/v1/
+ courses/17266/files/6170174" data-api-returntype="File">Lab3.mlx</a><a cla
+ ss="instructure_file_link instructure_scribd_file" title="Lab3.pdf" href="
+ https://canvas.eee.uci.edu/courses/17266/files/5957880/download?wrap=1" da
+ ta-api-endpoint="https://canvas.eee.uci.edu/api/v1/courses/17266/files/595
+ 7880" data-api-returntype="File"></a></p>\n<p>Complete the lab in the atta
+ ched MLX file. Your submission must be a PDF.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303209
+DTSTART;VALUE=DATE:20190429T000000
+DTEND;VALUE=DATE:20190429T000000
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\n* Link to enter Prof. Irani's online room for Office 
+ Hours and Discussion: [Zoom] (https://zoom.us/my/sandyirani).\n\n 
+SEQUENCE:0
+SUMMARY:Week 4N: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =04&year=2019#assignment_303209
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<ul>\n<li>Link to enter Prof. Irani's online room for Office Hou
+ rs and Discussion: <a href="https://zoom.us/my/sandyirani">Zoom</a>.</li>\
+ n</ul>\n<p> </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190430T161600Z
+UID:event-assignment-305413
+DTSTART:20190430T150000Z
+DTEND:20190430T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Read the assigned readings linked below and then take this quiz
+ . This is a for-credit quiz\, and correctness matters--only correct answer
+ s will get credit.\n\nhttps://docs.oracle.com/javase/tutorial/java/concept
+ s/object.html\n\nhttps://docs.oracle.com/javase/tutorial/java/concepts/cla
+ ss.html\n\nhttps://docs.oracle.com/javase/tutorial/java/concepts/inheritan
+ ce.html\n\n[https://www.ibm.com/developerworks/rational/library/content/Ra
+ tionalEdge/sep04/bell/index.html ] (https://www.ibm.com/developerworks/ra
+ tional/library/content/RationalEdge/sep04/bell/index.html)(stop before the
+  "UML 2 additions" section)
+SEQUENCE:0
+SUMMARY:OO Design and UML Class Diagrams Quiz [IN4MATX 43 LEC A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =04&year=2019#assignment_305413
+X-ALT-DESC;FMTTYPE=text/html:<p>Read the assigned readings linked below and
+  then take this quiz. This is a for-credit quiz\, and correctness matters-
+ -only correct answers will get credit.</p>\n<p><span><a href="https://docs
+ .oracle.com/javase/tutorial/java/concepts/object.html">https://docs.oracle
+ .com/javase/tutorial/java/concepts/object.html</a></span></p>\n<p><span><a
+  href="https://docs.oracle.com/javase/tutorial/java/concepts/class.html">h
+ ttps://docs.oracle.com/javase/tutorial/java/concepts/class.html</a></span>
+ </p>\n<p><span><a href="https://docs.oracle.com/javase/tutorial/java/conce
+ pts/inheritance.html">https://docs.oracle.com/javase/tutorial/java/concept
+ s/inheritance.html</a></span></p>\n<p><span><a href="https://www.ibm.com/d
+ eveloperworks/rational/library/content/RationalEdge/sep04/bell/index.html"
+ >https://www.ibm.com/developerworks/rational/library/content/RationalEdge/
+ sep04/bell/index.html </a></span><span>(stop before the "UML 2 additions"
+  section)</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190423T203600Z
+UID:event-assignment-303210
+DTSTART:20190501T200000Z
+DTEND:20190501T200000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 4] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap)\n\nCovers Sections 9.1-9.5\n\nChallenge Activities\n\nTh
+ ere is nothing to turn in for the challenge activities. Just complete each
+  activity in the [zyBook] (https://learn.zybooks.com/signin) before the as
+ signment due date.\n\n* 9.1.1\n\n* 9.2.1\n\n* 9.3.1\n\n* 9.5.1\n\nWritten 
+ Homework\n\nThe numbers refer to the Exercises at the bottom of each secti
+ on of your zyBook. Complete these on paper and upload to Gradescope. Revie
+ w the guidelines for homework by going to FAQ page [here] (https://canvas.
+ eee.uci.edu/courses/16175/pages/course-information-faqs) and navigating to
+  the section on Homework. You do not have to copy the questions for any of
+  the written homework in your solutions that you turn in.\n\n* 9.1.1\n\n* 
+ 9.2.1\n\n* 9.2.2\n\n* 9.2.4\n\n* 9.3.1 parts a\, c\, e\, g\, i\, k\n\n* 9.
+ 3.2\n\n* 9.4.1\n\n* 9.5.1\, parts a\, c\, and e\n\n* 9.5.2\, parts c\, d\,
+  e\, and f
+SEQUENCE:0
+SUMMARY:Week 4O: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303210
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 4" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-4-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-4-roadmap">Back to Week 4
+ </a></p>\n<p>Covers Sections 9.1-9.5</p>\n<p><strong><span style="font-siz
+ e: 14pt\;">Challenge Activities</span></strong></p>\n<p>There is nothing t
+ o turn in for the challenge activities. Just complete each activity in the
+  <a href="https://learn.zybooks.com/signin">zyBook</a> before the assignme
+ nt due date.</p>\n<ul>\n<li>9.1.1</li>\n<li>9.2.1</li>\n<li>9.3.1</li>\n<l
+ i>9.5.1</li>\n</ul>\n<p><strong><span style="font-size: 14pt\;">Written Ho
+ mework</span></strong></p>\n<p>The numbers refer to the Exercises at the b
+ ottom of each section of your zyBook. Complete these on paper and upload t
+ o Gradescope. Review the guidelines for homework by going to FAQ page <a t
+ itle="Course Information (FAQs)" href="https://canvas.eee.uci.edu/courses/
+ 16175/pages/course-information-faqs" data-api-endpoint="https://canvas.eee
+ .uci.edu/api/v1/courses/16175/pages/course-information-faqs" data-api-retu
+ rntype="Page">here</a> and navigating to the section on Homework. You do n
+ ot have to copy the questions for any of the written homework in your solu
+ tions that you turn in.</p>\n<ol>\n<li>9.1.1</li>\n<li><span>9.2.1</span><
+ /li>\n<li><span>9.2.2</span></li>\n<li><span>9.2.4</span></li>\n<li><span>
+ 9.3.1 parts a\, c\, e\, g\, i\, k</span></li>\n<li><span>9.3.2</span></li>
+ \n<li><span>9.4.1</span></li>\n<li><span>9.5.1\, parts a\, c\, and e</span
+ ></li>\n<li><span>9.5.2\, parts c\, d\, e\, and f</span></li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T062900Z
+UID:event-assignment-305439
+DTSTART;VALUE=DATE:20190502T000000
+DTEND;VALUE=DATE:20190502T000000
+CLASS:PUBLIC
+DESCRIPTION:Homework 2 will introduce you to the concepts and software behi
+ nd version control\, using the example of Git.\n\nThe assignment consists 
+ of several parts.\n\n \n\nPart A\n\nPart A focuses on installing Git and 
+ becoming familiar with its basic concepts and commands.\n\nThere's no ques
+ tion that installing software can be tricky. If you run into problems\, fi
+ rst Google them. If that doesn’t help\, post them on Piazza with as much
+  detail as possible\, and help will soon be on the way.\n\n \n\n* Read [P
+ ro Git] (http://www.git-scm.com/book/en/)\, (http://www.git-scm.com/book/e
+ n/) by Scott Chacon. Read all of chapter 1 except 1.5 and 1.6. Read sectio
+ ns 2.1-2.4 of chapter 2.\n\n \n\n* Choose how you will use Git:\n\n* Inst
+ all Git on your Windows computer. Download the installer from http://git-s
+ cm.com/downloads and run it. For the rest of the homework\, use the Git Ba
+ sh option (aka the Git Bash shell)\, not the Git GUI option. All your Git 
+ commands are entered in the "Git Bash" window\, and all output will appear
+  there.\n\n* Install Git on your Mac computer. Download the installer from
+  http://git-scm.com/downloads and run it. For the rest of the homework\, a
+ ccess git through Terminal.\n\n* SSH (for example\, using [PuTTY] (http://
+ www.putty.org/) (http://www.putty.org/)) to openlab.ics.uci.edu to remotel
+ y access Git on the computer lab's Linux environment.\n\n* Go to the ICS c
+ omputer lab. The Linux machines should have Git installed.\n\n \n\n* Note
+ : Bash and Terminal (on a Mac) are examples of a "shell"\, a Unix concept 
+ that has proved quite durable. In a shell (or command prompt window) you c
+ an enter commands which cause actions\, such as listing\, creating\, and d
+ eleting files. Some useful commands that work in the Git Bash shell and in
+  Terminal:\n\n* cd (change directory)\n\n* pwd (print working directory)\n
+ \n* ls -al (list all\, one per line)\n\n \n\n* Run the command git help\,
+  and take a screen print showing the results. (On a Windows machine\, use 
+ Alt-PrintScreen to put the active window image in the clip board. On a Mac
+ \, see http://graphicssoft.about.com/od/screencapturemac/ht/macscreenshot.
+ htm). Paste the screen print into a Word file\n\n \n\n* GitHub is a widel
+ y used location to store git repositories. You'll probably need a GitHub l
+ ogin name in your later courses or in your software engineering career. If
+  you don't have an account on GitHub.com\, create one at https://github.co
+ m/. Put your GitHub username at the top of the Word file from the previous
+  step. Do not forget this step! You will lose points if you do!\n\n \n\n*
+  Upload your Word file to Canvas by the deadline
+SEQUENCE:0
+SUMMARY:Homework 2A: Version Control with Git\, part A [IN4MATX 43 LEC A: I
+ NTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =05&year=2019#assignment_305439
+X-ALT-DESC;FMTTYPE=text/html:<p>Homework 2 will introduce you to the concep
+ ts and software behind version control\, using the example of Git.</p>\n<p
+ >The assignment consists of several parts.</p>\n<p> </p>\n<p><strong>Part
+  A</strong></p>\n<p>Part A focuses on installing Git and becoming familiar
+  with its basic concepts and commands.</p>\n<p><em>There's no question tha
+ t installing software can be tricky. If you run into problems\, first Goog
+ le them. If that doesn’t help\, post them on Piazza with as much detail 
+ as possible\, and help will soon be on the way.</em></p>\n<p> </p>\n<ol>\
+ n<li>Read <a href="http://www.git-scm.com/book/en/">Pro Git</a>\, (<a href
+ ="http://www.git-scm.com/book/en/)">http://www.git-scm.com/book/en/)</a> b
+ y Scott Chacon. Read all of chapter 1 except 1.5 and 1.6. Read sections 2.
+ 1-2.4 of chapter 2.</li>\n</ol>\n<p> </p>\n<ol start="2">\n<li>Choose how
+  you will use Git:\n<ul>\n<li>Install Git on your Windows computer. Downlo
+ ad the installer from http://git-scm.com/downloads and run it. For the res
+ t of the homework\, use the Git Bash option (aka the Git Bash shell)\, not
+  the Git GUI option. All your Git commands are entered in the "Git Bash" w
+ indow\, and all output will appear there.</li>\n<li>Install Git on your Ma
+ c computer. Download the installer from http://git-scm.com/downloads and r
+ un it. For the rest of the homework\, access git through Terminal.</li>\n<
+ li>SSH (for example\, using <a href="http://www.putty.org/">PuTTY</a> (htt
+ p://www.putty.org/)) to openlab.ics.uci.edu to remotely access Git on the 
+ computer lab's Linux environment.</li>\n<li>Go to the ICS computer lab. Th
+ e Linux machines should have Git installed.</li>\n</ul>\n</li>\n</ol>\n<p>
+  </p>\n<ol start="3">\n<li>Note: Bash and Terminal (on a Mac) are example
+ s of a "shell"\, a Unix concept that has proved quite durable. In a shell 
+ (or command prompt window) you can enter commands which cause actions\, su
+ ch as listing\, creating\, and deleting files. Some useful commands that w
+ ork in the Git Bash shell and in Terminal:\n<ul>\n<li>cd <em>(change direc
+ tory)</em>\n</li>\n<li>pwd <em>(print working directory)</em>\n</li>\n<li>
+ ls -al <em>(list all\, one per line)</em>\n</li>\n</ul>\n</li>\n</ol>\n<p>
+  </p>\n<ol start="4">\n<li>Run the command <strong>git help</strong>\, an
+ d take a screen print showing the results. (On a Windows machine\, use Alt
+ -PrintScreen to put the active window image in the clip board. On a Mac\, 
+ see http://graphicssoft.about.com/od/screencapturemac/ht/macscreenshot.htm
+ ). Paste the screen print into a Word file</li>\n</ol>\n<p> </p>\n<ol sta
+ rt="5">\n<li>GitHub is a widely used location to store git repositories. Y
+ ou'll probably need a GitHub login name in your later courses or in your s
+ oftware engineering career. If you don't have an account on GitHub.com\, c
+ reate one at <a href="https://github.com/">https://github.com/</a>. Put yo
+ ur GitHub username at the top of the Word file from the previous step. <st
+ rong>Do not forget this step! You will lose points if you do!</strong>\n</
+ li>\n</ol>\n<p> </p>\n<ol start="6">\n<li>Upload your Word file to Canvas
+  by the deadline</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T182000Z
+UID:event-assignment-317582
+DTSTART:20190504T050000Z
+DTEND:20190504T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Homework 4 is composed out of two parts:\n\n*******************
+ *********\nPart 1: Challenge Activities\n****************************\n\nC
+ omplete the challenge activities for sections 4.1-4.7 (see the correspondi
+ ng zyBook assignment).\n\n************************\nPart 2: Written Homewo
+ rk\n************************\n\nThe numbers refer to the Exercises at the 
+ bottom of each section of your zyBook. Complete these on paper and upload 
+ to Gradescope.\n\n* 4.1.4\n\n* 4.2.1\n\n* 4.2.2 (a\, b\, d)\n\n* 4.2.5\n\n
+ * 4.3.2\n\n* 4.3.3\n\n* 4.4.2\n\n* 4.5.2\n\n* 4.6.2\n\n* 4.7.3 (a\, b)\n\n
+ * 4.7.4
+SEQUENCE:0
+SUMMARY:Homework 4 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =05&year=2019#assignment_317582
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Homework 4
+  is composed out of two parts:</span></p>\n<h1><span style="font-weight: 4
+ 00\;">Part 1: Challenge Activities</span></h1>\n<p><span style="font-weigh
+ t: 400\;">Complete the challenge activities for sections 4.1-4.7 (see the 
+ corresponding zyBook assignment).</span></p>\n<h1><span style="font-weight
+ : 400\;">Part 2: Written Homework</span></h1>\n<p><span style="font-weight
+ : 400\;">The numbers refer to the Exercises at the bottom of each section 
+ of your zyBook. Complete these on paper and upload to Gradescope.</span></
+ p>\n<ol>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;">
+ 4.1.4</span></li>\n<li style="font-weight: 400\;"><span style="font-weight
+ : 400\;">4.2.1</span></li>\n<li style="font-weight: 400\;"><span style="fo
+ nt-weight: 400\;">4.2.2 (a\, b\, d)</span></li>\n<li style="font-weight: 4
+ 00\;"><span style="font-weight: 400\;">4.2.5</span></li>\n<li style="font-
+ weight: 400\;"><span style="font-weight: 400\;">4.3.2</span></li>\n<li sty
+ le="font-weight: 400\;"><span style="font-weight: 400\;">4.3.3</span></li>
+ \n<li style="font-weight: 400\;"><span style="font-weight: 400\;">4.4.2</s
+ pan></li>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;"
+ >4.5.2</span></li>\n<li style="font-weight: 400\;"><span style="font-weigh
+ t: 400\;">4.6.2</span></li>\n<li style="font-weight: 400\;"><span style="f
+ ont-weight: 400\;">4.7.3 (a\, b)</span></li>\n<li style="font-weight: 400\
+ ;"><span style="font-weight: 400\;">4.7.4</span></li>\n</ol>\n<p><br><br><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303134
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nThere are 6 videos in this lecture and the total tim
+ e is ~24 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:   Week 5D: Lecture 5.2 Number Representation\, Part 2 [ICS 6D Disc
+ rete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303134
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>There are <strong>6</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~24 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303212
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 5B: Reading Section 9.6 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303212
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303157
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~11 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 5C: Lecture 5.1 Number Representation\, Part 1 [ICS 6D Discret
+ e Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303157
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~11 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303145
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nThere are 2 videos in this lecture and the total tim
+ e is ~12 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 5F: Lecture 5.3 Fast Exponentation [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303145
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>There are <strong>2</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~12 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303149
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~11 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 5H: Lecture 5.4 Intro to Cryptography [ICS 6D Discrete Math f.
+ ..]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303149
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~11 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303215
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nDo all participation activities in assigned sections 
+ in the [ICS 6D zyBook.] (https://learn.zybooks.com/signin)
+SEQUENCE:0
+SUMMARY:Week 5I: Reading Section 9.9 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303215
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>Do all participation activities in assigned sections in
+  the <a class="external" href="https://learn.zybooks.com/signin" target="_
+ blank">ICS 6D zyBook.</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303144
+DTSTART:20190506T170000Z
+DTEND:20190506T170000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nThere are 4 videos in this lecture and the total tim
+ e is ~22 minutes. Answer the question(s) that follow the videos and click 
+ "Take the Survey" button to begin.
+SEQUENCE:0
+SUMMARY:Week 5J: Lecture 5.5 The RSA Cryptosystem [ICS 6D Discrete Math f..
+ .]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303144
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><span>There are <strong>4</strong></span><strong> videos</st
+ rong><span> in this lecture and the </span><strong>total time is ~22 minut
+ es</strong><span>. Answer the question(s) that follow the videos and click
+  </span><strong>"Take the Survey"</strong><span> button to begin.</span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190430T185900Z
+UID:event-assignment-303211
+DTSTART:20190506T180000Z
+DTEND:20190506T180000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\n[Week 5 Check-in/Overview Video] (https://uci.yuja.co
+ m/V/Video?v=354117&node=1694621&a=1678660186&autoplay=1)
+SEQUENCE:0
+SUMMARY:Week 5A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303211
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p><iframe style="width: 640px\; height: 400px\;" title="Week5ch
+ eck" src="https://canvas.eee.uci.edu/courses/16175/external_tools/retrieve
+ ?display=borderless&amp\;url=https%3A%2F%2Fuci.yuja.com%2FLMSEntry.jsp%3Fr
+ edirectURL%3Dhttps%253A%252F%252Fuci.yuja.com%252FV%252FVideo%253Fv%253D35
+ 4117%2526a%253D1678660186" width="640" height="400" allowfullscreen="allow
+ fullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscre
+ en="mozallowfullscreen" allow="autoplay *"></iframe></p>\n<p style="text-a
+ lign: center\;"><a href="https://uci.yuja.com/V/Video?v=354117&amp\;node=1
+ 694621&amp\;a=1678660186&amp\;autoplay=1">Week 5 Check-in/Overview Video</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190430T190200Z
+UID:event-assignment-303217
+DTSTART:20190508T200000Z
+DTEND:20190508T200000Z
+CLASS:PUBLIC
+DESCRIPTION:[Back to Week 5] (https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap)\n\nCovers Sections 9.6-9.9\n\nChallenge Activities\n\nTh
+ ere is nothing to turn in for the challenge activities. Just complete each
+  activity in the [zyBook (Links to an external site.)Links to an externa
+ l site.] (https://learn.zybooks.com/signin) before the assignment due dat
+ e.\n\n* 9.6.1\n\n* 9.6.2\n\n* 9.7.1\n\nWritten Homework\n\nThe numbers ref
+ er to the Exercises at the bottom of each section of your zyBook. Complete
+  these on paper and upload to Gradescope. Review the guidelines for homewo
+ rk by going to FAQ page [here] (https://canvas.eee.uci.edu/courses/16175/
+ pages/course-information-faqs) and navigating to the section on Homework.
+  You do not have to copy the questions for any of the written homework in 
+ your solutions that you turn in.\n\n* 9.6.1\, Parts b\, d\, and f\n\n* 9.6
+ .2\, Parts b\, d\, and f\n\n* 9.6.3\n\n* 9.6.4\n\n* 9.6.6\n\n* 9.7.2\, Par
+ ts b\, d\, and e\n\n* 9.8.2\n\n* 9.9.1\n\n* 9.9.2
+SEQUENCE:0
+SUMMARY:Week 5L: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303217
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn btn-primary icon-arrow-left" 
+ title="Back to Week 5" href="https://canvas.eee.uci.edu/courses/16175/page
+ s/week-5-roadmap" data-api-returntype="Page" data-api-endpoint="https://ca
+ nvas.eee.uci.edu/api/v1/courses/16175/pages/week-5-roadmap">Back to Week 5
+ </a></p>\n<p>Covers Sections 9.6-9.9</p>\n<p><strong><span>Challenge Activ
+ ities</span></strong></p>\n<p>There is nothing to turn in for the challeng
+ e activities. Just complete each activity in the<span> </span><a class="e
+ xternal" href="https://learn.zybooks.com/signin" target="_blank"><span>zyB
+ ook<span class="screenreader-only"> (Links to an external site.)</span></
+ span><span class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to 
+ an external site."><span class="screenreader-only">Links to an external si
+ te.</span></span></a><span> </span>before the assignment due date.</p>\n<
+ ul>\n<li>9.6.1</li>\n<li>9.6.2</li>\n<li>9.7.1</li>\n</ul>\n<p><strong><sp
+ an>Written Homework</span></strong></p>\n<p>The numbers refer to the Exerc
+ ises at the bottom of each section of your zyBook. Complete these on paper
+  and upload to Gradescope. Review the guidelines for homework by going to 
+ FAQ page<span> </span><a title="Course Information (FAQs)" href="https://
+ canvas.eee.uci.edu/courses/16175/pages/course-information-faqs" data-api-e
+ ndpoint="https://canvas.eee.uci.edu/api/v1/courses/16175/pages/course-info
+ rmation-faqs" data-api-returntype="Page">here</a><span> </span>and naviga
+ ting to the section on Homework. You do not have to copy the questions for
+  any of the written homework in your solutions that you turn in.</p>\n<ol>
+ \n<li>9.6.1\, Parts b\, d\, and f</li>\n<li>9.6.2\, Parts b\, d\, and f</l
+ i>\n<li>9.6.3</li>\n<li><span>9.6.4</span></li>\n<li><span>9.6.6</span></l
+ i>\n<li><span>9.7.2\, Parts b\, d\, and e</span></li>\n<li><span>9.8.2</sp
+ an></li>\n<li><span>9.9.1</span></li>\n<li>\n<span>9.9.2</span><span></spa
+ n>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T163000Z
+UID:event-assignment-305425
+DTSTART:20190509T150000Z
+DTEND:20190509T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Please complete this very simple "start-stop-keep" survey to he
+ lp make your learning experience\, and those of future Inf 43 students\, m
+ ore effective!
+SEQUENCE:0
+SUMMARY:Mid-quarter evaluative feedback [IN4MATX 43 LEC A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =05&year=2019#assignment_305425
+X-ALT-DESC;FMTTYPE=text/html:<p>Please complete this very simple "start-sto
+ p-keep" survey to help make your learning experience\, and those of future
+  Inf 43 students\, more effective!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303172
+DTSTART:20190510T230000Z
+DTEND:20190510T230000Z
+CLASS:PUBLIC
+DESCRIPTION:Test 2 covers the material in Chapter 9 of your [zyBook] (http
+ s://learn.zybooks.com/signin). \n\nThis is also the material covered in 
+ [Week 4 Homework] (https://canvas.eee.uci.edu/courses/16175/assignments/30
+ 3210) and [Week 5 Homework] (https://canvas.eee.uci.edu/courses/16175/as
+ signments/303217).
+SEQUENCE:0
+SUMMARY:Test 2 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303172
+X-ALT-DESC;FMTTYPE=text/html:<p>Test 2 covers the material in Chapter 9 of 
+ your<span> </span><a class="external" href="https://learn.zybooks.com/sig
+ nin" target="_blank"><span>zyBook<span class="screenreader-only"></span></
+ span></a>. </p>\n<p>This is also the material covered in<span> </span><a
+  title="Week 4N: Homework" href="https://canvas.eee.uci.edu/courses/16175/
+ assignments/303210" data-api-endpoint="https://canvas.eee.uci.edu/api/v1/c
+ ourses/16175/assignments/303210" data-api-returntype="Assignment">Week 4 H
+ omework</a><span> </span>and<span> </span><a title="Week 5L: Homework" h
+ ref="https://canvas.eee.uci.edu/courses/16175/assignments/303217" data-api
+ -endpoint="https://canvas.eee.uci.edu/api/v1/courses/16175/assignments/303
+ 217" data-api-returntype="Assignment">Week 5 Homework</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190504T010000Z
+UID:event-assignment-331168
+DTSTART:20190511T050000Z
+DTEND:20190511T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Homework 5 is composed out of two parts:\n\n*******************
+ *********\nPart 1: Challenge Activities\n****************************\n\nC
+ omplete the challenge activities for sections 5.2-5.5 (see the correspondi
+ ng zyBook assignment).\n\n************************\nPart 2: Written Homewo
+ rk\n************************\n\nThe numbers refer to the Exercises at the 
+ bottom of each section of your zyBook. Complete these on paper and upload 
+ to Gradescope.\n\n* 5.1.6\n\n* 5.2.2\n\n* 5.2.3\n\n* 5.3.2 (c)\n\n* 5.4.2\
+ n\n* 5.4.3\n\n* 5.4.5\n\n* 5.5.2\n\n* 5.5.5\n\n 
+SEQUENCE:0
+SUMMARY:Homework 5 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =05&year=2019#assignment_331168
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Homework 5
+  is composed out of two parts:</span></p>\n<h1><span style="font-weight: 4
+ 00\;">Part 1: Challenge Activities</span></h1>\n<p><span style="font-weigh
+ t: 400\;">Complete the challenge activities for sections 5.2-5.5 (see the 
+ corresponding zyBook assignment).</span></p>\n<h1><span style="font-weight
+ : 400\;">Part 2: Written Homework</span></h1>\n<p><span style="font-weight
+ : 400\;">The numbers refer to the Exercises at the bottom of each section 
+ of your zyBook. Complete these on paper and upload to Gradescope.</span></
+ p>\n<ol>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;">
+ 5.1.6</span></li>\n<li style="font-weight: 400\;"><span style="font-weight
+ : 400\;">5.2.2</span></li>\n<li style="font-weight: 400\;"><span style="fo
+ nt-weight: 400\;">5.2.3</span></li>\n<li style="font-weight: 400\;"><span 
+ style="font-weight: 400\;">5.3.2 (c)</span></li>\n<li style="font-weight: 
+ 400\;"><span style="font-weight: 400\;">5.4.2</span></li>\n<li style="font
+ -weight: 400\;"><span style="font-weight: 400\;">5.4.3</span></li>\n<li st
+ yle="font-weight: 400\;"><span style="font-weight: 400\;">5.4.5</span></li
+ >\n<li style="font-weight: 400\;"><span style="font-weight: 400\;">5.5.2</
+ span></li>\n<li style="font-weight: 400\;"><span style="font-weight: 400\;
+ ">5.5.5</span></li>\n</ol>\n<p> </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T193000Z
+UID:event-assignment-305440
+DTSTART;VALUE=DATE:20190510T000000
+DTEND;VALUE=DATE:20190510T000000
+CLASS:PUBLIC
+DESCRIPTION:In Part B you will create a local repository and perform basic 
+ operations on it.\n\n \n\n* Create (somewhere on your computer) a new emp
+ ty folder named Inf43Hw3. In that folder\, create a plain text file with y
+ our name and student ID # on a single line. Don't use MS Word for this\, u
+ se a text editor\, for example Notepad or TextEdit (you may need to choose
+  Plain Text under Format or Preferences). Save the file as file1.txt.\n\n
+  \n\n* In your Git shell\, navigate to Inf43Hw3. Use the cd command to ch
+ ange your current folder/directory (Google it if you don’t know). Note t
+ hat the Windows Git Bash shell follows Unix/Linux shell conventions so if 
+ you're on Windows\, you still need to use Linux-style paths with forward s
+ lashes (e.g.\, c:\\my_folder\\my_subfolder would be /c/my_folder/my_subfol
+ der). Linux commands like ls\, pwd\, and grep should all work in the Git B
+ ash shell.\n\n \n\n* Note: At this point you may find that Git wants you 
+ to tell it your name and email address. You can do this with two commands 
+ like these:\n\n* git config --global user.name "Peter Anteater"\n\n* git c
+ onfig --global user.email "panteat@uci.edu"\n\n* To look at all your confi
+ guration information: git config --global -l\n\n \n\n* Create a local Git
+  repo by running the command git init.\n\n \n\n* Run git status. Note tha
+ t file1.txt is listed as untracked. We want Git to track it\, so run git a
+ dd file1.txt. When you "add" a file you are telling Git to keep track of i
+ t. "add" also tells Git to stage the file\, which means put it in the stag
+ e of being ready to be committed.\n\n \n\n* Run git status Note that file
+ 1.txt is now listed as a file to be committed (i.e.\, it's staged).\n\n \
+ n\n* Let's commit file1.txt to our repository. Run git commit -m "Committi
+ ng a new file with my name". When you "commit\,"\, you in effect copy all 
+ staged files to the repository. The "-m" is a flag (that's what the hyphen
+  indicates) which tells Git that the following string is a message to reco
+ rd with the commit.\n\n \n\n* Run git log. This will display the history 
+ of changes made to the repository. The one and only entry will be for the 
+ commit of file1.txt you just did.\n\n \n\n* Edit file1.txt and change the
+  spelling of your name to something incorrect. Save file1.txt with the err
+ or. (This small error stands in for a long complex series of edits that yo
+ u want to undo.)\n\n \n\n* Run git reset --hard. "reset --hard" removes a
+ ll uncommitted changes\, so all files in the repo will return to their con
+ tents as of the latest commit. There are many ways to undo changes in git\
+ , and "reset --hard" is generally considered to be dangerous. Look at file
+ 1.txt and observe the effect of reset --hard.\n\n \n\n* Edit file1.txt to
+  remove your student ID# and include the name of your major\, and save the
+  file.\n\n \n\n* Commit with git commit -m "Now has my major". This doesn
+ 't work. Git tells you there are "changes not staged for commit".\n\n \n\
+ n* Try again with git commit -a -m "Now has my major". The power of the "-
+ a" flag is that it tells git to automatically stage all tracked\, modified
+  files before the commit.\n\n \n\n* You can also explicitly stage a file.
+  Add the name of your favorite restaurant and favorite movie to to file1.t
+ xt\, save it\, and run git stage file1.txt. Now run git commit -m "Added f
+ avorite restaurant" to commit. "git stage" is really just another name for
+  "git add".\n\n \n\n* You set the commit message to "Added favorite resta
+ urant"\, but the file also includes your favorite movie\, so maybe we shou
+ ld have included that in our commit message. Amend your commit message wit
+ h git commit --amend -m "Added favorite restaurant and movie".\n\n \n\n* 
+ Run git log to make sure you have successfully changed history.\n\n \n\n*
+  You removed your student ID# a few steps back. Let that edit stand in for
+  deleting\, a few months ago\, a block of code that you now want to examin
+ e. git will help you go back in time. Note that each commit has long\, see
+ mingly random\, string of hexadecimal digits associated with it. This is c
+ alled a "hash" and is a unique identifier for the commit. Find the hash as
+ sociated with the “Committing a new file with my name“ commit. Run git
+  checkout xxxx\, replacing xxxx with the first four digits/characters from
+  that hash (thankfully typing in the entire hash is not required). You wil
+ l see a frightening message about a detached HEAD.\n\n \n\n* git can keep
+  track of separate\, parallel\, streams of edits to a project. Each stream
+  of edits is called a branch\, and a branch can have a name. For instance\
+ , multiple programmers who are working on and commiting changes to the sam
+ e file will probably establish different branches. HEAD is git-ese for the
+  current (not necessarily the last) commit in the current branch. Since we
+ 've gone back in time and are potentially (but haven't yet) starting a new
+  branch\, HEAD is "detached" (from any established\, named branch). Ouch!\
+ n\n \n\n* Take a look at file1.txt and note the later-deleted Student ID#
+ . Now to return to the present: git checkout master. "master" is the name 
+ of the default branch created when the repository was made. Look at file1.
+ txt again. Run git log again and you'll see it has the same three commits.
+ \n\n \n\n* Create a new text file called file2.txt that contains your exp
+ ected graduation year and first job title on a single line.\n\n \n\n* Sta
+ ge file2.txt\, and then commit it with a useful message.\n\n \n\n* Run gi
+ t log. Notice that you see log entries for both commits that you've perfor
+ med.\n\n \n\n* Run git log file2.txt. Notice that you only see the log en
+ try involving file2.txt.\n\n \n\n* Modify file1.txt to have the name of y
+ our favorite color on a new line.\n\n \n\n* Delete file2.txt.\n\n \n\n* 
+ Run git status. Note that file2.txt is listed as deleted. Also note that t
+ he status information helpfully says "git add/rm ..." to update what will 
+ be committed.\n\n \n\n* You use the git add command to stage a new or mod
+ ified file. However\, to stage the deletion of a file\, you need to use th
+ e git rm So run the commands git add file1.txt and git rm file2.txt to set
+  the stage.\n\n \n\n* Commit the changes with the commit message "Deletin
+ g file2.txt".\n\n \n\n* Run the command git log -p -3. The -p flag will s
+ how you the diffs for each change. The -3 will limit what's displayed to t
+ he last 3 log entries. Take a few minutes to look carefully at the output 
+ log and see if you can figure out how to interpret it.\n\n* Note: A comman
+ d such as git log sends text output to the shell using a bash command name
+ d "less" to display one windowfull of output at a time ("less" is named af
+ ter a similar\, earlier utility named "more"\, in a classic example of hil
+ arious techie humor). At the : prompt\, you can press h for help\, q to ex
+ it\, Enter to advance one line\, or Space to advance one screenfull.\n\n 
+ \n\n* Now you decide you actually wanted to keep file2.txt\, but you delet
+ ed it! Fortunately\, you had added it to git\, so you can still get it bac
+ k. There are several ways to do this. The simplest is probably to use the 
+ command git checkout HEAD~1 file2.txt. What does this do? HEAD represents 
+ the most recent commit or snapshot. ~1 tells Git to go back one version fr
+ om the most recent snapshot (i.e.\, HEAD). In this older snapshot\, file2.
+ txt still existed\, and checkout tells Git to retrieve it. If you now look
+  in your folder\, you'll see file2.txt. And is file1.txt changed?\n\n \n\
+ n* Run git add file2.txt to stage file2.\n\n \n\n* Run git status. Note t
+ hat file2.txt is staged. Commit it with the commit message "Re-adding file
+ 2.txt".\n\n \n\n* Run the command git log -p to see all of the log entrie
+ s.\n\n \n\n* Now run the command git log -p > git_log_partB.txt. (The > i
+ s a shell command that redirects the output of the program on >'s left to 
+ the file named on >'s right.)\n\n \n\n* Open git_log_partB.txt. It should
+  like just like the output you saw for step 33. If you're on Windows and v
+ iewing it in Notepad\, the spacing will probably look wrong\, so try openi
+ ng it in a different text editor (like Wordpad or Notepad++).\n\n \n\n* U
+ pload git_log_partB.txt to the Canvas before the deadline.
+SEQUENCE:0
+SUMMARY:Homework 2B: Version Control with Git\, part B [IN4MATX 43 LEC A: I
+ NTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =05&year=2019#assignment_305440
+X-ALT-DESC;FMTTYPE=text/html:<p>In Part B you will create a local repositor
+ y and perform basic operations on it.</p>\n<p> </p>\n<ol>\n<li>Create (so
+ mewhere on your computer) a new empty folder named Inf43Hw3. In that folde
+ r\, create a plain text file with your name and student ID # on a single l
+ ine. Don't use MS Word for this\, use a text editor\, for example Notepad 
+ or TextEdit (you may need to choose Plain Text under Format or Preferences
+ ). Save the file as file1.txt.</li>\n</ol>\n<p> </p>\n<ol start="2">\n<li
+ >In your Git shell\, navigate to Inf43Hw3. Use the <strong>cd </strong>com
+ mand to change your current folder/directory (Google it if you don’t kno
+ w). Note that the Windows Git Bash shell follows Unix/Linux shell conventi
+ ons so if you're on Windows\, you still need to use Linux-style paths with
+  forward slashes (e.g.\, c:\\my_folder\\my_subfolder would be /c/my_folder
+ /my_subfolder). Linux commands like ls\, pwd\, and grep should all work in
+  the Git Bash shell.</li>\n</ol>\n<p> </p>\n<ol start="3">\n<li>Note: At 
+ this point you may find that Git wants you to tell it your name and email 
+ address. You can do this with two commands like these:\n<ul>\n<li><strong>
+ git config --global user.name "Peter Anteater"</strong></li>\n<li><strong>
+ git config --global user.email "panteat@uci.edu"</strong></li>\n<li>To loo
+ k at all your configuration information: <strong>git config --global -l</s
+ trong>\n</li>\n</ul>\n</li>\n</ol>\n<p> </p>\n<ol start="4">\n<li>Create 
+ a local Git repo by running the command <strong>git init</strong>.</li>\n<
+ /ol>\n<p> </p>\n<ol start="5">\n<li>Run <strong>git status</strong>. Note
+  that file1.txt is listed as untracked. We want Git to track it\, so run <
+ strong>git add file1.txt</strong>. When you "add" a file you are telling G
+ it to keep track of it. "add" also tells Git to <em>stage</em> the file\, 
+ which means put it in the stage of being ready to be committed.</li>\n</ol
+ >\n<p> </p>\n<ol start="6">\n<li>Run <strong>git status</strong> Note tha
+ t file1.txt is now listed as a file to be committed (i.e.\, it's staged).<
+ /li>\n</ol>\n<p> </p>\n<ol start="7">\n<li>Let's commit file1.txt to our 
+ repository. Run <strong>git commit -m "Committing a new file with my name"
+ </strong>. When you "commit\,"\, you in effect copy all staged files to th
+ e repository. The "-m" is a flag (that's what the hyphen indicates) which 
+ tells Git that the following string is a message to record with the commit
+ .</li>\n</ol>\n<p> </p>\n<ol start="8">\n<li>Run <strong>git log</strong>
+ . This will display the history of changes made to the repository. The one
+  and only entry will be for the commit of file1.txt you just did.</li>\n</
+ ol>\n<p> </p>\n<ol start="9">\n<li>Edit file1.txt and change the spelling
+  of your name to something incorrect. Save file1.txt with the error. (This
+  small error stands in for a long complex series of edits that you want to
+  undo.)</li>\n</ol>\n<p> </p>\n<ol start="10">\n<li>Run <strong>git reset
+  --hard</strong>. "reset --hard" removes all uncommitted changes\, so all 
+ files in the repo will return to their contents as of the latest commit. T
+ here are many ways to undo changes in git\, and "reset --hard" is generall
+ y considered to be dangerous. Look at file1.txt and observe the effect of 
+ reset --hard.</li>\n</ol>\n<p> </p>\n<ol start="11">\n<li>Edit file1.txt 
+ to <em>remove</em> your student ID# and <em>include</em> the name of your 
+ major\, and save the file.</li>\n</ol>\n<p> </p>\n<ol start="12">\n<li>Co
+ mmit with <strong>git commit -m "Now has my major"</strong>. This doesn't 
+ work. Git tells you there are "changes not staged for commit".</li>\n</ol>
+ \n<p> </p>\n<ol start="13">\n<li>Try again with <strong>git commit -a -m 
+ "Now has my major"</strong>. The power of the "-a" flag is that it tells g
+ it to automatically stage all tracked\, modified files before the commit.<
+ /li>\n</ol>\n<p> </p>\n<ol start="14">\n<li>You can also explicitly stage
+  a file. Add the name of your favorite restaurant and favorite movie to to
+  file1.txt\, save it\, and run <strong>git stage file1.txt</strong>. Now r
+ un <strong>git commit -m "Added favorite restaurant"</strong> to commit. "
+ git stage" is really just another name for "git add".</li>\n</ol>\n<p> </
+ p>\n<ol start="15">\n<li>You set the commit message to "Added favorite res
+ taurant"\, but the file also includes your favorite movie\, so maybe we sh
+ ould have included that in our commit message. Amend your commit message w
+ ith <strong>git commit --amend -m "Added favorite restaurant and movie"</s
+ trong>.</li>\n</ol>\n<p> </p>\n<ol start="16">\n<li>Run <strong>git log</
+ strong> to make sure you have successfully changed history.</li>\n</ol>\n<
+ p> </p>\n<ol start="17">\n<li>You removed your student ID# a few steps ba
+ ck. Let that edit stand in for deleting\, a few months ago\, a block of co
+ de that you now want to examine. git will help you go back in time. Note t
+ hat each commit has long\, seemingly random\, string of hexadecimal digits
+  associated with it. This is called a "hash" and is a unique identifier fo
+ r the commit. Find the hash associated with the “Committing a new file w
+ ith my name“ commit. Run <strong>git checkout xxxx</strong>\, replacing 
+ <strong>xxxx</strong> with the first four digits/characters from that hash
+  (thankfully typing in the entire hash is not required). You will see a fr
+ ightening message about a detached HEAD.</li>\n</ol>\n<p> </p>\n<ol start
+ ="18">\n<li>git can keep track of separate\, parallel\, streams of edits t
+ o a project. Each stream of edits is called a branch\, and a branch can ha
+ ve a name. For instance\, multiple programmers who are working on and comm
+ iting changes to the same file will probably establish different branches.
+  HEAD is git-ese for the current (not necessarily the last) commit in the 
+ current branch. Since we've gone back in time and are potentially (but hav
+ en't yet) starting a new branch\, HEAD is "detached" (from any established
+ \, named branch). Ouch!</li>\n</ol>\n<p> </p>\n<ol start="19">\n<li>Take 
+ a look at file1.txt and note the later-deleted Student ID#. Now to return 
+ to the present: <strong>git checkout master</strong>. "master" is the name
+  of the default branch created when the repository was made. Look at file1
+ .txt again. Run <strong>git log</strong> again and you'll see it has the s
+ ame three commits.</li>\n</ol>\n<p> </p>\n<ol start="20">\n<li>Create a n
+ ew text file called file2.txt that contains your expected graduation year 
+ and first job title on a single line.</li>\n</ol>\n<p> </p>\n<ol start="2
+ 1">\n<li>Stage file2.txt\, and then commit it with a useful message.</li>\
+ n</ol>\n<p> </p>\n<ol start="22">\n<li>Run <strong>git log</strong>. Noti
+ ce that you see log entries for both commits that you've performed.</li>\n
+ </ol>\n<p> </p>\n<ol start="23">\n<li>Run <strong>git log file2.txt</stro
+ ng>. Notice that you only see the log entry involving file2.txt.</li>\n</o
+ l>\n<p> </p>\n<ol start="24">\n<li>Modify file1.txt to have the name of y
+ our favorite color on a new line.</li>\n</ol>\n<p> </p>\n<ol start="25">\
+ n<li>Delete file2.txt.</li>\n</ol>\n<p> </p>\n<ol start="26">\n<li>Run <s
+ trong>git status</strong>. Note that file2.txt is listed as deleted. Also 
+ note that the status information helpfully says "git add/rm ..." to update
+  what will be committed.</li>\n</ol>\n<p> </p>\n<ol start="27">\n<li>You 
+ use the <strong>git add</strong> command to stage a new or modified file. 
+ However\, to stage the deletion of a file\, you need to use the <strong>gi
+ t rm</strong> So run the commands <strong>git add file1.txt</strong> and <
+ strong>git rm file2.txt</strong> to set the stage.</li>\n</ol>\n<p> </p>\
+ n<ol start="28">\n<li>Commit the changes with the commit message "Deleting
+  file2.txt".</li>\n</ol>\n<p> </p>\n<ol start="29">\n<li>Run the command 
+ <strong>git log -p -3</strong>. The -p flag will show you the diffs for ea
+ ch change. The -3 will limit what's displayed to the last 3 log entries. T
+ ake a few minutes to look carefully at the output log and see if you can f
+ igure out how to interpret it.\n<ul>\n<li>Note: A command such as <strong>
+ git log</strong> sends text output to the shell using a bash command named
+  "less" to display one windowfull of output at a time ("less" is named aft
+ er a similar\, earlier utility named "more"\, in a classic example of hila
+ rious techie humor). At the <strong>:</strong> prompt\, you can press <str
+ ong>h</strong> for help\, <strong>q</strong> to exit\, <strong>Enter</stro
+ ng> to advance one line\, or <strong>Space</strong> to advance one screenf
+ ull.</li>\n</ul>\n</li>\n</ol>\n<p> </p>\n<ol start="30">\n<li>Now you de
+ cide you actually wanted to keep file2.txt\, but you deleted it! Fortunate
+ ly\, you had added it to git\, so you can still get it back. There are sev
+ eral ways to do this. The simplest is probably to use the command <strong>
+ git checkout HEAD~1 file2.txt</strong>. What does this do? HEAD represents
+  the most recent commit or snapshot. ~1 tells Git to go back one version f
+ rom the most recent snapshot (i.e.\, HEAD). In this older snapshot\, file2
+ .txt still existed\, and checkout tells Git to retrieve it. If you now loo
+ k in your folder\, you'll see file2.txt. And is file1.txt changed?</li>\n<
+ /ol>\n<p> </p>\n<ol start="31">\n<li>Run <strong>git add file2.txt</stron
+ g> to stage file2.</li>\n</ol>\n<p> </p>\n<ol start="32">\n<li>Run <stron
+ g>git status</strong>. Note that file2.txt is staged. Commit it with the c
+ ommit message "Re-adding file2.txt".</li>\n</ol>\n<p> </p>\n<ol start="33
+ ">\n<li>Run the command <strong>git log -p</strong> to see all of the log 
+ entries.</li>\n</ol>\n<p> </p>\n<ol start="34">\n<li>Now run the command 
+ <strong>git log -p &gt\; git_log_partB.txt</strong>. (The <strong>&gt\;</s
+ trong> is a shell command that redirects the output of the program on <str
+ ong>&gt\;</strong>'s left to the file named on <strong>&gt\;</strong>'s ri
+ ght.)</li>\n</ol>\n<p> </p>\n<ol start="35">\n<li>Open git_log_partB.txt.
+  It should like just like the output you saw for step 33. If you're on Win
+ dows and viewing it in Notepad\, the spacing will probably look wrong\, so
+  try opening it in a different text editor (like Wordpad or Notepad++).</l
+ i>\n</ol>\n<p> </p>\n<ol start="36">\n<li>Upload git_log_partB.txt to the
+  Canvas before the deadline.</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303220
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6C: Reading Section 10.1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303220
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303155
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6D: Lecture 6.1 Product Rule [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303155
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303158
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6E: Lecture 6.2 Sum Rule [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303158
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303221
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6F: Reading Section 10.2 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303221
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303139
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6G: Lecture 6.3 Bijection Rule and the K-to-1 Rule [ICS 6D Dis
+ crete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303139
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303222
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6H: Reading Sections 10.3 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303222
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303123
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6I: Lecture 6.4 Generalized Product Rule  [ICS 6D Discrete Mat
+ h f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303223
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6J: Reading Sections 10.4 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303223
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303166
+DTSTART:20190513T170000Z
+DTEND:20190513T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6K: Lecture 6.5 Permutations [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303166
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303218
+DTSTART:20190513T180000Z
+DTEND:20190513T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303218
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303219
+DTSTART:20190513T180000Z
+DTEND:20190513T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6B: Counting Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303219
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303224
+DTSTART;VALUE=DATE:20190513T000000
+DTEND;VALUE=DATE:20190513T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6L: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303224
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303225
+DTSTART:20190515T200000Z
+DTEND:20190515T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 6M: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303225
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190503T052300Z
+UID:event-assignment-305441
+DTSTART;VALUE=DATE:20190516T000000
+DTEND;VALUE=DATE:20190516T000000
+CLASS:PUBLIC
+DESCRIPTION:Part C\n\nMuch of Git's power comes from the interaction betwee
+ n your local repository and remote repositories. Remote Git repositories h
+ elp you collaborate with others on a software project.\n\nThere are severa
+ l services out there that will host a remote git repository for you for fr
+ ee\, the most popular of which is GitHub.com. GitHub.com is particularly p
+ opular among the open source community\, and there are pieces of software 
+ you probably use every day that are hosted on GitHub.com. Reddit (reddit.c
+ om) is one such software (web application) that is maintained on Github\n\
+ n \n\n* Let's use git to view the Reddit source code repository hosted on
+  GitHub. Start git\, use cd to navigate to an empty folder\, and run the c
+ ommand git clone https://github.com/reddit/reddit.git.\n\n \n\n* You now 
+ have a local copy (on your computer) of the remote repository. It's import
+ ant to understand that this is not only a copy of the source code\, but al
+ so a copy of the history of changes stored by git. And since it's a local 
+ repository\, all the commands you used in the previous part of the assignm
+ ent will work. To try this out\, run the command cd reddit to go inside th
+ e reddit project folder\, then run git log. This shows you the most recent
+  log messages for changes made to the Reddit source code.\n\n \n\n* Here'
+ s another variation on the git log command to try: git log -1 -p --before=
+ '2014-03-31 11:52:45'. This is nothing new except for the --before='2014-0
+ 3-31 11:52:45' part. That tells git you only want to see log entries for c
+ hanges made before March 31\, 2014 at 11:52:45am. As you saw in part B\, t
+ he -1 means you only want to see one entry\, and the -p means you want to 
+ see a diff of the changes. As you can see\, a contributor named "Andre D" 
+ changed the mouseover property to "cancelTimeout" from "queueShow" in the 
+ file r2/r2/public/static/js/saved.js.\n\n \n\n* Since we have a complete 
+ copy of the Reddit project's repository\, we also have a copy of every sna
+ pshot going all the way back to the beginning of the project. To see the l
+ og entries for the earliest commits\, run the command git log --reverse.\n
+ \n \n\n* Recall that each commit is given a unique hash (aka SHA1). Many 
+ commands in Git can take a hash as input. For example\, try git log -1 477
+ 8b17e939e119417cc5ec25b82c4e9a65621b2 and git show 4778b17e939e119417cc5ec
+ 25b82c4e9a65621b2. (Don't forget that you can use only the first four digi
+ ts/characters of the hash. If git complains that the short SHA1 is ambiguo
+ us (because more than one commit has the same first four digits)\, try add
+ ing a few more digits from the long hash.)\n\n \n\n* One more git log opt
+ ion to know about is --skip=N\, where N is a non-negative integer. This me
+ ans to skip N commits before starting to show the commit output. Try git l
+ og --skip=100 -5.\n\n \n\n* Run a log showing five commits to Reddit (wit
+ hout diffs)\, skipping the first N commits\, where N is the first three di
+ gits of your UCI student id number. For instance\, if your id is 12345678\
+ , then N is 123. Leading zeros are no problem. Redirect the log output to 
+ a text file and upload it to Canvas before the deadline.\n\n \n\n* If you
+  wanted (and had the permissions)\, you could modify part of the Reddit so
+ urce\, commit your changes (on your local repo)\, and then use git push to
+  copy your local branch back to the GitHub repository. That's beyond the s
+ cope of Informatics 43\, but it's good to know that git is a sophisticated
+  tool that facilitates multiple people updating shared files\, logging the
+ ir updates\, and assisting with the resolution of updates that conflict.\n
+ \n 
+SEQUENCE:0
+SUMMARY:Homework 2C: Version Control with Git\, Part C [IN4MATX 43 LEC A: I
+ NTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =05&year=2019#assignment_305441
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Part C</strong></p>\n<p>Much of Git
+ 's power comes from the interaction between your local repository and remo
+ te repositories. Remote Git repositories help you collaborate with others 
+ on a software project.</p>\n<p>There are several services out there that w
+ ill host a remote git repository for you for free\, the most popular of wh
+ ich is GitHub.com. GitHub.com is particularly popular among the open sourc
+ e community\, and there are pieces of software you probably use every day 
+ that are hosted on GitHub.com. Reddit (reddit.com) is one such software (w
+ eb application) that is maintained on Github</p>\n<p> </p>\n<ol>\n<li>Let
+ 's use git to view the Reddit source code repository hosted on GitHub. Sta
+ rt git\, use cd to navigate to an empty folder\, and run the command <stro
+ ng>git clone https://github.com/reddit/reddit.git</strong>.</li>\n</ol>\n<
+ p> </p>\n<ol start="2">\n<li>You now have a local copy (on your computer)
+  of the remote repository. It's important to understand that this is not o
+ nly a copy of the source code\, but also a copy of the history of changes 
+ stored by git. And since it's a local repository\, all the commands you us
+ ed in the previous part of the assignment will work. To try this out\, run
+  the command <strong>cd reddit</strong> to go inside the reddit project fo
+ lder\, then run <strong>git log</strong>. This shows you the most recent l
+ og messages for changes made to the Reddit source code.</li>\n</ol>\n<p> 
+ </p>\n<ol start="3">\n<li>Here's another variation on the git log command 
+ to try: <strong>git log -1 -p --before='2014-03-31 11:52:45'</strong>. Thi
+ s is nothing new except for the --before='2014-03-31 11:52:45' part. That 
+ tells git you only want to see log entries for changes made before March 3
+ 1\, 2014 at 11:52:45am. As you saw in part B\, the -1 means you only want 
+ to see one entry\, and the -p means you want to see a diff of the changes.
+  As you can see\, a contributor named "Andre D" changed the mouseover prop
+ erty to "cancelTimeout" from "queueShow" in the file r2/r2/public/static/j
+ s/saved.js.</li>\n</ol>\n<p> </p>\n<ol start="4">\n<li>Since we have a co
+ mplete copy of the Reddit project's repository\, we also have a copy of ev
+ ery snapshot going all the way back to the beginning of the project. To se
+ e the log entries for the earliest commits\, run the command <strong>git l
+ og --reverse</strong>.</li>\n</ol>\n<p> </p>\n<ol start="5">\n<li>Recall 
+ that each commit is given a unique hash (aka SHA1). Many commands in Git c
+ an take a hash as input. For example\, try <strong>git log -1 4778b17e939e
+ 119417cc5ec25b82c4e9a65621b2</strong> and <strong>git show 4778b17e939e119
+ 417cc5ec25b82c4e9a65621b2</strong>. (Don't forget that you can use only th
+ e first four digits/characters of the hash. If git complains that the shor
+ t SHA1 is ambiguous (because more than one commit has the same first four 
+ digits)\, try adding a few more digits from the long hash.)</li>\n</ol>\n<
+ p> </p>\n<ol start="6">\n<li>One more git log option to know about is <st
+ rong>--skip=<em>N</em></strong>\, where <strong><em>N</em></strong> is a n
+ on-negative integer. This means to skip <strong><em>N</em></strong> commit
+ s before starting to show the commit output. Try <strong>git log --skip=10
+ 0 -5</strong>.</li>\n</ol>\n<p> </p>\n<ol start="7">\n<li>Run a log showi
+ ng five commits to Reddit (without diffs)\, skipping the first <em>N</em> 
+ commits\, where <em>N</em> is the first three digits of your UCI student i
+ d number. For instance\, if your id is 12345678\, then <em>N</em> is 123. 
+ Leading zeros are no problem. Redirect the log output to a text file and u
+ pload it to Canvas before the deadline.</li>\n</ol>\n<p> </p>\n<ol start=
+ "8">\n<li>If you wanted (and had the permissions)\, you could modify part 
+ of the Reddit source\, commit your changes (on your local repo)\, and then
+  use <strong>git push</strong> to copy your local branch back to the GitHu
+ b repository. That's beyond the scope of Informatics 43\, but it's good to
+  know that git is a sophisticated tool that facilitates multiple people up
+ dating shared files\, logging their updates\, and assisting with the resol
+ ution of updates that conflict.</li>\n</ol>\n<p> </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303227
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7B: Reading Section 10.5  [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303227
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303228
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7C: Reading Section 10.6 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303228
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303132
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7D: Lecture 7.1 Counting Subsets [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303132
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303229
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7E: Reading Section 10.7 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303229
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303152
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7F: Lecture 7.2: Counting by Complement [ICS 6D Discrete Math 
+ f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303152
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303230
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7G: Reading Section 12.1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303230
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303163
+DTSTART:20190520T170000Z
+DTEND:20190520T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7H: Lecture 7.3 Probability of an Event [ICS 6D Discrete Math 
+ f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303226
+DTSTART:20190520T180000Z
+DTEND:20190520T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303226
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190501T212500Z
+UID:event-assignment-317586
+DTSTART:20190521T050000Z
+DTEND:20190521T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete [lab 4] (https://canvas.eee.uci.edu/courses/17266/file
+ s/5957878/download?wrap=1) in the attached mlx file. Export it to a PDF wh
+ en you are done. Submit the PDF.
+SEQUENCE:0
+SUMMARY:Lab 4 [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =05&year=2019#assignment_317586
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete <a class="instructure_file_link" t
+ itle="Lab4.mlx" href="https://canvas.eee.uci.edu/courses/17266/files/59578
+ 78/download?wrap=1" data-api-endpoint="https://canvas.eee.uci.edu/api/v1/c
+ ourses/17266/files/5957878" data-api-returntype="File">lab 4</a> in the at
+ tached mlx file. Export it to a PDF when you are done. Submit the PDF.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303231
+DTSTART;VALUE=DATE:20190520T000000
+DTEND;VALUE=DATE:20190520T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7I: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303231
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303232
+DTSTART:20190522T200000Z
+DTEND:20190522T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 7J: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303232
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303173
+DTSTART:20190524T230000Z
+DTEND:20190524T230000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Test 3 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303173
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303234
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8B: Reading Section 10.8 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303234
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303142
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8C: Lecture 8.1 Permutations with Repetitions [ICS 6D Discrete
+  Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303142
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303235
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8D: Reading Section 10.9 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303235
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303128
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8E: Lecture 8.2 Counting Multisets [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303128
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303236
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8F: Reading Section 10.10 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303236
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303129
+DTSTART:20190527T170000Z
+DTEND:20190527T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8G: Lecture 8.3 Assignment Problems - Balls and Bins [ICS 6D D
+ iscrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303129
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303233
+DTSTART:20190527T180000Z
+DTEND:20190527T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303233
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303237
+DTSTART;VALUE=DATE:20190527T000000
+DTEND;VALUE=DATE:20190527T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8H: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303237
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303238
+DTSTART:20190529T200000Z
+DTEND:20190529T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 8I: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =05&year=2019#assignment_303238
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303240
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9B: Reading Section 10.11 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303240
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303241
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9C: Reading Section 10.12 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303241
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303150
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9D: Lecture 9.1 Inclusion-Exclusion Principle [ICS 6D Discrete
+  Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303150
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303242
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9E: Reading Section 11.1 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303242
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303143
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9F: Lecture 9.2 Generating Permutations and Combinations [ICS 
+ 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303143
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303243
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9G: Reading Section 11.2 [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303243
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303156
+DTSTART:20190603T170000Z
+DTEND:20190603T170000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9H: Lecture 9.3 Binomial Coefficients [ICS 6D Discrete Math f.
+ ..]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303156
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303239
+DTSTART:20190603T180000Z
+DTEND:20190603T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9A: Weekly Check-in/Overview Video [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303239
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303244
+DTSTART;VALUE=DATE:20190603T000000
+DTEND;VALUE=DATE:20190603T000000
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9J: Discussion [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303244
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303245
+DTSTART:20190605T200000Z
+DTEND:20190605T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Week 9K: Homework [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303245
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190504T021400Z
+UID:event-assignment-305449
+DTSTART;VALUE=DATE:20190606T000000
+DTEND;VALUE=DATE:20190606T000000
+CLASS:PUBLIC
+DESCRIPTION:The goal of this assignment is to have you apply the knowledge 
+ you learned in this course to a different context\, namely\, fiction writi
+ ng. This is great practice in the real-world skill of taking classroom kno
+ wledge into different situations. In addition\, this kind of "weakly-cued 
+ activity" has been known to help solidify learning long-term.\n\nThis is a
+ n optional extra credit assignment\, worth up to 1.5% of your total final 
+ course grade. Write a short story (meaning fiction)\, of at least 3-5 page
+ s single spaced\, 12-pt. font\, that embodies one or more software enginee
+ ring concepts/phenomena taught in this class. The requirements of this ass
+ ignment are loose and flexible\, but it must be fiction\, it must read lik
+ e a story\, and of course it must be original and not plagiarized (submiss
+ ions will be run through turnitin.com).\n\nYour story will be graded rough
+ ly according to rubric: https://www.edb.gov.hk/attachment/en/curriculum-d
+ evelopment/resource-support/net/assessment%20form%202.5-%20short%20story%2
+ 0assessment%20rubric.pdf\n\n 
+SEQUENCE:0
+SUMMARY:Software Engineering Story [IN4MATX 43 LEC A: INTR...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16427&month
+ =06&year=2019#assignment_305449
+X-ALT-DESC;FMTTYPE=text/html:<p>The goal of this assignment is to have you 
+ apply the knowledge you learned in this course to a different context\, na
+ mely\, fiction writing. This is great practice in the real-world skill of 
+ taking classroom knowledge into different situations. In addition\, this k
+ ind of "weakly-cued activity" has been known to help solidify learning lon
+ g-term.</p>\n<p>This is an optional extra credit assignment\, worth up to 
+ 1.5% of your total final course grade. Write a short story (meaning fictio
+ n)\, of at least 3-5 pages single spaced\, 12-pt. font\, that embodies one
+  or more software engineering concepts/phenomena taught in this class. The
+  requirements of this assignment are loose and flexible\, but it must be f
+ iction\, it must read like a story\, and of course it must be original and
+  not plagiarized (submissions will be run through turnitin.com).</p>\n<p>Y
+ our story will be graded roughly according to rubric: <a href="https://ww
+ w.edb.gov.hk/attachment/en/curriculum-development/resource-support/net/ass
+ essment%20form%202.5-%20short%20story%20assessment%20rubric.pdf">https://w
+ ww.edb.gov.hk/attachment/en/curriculum-development/resource-support/net/as
+ sessment%20form%202.5-%20short%20story%20assessment%20rubric.pdf</a></p>\n
+ <p> </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T000600Z
+UID:event-assignment-317577
+DTSTART:20190608T050000Z
+DTEND:20190608T050000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Course Attendance [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =06&year=2019#assignment_317577
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T000600Z
+UID:event-assignment-317578
+DTSTART:20190608T050000Z
+DTEND:20190608T050000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Final Course Evaluation [ICS 6N Spring 2019]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_17266&month
+ =06&year=2019#assignment_317578
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-303170
+DTSTART:20190610T144500Z
+DTEND:20190610T144500Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:UCI Course Evaluation [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_303170
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T220700Z
+UID:event-assignment-328340
+DTSTART:20190611T030000Z
+DTEND:20190611T030000Z
+CLASS:PUBLIC
+DESCRIPTION:This is a UC-wide evaluation specifically designed for online c
+ ourses. Towards the end of the quarter\, I will send a link where you can 
+ complete the evaluation and instructions on how to get credit for completi
+ ng the evaluation.
+SEQUENCE:0
+SUMMARY:ILTI Course Evaluation [ICS 6D Discrete Math f...]
+URL:https://canvas.eee.uci.edu/calendar?include_contexts=course_16175&month
+ =06&year=2019#assignment_328340
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a UC-wide evaluation specifically d
+ esigned for online courses. Towards the end of the quarter\, I will send a
+  link where you can complete the evaluation and instructions on how to get
+  credit for completing the evaluation.</p>
+END:VEVENT
+END:VCALENDAR
