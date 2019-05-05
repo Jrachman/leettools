@@ -229,6 +229,7 @@ def create_calendar(strat_choice, n_days, problems, date_start):
     nl = "\n"
     curr_date = date_start #current format: yyyy-mm-dd
     diffs, num_of_prob = strat_choice[0], strat_choice[1]
+    diffs = "".join([diff*num for diff, num in zip(diffs, num_of_prob)])
 
     #need to fix that if there are multiple problems for 1 difficulty, add to list
     for i in range(n_days):
