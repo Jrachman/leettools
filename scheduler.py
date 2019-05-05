@@ -69,7 +69,6 @@ import random
 import math
 from ics import Calendar, Event
 import datetime
-#from collections import defaultdict
 
 url_problem_prefix = "https://leetcode.com/problems/"
 
@@ -136,7 +135,6 @@ def strat_key_to_name(strat_key):
 
 def analyze_strategies():
     #just ask for continuation (future implementation)
-    #need to change leftovers to percent of problems finished by the time the grinding ends
     problems = get_problems()
     difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
     strategies = dict()
@@ -158,56 +156,45 @@ def analyze_strategies():
 
     else: #for 2 difficulties
         strategies[(difficulty_range, (1, 1))] = min_len # "1 pair of problems per day (without leftovers)"
-        #strategies[(difficulty_range, (1, 1))] = max_len # "1 pair of problems per day (with leftovers)"
 
         if len_of_problems[0]/2 > len_of_problems[1]:
             strategies[(difficulty_range, (2, 1))] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
         else:
             strategies[(difficulty_range, (2, 1))] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
-            #strategies[(difficulty_range, (2, 1))] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
 
         if len_of_problems[0] < len_of_problems[1]/2:
             strategies[(difficulty_range, (1, 2))] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
         else:
             strategies[(difficulty_range, (1, 2))] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
-            #strategies[(difficulty_range, (1, 2))] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
 
     return strategies, time_range, problems, date_start #here
 
 # need to add function to find strategy closest to the time frame and then also give the increasing order of the strategies by time
 def strat_best_fit():
     strategies, time_range, problems, date_start = analyze_strategies() #here
-    # 1. find strat closest to time_range
-    # 2. order remaining strats in increasing time order
-    # note: might consider weighing with/without leftovers or making then separate categories
 
     best_fits = dict()
 
-    # 1
     best_fits["closest"] = []
     closest_abs_diff = -1
 
     for key, value in strategies.items():
         abs_diff = abs(time_range - value)
+        print(closest_abs_diff, abs_diff, key, value)
 
         if closest_abs_diff == -1:
             closest_abs_diff = abs_diff
 
         if abs_diff == closest_abs_diff:
-
             best_fits["closest"].append(key)
         elif abs_diff < closest_abs_diff:
-
             best_fits["closest"] = [key]
-            closest_abs_diff = value
+            closest_abs_diff = abs_diff
 
-    #2
     best_fits["incr"] = sorted(strategies.keys(), key=lambda x: strategies[x])
 
-    #3
     best_fits["strategies"] = strategies
 
-    #4
     best_fits["time_range"] = time_range
 
     return best_fits, problems, date_start #here
@@ -223,7 +210,8 @@ def choose_strategy():
         choices += f"   {cat.upper()}\n"
 
         for strat in strats:
-            choices += f"      [{num}] ({strategies[strat]} days) {strat_key_to_name(strat)}\n"
+            percent_complete = (sum(strat[1]) * strategies[strat])/sum([len(problems[i]) for i in strat[0]]) * 100
+            choices += f"      [{num}] ({strategies[strat]} days, {100.0 if percent_complete > 100 else percent_complete:.1f}% complete) {strat_key_to_name(strat)}\n"
             list_of_ord_strats.append(strat)
             num += 1
 
