@@ -70,8 +70,6 @@ import math
 from ics import Calendar, Event
 import datetime
 
-url_problem_prefix = "https://leetcode.com/problems/"
-
 def get_problems():
     url_json = "https://leetcode.com/api/problems/algorithms/"
     r_data = requests.get(url=url_json).json()
@@ -80,7 +78,7 @@ def get_problems():
 
     for problem in r_data.get("stat_status_pairs", []):
         if problem.get("paid_only") == False:
-            dict_of_problems[num_to_str[problem.get("difficulty", {}).get("level")]].append(problem.get("stat", {}).get("question__title_slug"))
+            dict_of_problems[num_to_str[problem.get("difficulty", {}).get("level")]].append((problem.get("stat", {}).get("question__title"), problem.get("stat", {}).get("question__title_slug")))
 
     for key in dict_of_problems.keys():
         random.shuffle(dict_of_problems[key])
@@ -126,17 +124,15 @@ def user_personalization_entries():
 
 def strat_key_to_name(strat_key):
     abbr_to_word = {"e": "easy", "m": "medium", "h": "hard"}
-    diff, num_of_prob = strat_key[0], strat_key[1]
+    diffs, num_of_prob = strat_key[0], strat_key[1]
 
-    output_name =  ", ".join([f"{num_of_prob[i]} {abbr_to_word[diff[i]]}" for i in range(len(diff))])
+    output_name =  ", ".join([f"{num_of_prob[i]} {abbr_to_word[diffs[i]]}" for i in range(len(diffs))])
     output_name += " problem(s) per day"
 
     return output_name
 
-def analyze_strategies():
+def analyze_strategies(problems, difficulty_range):
     #just ask for continuation (future implementation)
-    problems = get_problems()
-    difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
     strategies = dict()
 
     len_of_problems = [len(problems[i]) for i in difficulty_range]
@@ -167,11 +163,10 @@ def analyze_strategies():
         else:
             strategies[(difficulty_range, (1, 2))] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
 
-    return strategies, time_range, problems, date_start #here
+    return strategies
 
 # need to add function to find strategy closest to the time frame and then also give the increasing order of the strategies by time
-def strat_best_fit():
-    strategies, time_range, problems, date_start = analyze_strategies() #here
+def strat_best_fit(strategies, time_range):
 
     best_fits = dict()
 
@@ -193,16 +188,10 @@ def strat_best_fit():
 
     best_fits["incr"] = sorted(strategies.keys(), key=lambda x: strategies[x])
 
-    best_fits["strategies"] = strategies
+    return best_fits
 
-    best_fits["time_range"] = time_range
-
-    return best_fits, problems, date_start #here
-
-def choose_strategy():
-    best_fits, problems, date_start = strat_best_fit() #here
+def choose_strategy(best_fits, strategies, time_range):
     num = 0
-    strategies, time_range = best_fits.pop("strategies"), best_fits.pop("time_range")
     choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
 
     list_of_ord_strats = []
@@ -221,25 +210,36 @@ def choose_strategy():
         try:
             choice = int(input(choices))
             if 0 <= choice <= len(strategies)+1:
-                return list_of_ord_strats[choice], problems, date_start #here
+                return list_of_ord_strats[choice], strategies[list_of_ord_strats[choice]]
             print(f"Invalid entry not in range 0 to {len(strategies)+1}")
         except:
             print("Invalid entry not an integer")
 
-def create_calendar(strat_choice, problems, date_start):
+def create_calendar(strat_choice, n_days, problems, date_start):
+    #different ways of iterating (until days are up)
+    #   - 1 difficulty
+    #     - pop n problems from difficulty
+    #     - add info to calendar then append
+    #   - 2 difficulties
+    #     - pop n problems and m problems from respective difficulties
+    #     - add info to calendar then append
+
     c = Calendar(creator="LeetTools: created by Julian Rachman")
-    #d = datetime.date.today()
     t = "00:00:00"
+    nl = "\n"
+    curr_date = date_start #current format: yyyy-mm-dd
+    diffs, num_of_prob = strat_choice[0], strat_choice[1]
 
-    test = date_start + datetime.timedelta(days=1) #current format: yyyy-mm-dd
-    print(test.strftime("%Y%m%d"))
-
-    for i in range(10):
+    for i in range(n_days):
         e = Event() # create events through strat_best_fit
-        e.name = f"hello {i}"
-        e.begin = '20190503 00:00:00'
-        e.end = '20190504 00:00:00'
-        e.description = f"this\nis\na\ndescription for {e.name}"
+        problems_of_the_day = dict(problems[diff].pop() for diff in diffs)
+        e.name = f"[LeetTools] Day {i+1}: {', '.join(problems_of_the_day)}"
+        e.begin = f"{curr_date.strftime('%Y%m%d')} {t}"
+        curr_date += + datetime.timedelta(days=1)
+        e.end = f"{curr_date.strftime('%Y%m%d')} {t}"
+        composition = [f'<a href=https://leetcode.com/problems/{problems_of_the_day[title]}>{title}</a>' for title in problems_of_the_day]
+        comp_body = '\n   - '.join(composition)
+        e.description = f"Problems of the day:{nl}   - {comp_body}"
         e.make_all_day()
         c.events.add(e)
 
@@ -249,15 +249,11 @@ def create_calendar(strat_choice, problems, date_start):
     return c.events
 
 if __name__ == "__main__":
-    #best_fits = strat_best_fit()
-    #print(best_fits)
+    problems = get_problems()
+    difficulty_range, time_range, date_start = user_personalization_entries()
+    strategies = analyze_strategies(problems, difficulty_range)
+    best_fits = strat_best_fit(strategies, time_range)
+    strat_choice, n_days = choose_strategy(best_fits, strategies, time_range)
 
-    #cal = create_calendar()
-    #print(cal)
-
-    #choice, problems = choose_strategy()
-    cal = create_calendar(*choose_strategy())
+    cal = create_calendar(strat_choice, n_days, problems, date_start)
     print(cal)
-
-    #output_name = strat_key_to_name(("em", [1, 2], False))
-    #print(output_name)

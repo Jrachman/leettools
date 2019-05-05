@@ -2,83 +2,1691 @@ BEGIN:VCALENDAR
 PRODID:LeetTools: created by Julian Rachman
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 3
-DESCRIPTION:this\nis\na\ndescription for hello 3
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191017
+SUMMARY:[LeetTools] Day 166: Power of Two\, Complex Number Multiplication
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/power-of-two>Power of Two</a>\n   - <a href=https://leetcode.com/problems/complex-number-multiplication>Complex Number Multiplication</a>
 TRANSP:OPAQUE
-UID:65ef4f9f-cf35-4523-ba33-7902fd409adc@65ef.org
+UID:6c7596e7-b396-4386-ae9d-ca5b619aa961@6c75.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 2
-DESCRIPTION:this\nis\na\ndescription for hello 2
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190711
+SUMMARY:[LeetTools] Day 68: Range Sum of BST\, Video Stitching
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/range-sum-of-bst>Range Sum of BST</a>\n   - <a href=https://leetcode.com/problems/video-stitching>Video Stitching</a>
 TRANSP:OPAQUE
-UID:79bde6ab-d152-427e-8f76-c8268a3730eb@79bd.org
+UID:a25d193c-6f49-4cfc-8359-50f2d394c0c6@a25d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 0
-DESCRIPTION:this\nis\na\ndescription for hello 0
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190724
+SUMMARY:[LeetTools] Day 81: Projection Area of 3D Shapes\, Integer to Roman
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/projection-area-of-3d-shapes>Projection Area of 3D Shapes</a>\n   - <a href=https://leetcode.com/problems/integer-to-roman>Integer to Roman</a>
 TRANSP:OPAQUE
-UID:4365523a-acc2-4e84-b9bd-b1e91e19d19f@4365.org
+UID:9114bd33-01a1-4a0e-b0c2-33f2dbc9648b@9114.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 6
-DESCRIPTION:this\nis\na\ndescription for hello 6
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190804
+SUMMARY:[LeetTools] Day 92: Longest Word in Dictionary\, Solve the Equation
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-word-in-dictionary>Longest Word in Dictionary</a>\n   - <a href=https://leetcode.com/problems/solve-the-equation>Solve the Equation</a>
 TRANSP:OPAQUE
-UID:1932cf40-9511-46c8-9b92-54287b97b8e6@1932.org
+UID:b1319a7d-31cf-4167-a74c-1c80f0d0afb4@b131.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 8
-DESCRIPTION:this\nis\na\ndescription for hello 8
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191013
+SUMMARY:[LeetTools] Day 162: Count Primes\, Peeking Iterator
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/count-primes>Count Primes</a>\n   - <a href=https://leetcode.com/problems/peeking-iterator>Peeking Iterator</a>
 TRANSP:OPAQUE
-UID:cbbe14bb-df8a-451e-9103-991b0492cc08@cbbe.org
+UID:859e135e-34f8-4bd7-824d-a62183a39d37@859e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 5
-DESCRIPTION:this\nis\na\ndescription for hello 5
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191016
+SUMMARY:[LeetTools] Day 165: Remove Element\, My Calendar II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/remove-element>Remove Element</a>\n   - <a href=https://leetcode.com/problems/my-calendar-ii>My Calendar II</a>
 TRANSP:OPAQUE
-UID:797565e4-d3a9-452f-92d0-719a6d03537b@7975.org
+UID:ecc7cd1c-4dec-4a09-8cd6-ebde8a924490@ecc7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 1
-DESCRIPTION:this\nis\na\ndescription for hello 1
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191023
+SUMMARY:[LeetTools] Day 172: Reverse Bits\, Car Fleet
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reverse-bits>Reverse Bits</a>\n   - <a href=https://leetcode.com/problems/car-fleet>Car Fleet</a>
 TRANSP:OPAQUE
-UID:68ccd5a3-526d-4050-a264-c028498c4147@68cc.org
+UID:e02bad0a-3b73-454f-85df-633092d7d21b@e02b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 7
-DESCRIPTION:this\nis\na\ndescription for hello 7
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190528
+SUMMARY:[LeetTools] Day 24: Keyboard Row\, Longest Uncommon Subsequence II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/keyboard-row>Keyboard Row</a>\n   - <a href=https://leetcode.com/problems/longest-uncommon-subsequence-ii>Longest Uncommon Subsequence II</a>
 TRANSP:OPAQUE
-UID:2ae319a6-5484-4bc6-8ac1-aa2bc30d5edb@2ae3.org
+UID:52a3caf0-9377-4f10-8dbb-4cc167d16dc4@52a3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 4
-DESCRIPTION:this\nis\na\ndescription for hello 4
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190623
+SUMMARY:[LeetTools] Day 50: Convert a Number to Hexadecimal\, Daily Temperatures
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/convert-a-number-to-hexadecimal>Convert a Number to Hexadecimal</a>\n   - <a href=https://leetcode.com/problems/daily-temperatures>Daily Temperatures</a>
 TRANSP:OPAQUE
-UID:dada3b20-6653-4bf0-b5bd-4187542190e9@dada.org
+UID:05811f01-9544-41bf-9349-25070fc3aee3@0581.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20190505T025637Z
-DTSTART;VALUE=DATE:20190503
-SUMMARY:hello 9
-DESCRIPTION:this\nis\na\ndescription for hello 9
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191008
+SUMMARY:[LeetTools] Day 157: Remove Outermost Parentheses\, Increasing Triplet Subsequence
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/remove-outermost-parentheses>Remove Outermost Parentheses</a>\n   - <a href=https://leetcode.com/problems/increasing-triplet-subsequence>Increasing Triplet Subsequence</a>
 TRANSP:OPAQUE
-UID:1d55c03d-bb12-4785-8e5e-85c44db20cf8@1d55.org
+UID:8da6694b-f2c6-4ba7-a4d2-55bb48ead86e@8da6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190717
+SUMMARY:[LeetTools] Day 74: Climbing Stairs\, Length of Longest Fibonacci Subsequence
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/climbing-stairs>Climbing Stairs</a>\n   - <a href=https://leetcode.com/problems/length-of-longest-fibonacci-subsequence>Length of Longest Fibonacci Subsequence</a>
+TRANSP:OPAQUE
+UID:a9a90181-a410-490a-935f-b12f6cafbe68@a9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190515
+SUMMARY:[LeetTools] Day 11: N-Repeated Element in Size 2N Array\, Delete Node in a BST
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/n-repeated-element-in-size-2n-array>N-Repeated Element in Size 2N Array</a>\n   - <a href=https://leetcode.com/problems/delete-node-in-a-bst>Delete Node in a BST</a>
+TRANSP:OPAQUE
+UID:7f1310ee-f085-4290-8671-59a227d4b7eb@7f13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190926
+SUMMARY:[LeetTools] Day 145: Set Mismatch\, Encode and Decode TinyURL
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/set-mismatch>Set Mismatch</a>\n   - <a href=https://leetcode.com/problems/encode-and-decode-tinyurl>Encode and Decode TinyURL</a>
+TRANSP:OPAQUE
+UID:4ede85b3-cb7f-448d-91d2-d3f0cb6a5ce9@4ede.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191029
+SUMMARY:[LeetTools] Day 178: Pascal's Triangle II\, Jump Game
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/pascals-triangle-ii>Pascal's Triangle II</a>\n   - <a href=https://leetcode.com/problems/jump-game>Jump Game</a>
+TRANSP:OPAQUE
+UID:7dbc831a-8ff6-45c1-bead-5045fdf0bbf7@7dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190604
+SUMMARY:[LeetTools] Day 31: Unique Email Addresses\, 4Sum II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/unique-email-addresses>Unique Email Addresses</a>\n   - <a href=https://leetcode.com/problems/4sum-ii>4Sum II</a>
+TRANSP:OPAQUE
+UID:18742e0e-0e15-46b5-a51b-27d0959d372e@1874.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190822
+SUMMARY:[LeetTools] Day 110: Palindrome Number\, Remove Duplicates from Sorted Array II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/palindrome-number>Palindrome Number</a>\n   - <a href=https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii>Remove Duplicates from Sorted Array II</a>
+TRANSP:OPAQUE
+UID:63a8c946-82eb-4dfa-8ae5-d9d1a786d505@63a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191006
+SUMMARY:[LeetTools] Day 155: Binary Watch\, Implement Rand10() Using Rand7()
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-watch>Binary Watch</a>\n   - <a href=https://leetcode.com/problems/implement-rand10-using-rand7>Implement Rand10() Using Rand7()</a>
+TRANSP:OPAQUE
+UID:9c2a3797-5916-4e93-8c47-eeb06a55aba0@9c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191104
+SUMMARY:[LeetTools] Day 184: Matrix Cells in Distance Order\, Flatten a Multilevel Doubly Linked List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/matrix-cells-in-distance-order>Matrix Cells in Distance Order</a>\n   - <a href=https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list>Flatten a Multilevel Doubly Linked List</a>
+TRANSP:OPAQUE
+UID:c69e84dd-707e-4f96-83b1-4108927464f9@c69e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190823
+SUMMARY:[LeetTools] Day 111: Max Consecutive Ones\, Word Ladder
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/max-consecutive-ones>Max Consecutive Ones</a>\n   - <a href=https://leetcode.com/problems/word-ladder>Word Ladder</a>
+TRANSP:OPAQUE
+UID:b31e74dd-ddb3-4dd1-8682-864a7baf29d8@b31e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191030
+SUMMARY:[LeetTools] Day 179: Range Sum Query - Immutable\, Non-overlapping Intervals
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/range-sum-query-immutable>Range Sum Query - Immutable</a>\n   - <a href=https://leetcode.com/problems/non-overlapping-intervals>Non-overlapping Intervals</a>
+TRANSP:OPAQUE
+UID:2d8dcad9-7e6e-4138-b04f-27aa81fa1eed@2d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190829
+SUMMARY:[LeetTools] Day 117: Min Stack\, Combination Sum IV
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/min-stack>Min Stack</a>\n   - <a href=https://leetcode.com/problems/combination-sum-iv>Combination Sum IV</a>
+TRANSP:OPAQUE
+UID:c857da01-1ebb-4d1e-b0a3-5a8b4af42429@c857.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190508
+SUMMARY:[LeetTools] Day 4: Binary Tree Tilt\, Find Duplicate Subtrees
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-tree-tilt>Binary Tree Tilt</a>\n   - <a href=https://leetcode.com/problems/find-duplicate-subtrees>Find Duplicate Subtrees</a>
+TRANSP:OPAQUE
+UID:d3f8e904-6fbd-42d5-bf8f-3b2cb819605a@d3f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190524
+SUMMARY:[LeetTools] Day 20: Contains Duplicate II\, Unique Paths
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/contains-duplicate-ii>Contains Duplicate II</a>\n   - <a href=https://leetcode.com/problems/unique-paths>Unique Paths</a>
+TRANSP:OPAQUE
+UID:50023dce-c933-4e76-8fa1-f639651766a1@5002.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190801
+SUMMARY:[LeetTools] Day 89: To Lower Case\, Random Pick Index
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/to-lower-case>To Lower Case</a>\n   - <a href=https://leetcode.com/problems/random-pick-index>Random Pick Index</a>
+TRANSP:OPAQUE
+UID:8b91b010-42ca-4395-8340-eee23c291236@8b91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190912
+SUMMARY:[LeetTools] Day 131: Remove Linked List Elements\, Subarray Sums Divisible by K
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/remove-linked-list-elements>Remove Linked List Elements</a>\n   - <a href=https://leetcode.com/problems/subarray-sums-divisible-by-k>Subarray Sums Divisible by K</a>
+TRANSP:OPAQUE
+UID:ada188c9-7d36-4224-b0bb-ea701e8361f2@ada1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191019
+SUMMARY:[LeetTools] Day 168: Valid Palindrome II\, Pacific Atlantic Water Flow
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-palindrome-ii>Valid Palindrome II</a>\n   - <a href=https://leetcode.com/problems/pacific-atlantic-water-flow>Pacific Atlantic Water Flow</a>
+TRANSP:OPAQUE
+UID:a9808c74-a89b-4b8c-abef-b43aa3590f89@a980.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191026
+SUMMARY:[LeetTools] Day 175: Number of 1 Bits\, Add Two Numbers
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/number-of-1-bits>Number of 1 Bits</a>\n   - <a href=https://leetcode.com/problems/add-two-numbers>Add Two Numbers</a>
+TRANSP:OPAQUE
+UID:ea4fa2c2-7a90-4fa0-b1a0-fc37c5d8695c@ea4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191119
+SUMMARY:[LeetTools] Day 199: Reverse Integer\, Contains Duplicate III
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reverse-integer>Reverse Integer</a>\n   - <a href=https://leetcode.com/problems/contains-duplicate-iii>Contains Duplicate III</a>
+TRANSP:OPAQUE
+UID:52790f02-3f0e-4109-aee0-65ac651f5a5c@5279.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190522
+SUMMARY:[LeetTools] Day 18: Roman to Integer\, Random Flip Matrix
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/roman-to-integer>Roman to Integer</a>\n   - <a href=https://leetcode.com/problems/random-flip-matrix>Random Flip Matrix</a>
+TRANSP:OPAQUE
+UID:e2ac8ef0-0097-4a28-8a57-e9ba6dddbda4@e2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190507
+SUMMARY:[LeetTools] Day 3: Number Complement\, Expressive Words
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/number-complement>Number Complement</a>\n   - <a href=https://leetcode.com/problems/expressive-words>Expressive Words</a>
+TRANSP:OPAQUE
+UID:957bf4ed-8d2b-423d-a2e1-73370f613a10@957b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190616
+SUMMARY:[LeetTools] Day 43: Next Greater Element I\, Network Delay Time
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/next-greater-element-i>Next Greater Element I</a>\n   - <a href=https://leetcode.com/problems/network-delay-time>Network Delay Time</a>
+TRANSP:OPAQUE
+UID:c33a045e-fb60-424d-8885-38d38b5a624c@c33a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191108
+SUMMARY:[LeetTools] Day 188: Largest Triangle Area\, Pow(x\, n)
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/largest-triangle-area>Largest Triangle Area</a>\n   - <a href=https://leetcode.com/problems/powx-n>Pow(x\, n)</a>
+TRANSP:OPAQUE
+UID:39c85864-5791-41f7-a0e7-be470afa50dd@39c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191116
+SUMMARY:[LeetTools] Day 196: Nim Game\, Largest Number
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/nim-game>Nim Game</a>\n   - <a href=https://leetcode.com/problems/largest-number>Largest Number</a>
+TRANSP:OPAQUE
+UID:8aff74ff-aa38-44a9-aa9b-72083d1bff6a@8aff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191127
+SUMMARY:[LeetTools] Day 207: Toeplitz Matrix\, Shifting Letters
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/toeplitz-matrix>Toeplitz Matrix</a>\n   - <a href=https://leetcode.com/problems/shifting-letters>Shifting Letters</a>
+TRANSP:OPAQUE
+UID:c7e0467f-306d-4128-8859-7642c9f785de@c7e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191022
+SUMMARY:[LeetTools] Day 171: Binary Number with Alternating Bits\, Push Dominoes
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-number-with-alternating-bits>Binary Number with Alternating Bits</a>\n   - <a href=https://leetcode.com/problems/push-dominoes>Push Dominoes</a>
+TRANSP:OPAQUE
+UID:0057fddd-3203-4656-98ea-a8952c3d8c90@0057.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190713
+SUMMARY:[LeetTools] Day 70: Reorder Log Files\, Possible Bipartition
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reorder-log-files>Reorder Log Files</a>\n   - <a href=https://leetcode.com/problems/possible-bipartition>Possible Bipartition</a>
+TRANSP:OPAQUE
+UID:223668ca-37f4-4f9d-bc17-57ca5ecd8288@2236.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190810
+SUMMARY:[LeetTools] Day 98: Rotate String\, Sort Colors
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/rotate-string>Rotate String</a>\n   - <a href=https://leetcode.com/problems/sort-colors>Sort Colors</a>
+TRANSP:OPAQUE
+UID:c39458dd-4072-48ff-bb6b-59fcc117eb56@c394.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190705
+SUMMARY:[LeetTools] Day 62: Longest Continuous Increasing Subsequence\, Validate IP Address
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-continuous-increasing-subsequence>Longest Continuous Increasing Subsequence</a>\n   - <a href=https://leetcode.com/problems/validate-ip-address>Validate IP Address</a>
+TRANSP:OPAQUE
+UID:36bd232e-c2aa-49d2-aeb5-5add970e2d75@36bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190916
+SUMMARY:[LeetTools] Day 135: Increasing Order Search Tree\, Repeated DNA Sequences
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/increasing-order-search-tree>Increasing Order Search Tree</a>\n   - <a href=https://leetcode.com/problems/repeated-dna-sequences>Repeated DNA Sequences</a>
+TRANSP:OPAQUE
+UID:170bffd9-b28a-45af-b16c-6ff246bb2d97@170b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190519
+SUMMARY:[LeetTools] Day 15: Flood Fill\, Capacity To Ship Packages Within D Days
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/flood-fill>Flood Fill</a>\n   - <a href=https://leetcode.com/problems/capacity-to-ship-packages-within-d-days>Capacity To Ship Packages Within D Days</a>
+TRANSP:OPAQUE
+UID:b99d9024-54fb-412b-b0f3-650118c8046d@b99d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190919
+SUMMARY:[LeetTools] Day 138: Squares of a Sorted Array\, Satisfiability of Equality Equations
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/squares-of-a-sorted-array>Squares of a Sorted Array</a>\n   - <a href=https://leetcode.com/problems/satisfiability-of-equality-equations>Satisfiability of Equality Equations</a>
+TRANSP:OPAQUE
+UID:d193f01e-63c0-44c1-b84b-3c34c70ed73a@d193.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190930
+SUMMARY:[LeetTools] Day 149: Find Pivot Index\, Binary Tree Zigzag Level Order Traversal
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-pivot-index>Find Pivot Index</a>\n   - <a href=https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal>Binary Tree Zigzag Level Order Traversal</a>
+TRANSP:OPAQUE
+UID:6ff5cb4e-45d1-4d20-8228-f793d90326a8@6ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191018
+SUMMARY:[LeetTools] Day 167: Uncommon Words from Two Sentences\, Find Bottom Left Tree Value
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/uncommon-words-from-two-sentences>Uncommon Words from Two Sentences</a>\n   - <a href=https://leetcode.com/problems/find-bottom-left-tree-value>Find Bottom Left Tree Value</a>
+TRANSP:OPAQUE
+UID:e0752d10-8a92-41c9-8d87-86d9fcb7054d@e075.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190613
+SUMMARY:[LeetTools] Day 40: Shortest Unsorted Continuous Subarray\, Range Sum Query - Mutable
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/shortest-unsorted-continuous-subarray>Shortest Unsorted Continuous Subarray</a>\n   - <a href=https://leetcode.com/problems/range-sum-query-mutable>Range Sum Query - Mutable</a>
+TRANSP:OPAQUE
+UID:4f97a525-22d7-4e04-b54b-56b920ebc8f2@4f97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191101
+SUMMARY:[LeetTools] Day 181: Pairs of Songs With Total Durations Divisible by 60\, Best Sightseeing Pair
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60>Pairs of Songs With Total Durations Divisible by 60</a>\n   - <a href=https://leetcode.com/problems/best-sightseeing-pair>Best Sightseeing Pair</a>
+TRANSP:OPAQUE
+UID:4ca7dbbf-3286-4ddb-aaa7-5fb2abba77d1@4ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191012
+SUMMARY:[LeetTools] Day 161: Middle of the Linked List\, Palindromic Substrings
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/middle-of-the-linked-list>Middle of the Linked List</a>\n   - <a href=https://leetcode.com/problems/palindromic-substrings>Palindromic Substrings</a>
+TRANSP:OPAQUE
+UID:512a22bb-427a-4e7f-8f92-5a2d5ae56aa7@512a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190915
+SUMMARY:[LeetTools] Day 134: Sqrt(x)\, Longest Arithmetic Sequence
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sqrtx>Sqrt(x)</a>\n   - <a href=https://leetcode.com/problems/longest-arithmetic-sequence>Longest Arithmetic Sequence</a>
+TRANSP:OPAQUE
+UID:59fb586b-c87f-4cc2-a1c9-688949a257aa@59fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190625
+SUMMARY:[LeetTools] Day 52: House Robber\, Insert Delete GetRandom O(1)
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/house-robber>House Robber</a>\n   - <a href=https://leetcode.com/problems/insert-delete-getrandom-o1>Insert Delete GetRandom O(1)</a>
+TRANSP:OPAQUE
+UID:5df3fdc5-73c7-4000-bd02-1df81ed01c3e@5df3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191130
+SUMMARY:[LeetTools] Day 210: Find All Anagrams in a String\, Is Subsequence
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-all-anagrams-in-a-string>Find All Anagrams in a String</a>\n   - <a href=https://leetcode.com/problems/is-subsequence>Is Subsequence</a>
+TRANSP:OPAQUE
+UID:3f271190-210e-4cd7-b5f9-587844c00b83@3f27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190828
+SUMMARY:[LeetTools] Day 116: Sort Array By Parity\, Design Circular Deque
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sort-array-by-parity>Sort Array By Parity</a>\n   - <a href=https://leetcode.com/problems/design-circular-deque>Design Circular Deque</a>
+TRANSP:OPAQUE
+UID:885903ff-60c8-4e54-9ea7-33db192dd74a@8859.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190719
+SUMMARY:[LeetTools] Day 76: Missing Number\, Perfect Squares
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/missing-number>Missing Number</a>\n   - <a href=https://leetcode.com/problems/perfect-squares>Perfect Squares</a>
+TRANSP:OPAQUE
+UID:94fac450-de55-4da5-b99d-3e45da43165a@94fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190608
+SUMMARY:[LeetTools] Day 35: Long Pressed Name\, Remove Nth Node From End of List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/long-pressed-name>Long Pressed Name</a>\n   - <a href=https://leetcode.com/problems/remove-nth-node-from-end-of-list>Remove Nth Node From End of List</a>
+TRANSP:OPAQUE
+UID:9e868879-2fdd-4638-8e44-f0f6ce6b09fc@9e86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190510
+SUMMARY:[LeetTools] Day 6: Fibonacci Number\, Minimum Size Subarray Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/fibonacci-number>Fibonacci Number</a>\n   - <a href=https://leetcode.com/problems/minimum-size-subarray-sum>Minimum Size Subarray Sum</a>
+TRANSP:OPAQUE
+UID:cbb53161-9d5b-4ae8-959a-753b0dd908c5@cbb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190928
+SUMMARY:[LeetTools] Day 147: Find Mode in Binary Search Tree\, Brick Wall
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-mode-in-binary-search-tree>Find Mode in Binary Search Tree</a>\n   - <a href=https://leetcode.com/problems/brick-wall>Brick Wall</a>
+TRANSP:OPAQUE
+UID:e042973a-61eb-4591-b4a9-87308a88af5d@e042.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190714
+SUMMARY:[LeetTools] Day 71: Power of Four\, Number of Islands
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/power-of-four>Power of Four</a>\n   - <a href=https://leetcode.com/problems/number-of-islands>Number of Islands</a>
+TRANSP:OPAQUE
+UID:0d2141e7-61b7-4c30-ac50-d5d3eaaf8cf6@0d21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191020
+SUMMARY:[LeetTools] Day 169: First Bad Version\, Prime Palindrome
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/first-bad-version>First Bad Version</a>\n   - <a href=https://leetcode.com/problems/prime-palindrome>Prime Palindrome</a>
+TRANSP:OPAQUE
+UID:f19bc4d2-4f55-4c87-ae17-9e1d2fef9634@f19b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190617
+SUMMARY:[LeetTools] Day 44: Largest Number At Least Twice of Others\, Most Stones Removed with Same Row or Column
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/largest-number-at-least-twice-of-others>Largest Number At Least Twice of Others</a>\n   - <a href=https://leetcode.com/problems/most-stones-removed-with-same-row-or-column>Most Stones Removed with Same Row or Column</a>
+TRANSP:OPAQUE
+UID:6d2b9bcf-9fd4-4a85-9763-e7b76aa15abf@6d2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190706
+SUMMARY:[LeetTools] Day 63: Largest Time for Given Digits\, Insertion Sort List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/largest-time-for-given-digits>Largest Time for Given Digits</a>\n   - <a href=https://leetcode.com/problems/insertion-sort-list>Insertion Sort List</a>
+TRANSP:OPAQUE
+UID:32388732-7e5c-44ad-89c1-ce606383ba04@3238.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190825
+SUMMARY:[LeetTools] Day 113: Construct String from Binary Tree\, Reconstruct Itinerary
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/construct-string-from-binary-tree>Construct String from Binary Tree</a>\n   - <a href=https://leetcode.com/problems/reconstruct-itinerary>Reconstruct Itinerary</a>
+TRANSP:OPAQUE
+UID:0d0a4410-cb1d-4b0a-9957-cd27e9d45de1@0d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190529
+SUMMARY:[LeetTools] Day 25: Rotated Digits\, House Robber III
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/rotated-digits>Rotated Digits</a>\n   - <a href=https://leetcode.com/problems/house-robber-iii>House Robber III</a>
+TRANSP:OPAQUE
+UID:859a636d-27d3-44c8-9e0e-bfbc73283db1@859a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190807
+SUMMARY:[LeetTools] Day 95: Divisor Game\, Rotate Image
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/divisor-game>Divisor Game</a>\n   - <a href=https://leetcode.com/problems/rotate-image>Rotate Image</a>
+TRANSP:OPAQUE
+UID:682385fe-baab-4cab-a54b-cbb3a18a1576@6823.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190523
+SUMMARY:[LeetTools] Day 19: Baseball Game\, Flatten Binary Tree to Linked List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/baseball-game>Baseball Game</a>\n   - <a href=https://leetcode.com/problems/flatten-binary-tree-to-linked-list>Flatten Binary Tree to Linked List</a>
+TRANSP:OPAQUE
+UID:3ac2c065-0489-49fa-aa4a-e84d3daf9b14@3ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190813
+SUMMARY:[LeetTools] Day 101: Third Maximum Number\, Is Graph Bipartite?
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/third-maximum-number>Third Maximum Number</a>\n   - <a href=https://leetcode.com/problems/is-graph-bipartite>Is Graph Bipartite?</a>
+TRANSP:OPAQUE
+UID:4e972666-a768-4912-821f-d5a82c523b14@4e97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190517
+SUMMARY:[LeetTools] Day 13: Intersection of Two Arrays II\, Find All Duplicates in an Array
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/intersection-of-two-arrays-ii>Intersection of Two Arrays II</a>\n   - <a href=https://leetcode.com/problems/find-all-duplicates-in-an-array>Find All Duplicates in an Array</a>
+TRANSP:OPAQUE
+UID:e961ccc1-bb58-47a2-a7d7-4579d260ef28@e961.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190526
+SUMMARY:[LeetTools] Day 22: Implement strStr()\, Array Nesting
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/implement-strstr>Implement strStr()</a>\n   - <a href=https://leetcode.com/problems/array-nesting>Array Nesting</a>
+TRANSP:OPAQUE
+UID:8d0dc53f-be17-4ad0-a411-b739e466f37d@8d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190629
+SUMMARY:[LeetTools] Day 56: Reverse Vowels of a String\, Word Subsets
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reverse-vowels-of-a-string>Reverse Vowels of a String</a>\n   - <a href=https://leetcode.com/problems/word-subsets>Word Subsets</a>
+TRANSP:OPAQUE
+UID:70f8e51c-e4b4-4ba3-b204-53dc86abf978@70f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190927
+SUMMARY:[LeetTools] Day 146: Detect Capital\, Subsets
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/detect-capital>Detect Capital</a>\n   - <a href=https://leetcode.com/problems/subsets>Subsets</a>
+TRANSP:OPAQUE
+UID:c67eb24b-79dc-42f3-8269-6a7203e6113a@c67e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190718
+SUMMARY:[LeetTools] Day 75: Flipping an Image\, K Closest Points to Origin
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/flipping-an-image>Flipping an Image</a>\n   - <a href=https://leetcode.com/problems/k-closest-points-to-origin>K Closest Points to Origin</a>
+TRANSP:OPAQUE
+UID:ce3dd652-4b86-43a3-8552-b275611ff9a1@ce3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191027
+SUMMARY:[LeetTools] Day 176: Rotting Oranges\, Most Frequent Subtree Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/rotting-oranges>Rotting Oranges</a>\n   - <a href=https://leetcode.com/problems/most-frequent-subtree-sum>Most Frequent Subtree Sum</a>
+TRANSP:OPAQUE
+UID:3d848730-4738-4193-903e-b8c551fa83df@3d84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190708
+SUMMARY:[LeetTools] Day 65: Ugly Number\, Product of Array Except Self
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/ugly-number>Ugly Number</a>\n   - <a href=https://leetcode.com/problems/product-of-array-except-self>Product of Array Except Self</a>
+TRANSP:OPAQUE
+UID:887a4ac9-c480-4e30-95ca-354730cfdd42@887a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191007
+SUMMARY:[LeetTools] Day 156: Construct Quad Tree\, 3Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/construct-quad-tree>Construct Quad Tree</a>\n   - <a href=https://leetcode.com/problems/3sum>3Sum</a>
+TRANSP:OPAQUE
+UID:853cb45c-a49b-4b71-b8e3-131eccae608c@853c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190805
+SUMMARY:[LeetTools] Day 93: X of a Kind in a Deck of Cards\, Number of Longest Increasing Subsequence
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards>X of a Kind in a Deck of Cards</a>\n   - <a href=https://leetcode.com/problems/number-of-longest-increasing-subsequence>Number of Longest Increasing Subsequence</a>
+TRANSP:OPAQUE
+UID:8536454a-d1a8-4040-b850-64509a52dd5e@8536.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190731
+SUMMARY:[LeetTools] Day 88: Distribute Candies\, Maximum Sum Circular Subarray
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/distribute-candies>Distribute Candies</a>\n   - <a href=https://leetcode.com/problems/maximum-sum-circular-subarray>Maximum Sum Circular Subarray</a>
+TRANSP:OPAQUE
+UID:49d82557-250c-4ac3-895a-77e6fc16c654@49d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191128
+SUMMARY:[LeetTools] Day 208: Degree of an Array\, Generate Parentheses
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/degree-of-an-array>Degree of an Array</a>\n   - <a href=https://leetcode.com/problems/generate-parentheses>Generate Parentheses</a>
+TRANSP:OPAQUE
+UID:a796b65c-eff6-4b97-a159-28884671c013@a796.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190615
+SUMMARY:[LeetTools] Day 42: Walking Robot Simulation\, Contiguous Array
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/walking-robot-simulation>Walking Robot Simulation</a>\n   - <a href=https://leetcode.com/problems/contiguous-array>Contiguous Array</a>
+TRANSP:OPAQUE
+UID:ac2b8b78-4968-4139-9e8b-3049bf4908e1@ac2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190602
+SUMMARY:[LeetTools] Day 29: Sum of Square Numbers\, Number of Enclaves
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sum-of-square-numbers>Sum of Square Numbers</a>\n   - <a href=https://leetcode.com/problems/number-of-enclaves>Number of Enclaves</a>
+TRANSP:OPAQUE
+UID:ffde8cbb-40d0-460e-a2f4-2955d72f9758@ffde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190815
+SUMMARY:[LeetTools] Day 103: Minimum Index Sum of Two Lists\, Count Complete Tree Nodes
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/minimum-index-sum-of-two-lists>Minimum Index Sum of Two Lists</a>\n   - <a href=https://leetcode.com/problems/count-complete-tree-nodes>Count Complete Tree Nodes</a>
+TRANSP:OPAQUE
+UID:4c3f6a7a-059a-4881-b801-5255b62a1b25@4c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191118
+SUMMARY:[LeetTools] Day 198: Goat Latin\, All Paths From Source to Target
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/goat-latin>Goat Latin</a>\n   - <a href=https://leetcode.com/problems/all-paths-from-source-to-target>All Paths From Source to Target</a>
+TRANSP:OPAQUE
+UID:1d3d9f87-e1ed-48ee-beaf-6ef651909e36@1d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190707
+SUMMARY:[LeetTools] Day 64: Lowest Common Ancestor of a Binary Search Tree\, Beautiful Arrangement
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree>Lowest Common Ancestor of a Binary Search Tree</a>\n   - <a href=https://leetcode.com/problems/beautiful-arrangement>Beautiful Arrangement</a>
+TRANSP:OPAQUE
+UID:90af6576-51a9-494b-80fe-c4a2ef63de76@90af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190721
+SUMMARY:[LeetTools] Day 78: Majority Element\, Largest Plus Sign
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/majority-element>Majority Element</a>\n   - <a href=https://leetcode.com/problems/largest-plus-sign>Largest Plus Sign</a>
+TRANSP:OPAQUE
+UID:30e271a3-07ef-46db-b556-1c6d37345635@30e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190726
+SUMMARY:[LeetTools] Day 83: Second Minimum Node In a Binary Tree\, Combination Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/second-minimum-node-in-a-binary-tree>Second Minimum Node In a Binary Tree</a>\n   - <a href=https://leetcode.com/problems/combination-sum>Combination Sum</a>
+TRANSP:OPAQUE
+UID:97e75ae9-b1e8-4ec8-b872-31c65cb02a40@97e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190821
+SUMMARY:[LeetTools] Day 109: Add Binary\, Random Point in Non-overlapping Rectangles
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/add-binary>Add Binary</a>\n   - <a href=https://leetcode.com/problems/random-point-in-non-overlapping-rectangles>Random Point in Non-overlapping Rectangles</a>
+TRANSP:OPAQUE
+UID:41f03ae4-0b37-41dd-b970-596aaa78e279@41f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191114
+SUMMARY:[LeetTools] Day 194: Sum of Two Integers\, Reverse Words in a String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sum-of-two-integers>Sum of Two Integers</a>\n   - <a href=https://leetcode.com/problems/reverse-words-in-a-string>Reverse Words in a String</a>
+TRANSP:OPAQUE
+UID:48f1a710-b31c-4012-8b9f-dd318342d3d5@48f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191028
+SUMMARY:[LeetTools] Day 177: Employee Importance\, Set Matrix Zeroes
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/employee-importance>Employee Importance</a>\n   - <a href=https://leetcode.com/problems/set-matrix-zeroes>Set Matrix Zeroes</a>
+TRANSP:OPAQUE
+UID:30104590-7f36-42e5-aebe-8d40f7c2b7b9@3010.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191125
+SUMMARY:[LeetTools] Day 205: Add to Array-Form of Integer\, Card Flipping Game
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/add-to-array-form-of-integer>Add to Array-Form of Integer</a>\n   - <a href=https://leetcode.com/problems/card-flipping-game>Card Flipping Game</a>
+TRANSP:OPAQUE
+UID:c85e9187-6a39-49a3-8e96-e60631238f51@c85e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190817
+SUMMARY:[LeetTools] Day 105: Merge Sorted Array\, Prison Cells After N Days
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/merge-sorted-array>Merge Sorted Array</a>\n   - <a href=https://leetcode.com/problems/prison-cells-after-n-days>Prison Cells After N Days</a>
+TRANSP:OPAQUE
+UID:31307937-4909-4372-b787-c85534a4016e@3130.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190909
+SUMMARY:[LeetTools] Day 128: Longest Palindrome\, Sort an Array
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-palindrome>Longest Palindrome</a>\n   - <a href=https://leetcode.com/problems/sort-an-array>Sort an Array</a>
+TRANSP:OPAQUE
+UID:9d072f2e-d449-4575-8c13-ccfefa0d77de@9d07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190716
+SUMMARY:[LeetTools] Day 73: Number of Boomerangs\, Gas Station
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/number-of-boomerangs>Number of Boomerangs</a>\n   - <a href=https://leetcode.com/problems/gas-station>Gas Station</a>
+TRANSP:OPAQUE
+UID:3acc03c8-4e1a-4753-9689-b97e5bf78fc3@3acc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190802
+SUMMARY:[LeetTools] Day 90: Contains Duplicate\, Super Pow
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/contains-duplicate>Contains Duplicate</a>\n   - <a href=https://leetcode.com/problems/super-pow>Super Pow</a>
+TRANSP:OPAQUE
+UID:38dd6f6f-0b35-47dd-a4b5-09273ae951dc@38dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191011
+SUMMARY:[LeetTools] Day 160: DI String Match\, Copy List with Random Pointer
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/di-string-match>DI String Match</a>\n   - <a href=https://leetcode.com/problems/copy-list-with-random-pointer>Copy List with Random Pointer</a>
+TRANSP:OPAQUE
+UID:39c47b54-943a-42bc-b53f-f66ab13a10c8@39c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191112
+SUMMARY:[LeetTools] Day 192: Monotonic Array\, Verify Preorder Serialization of a Binary Tree
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/monotonic-array>Monotonic Array</a>\n   - <a href=https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree>Verify Preorder Serialization of a Binary Tree</a>
+TRANSP:OPAQUE
+UID:50bd0a61-98c0-486d-8fc8-f70754c806f1@50bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191004
+SUMMARY:[LeetTools] Day 153: Binary Prefix Divisible By 5\, Binary Search Tree to Greater Sum Tree
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-prefix-divisible-by-5>Binary Prefix Divisible By 5</a>\n   - <a href=https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>Binary Search Tree to Greater Sum Tree</a>
+TRANSP:OPAQUE
+UID:c43ba6d6-01a4-4807-a0ee-3b0f1e80890f@c43b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190704
+SUMMARY:[LeetTools] Day 61: Shortest Distance to a Character\, Majority Element II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/shortest-distance-to-a-character>Shortest Distance to a Character</a>\n   - <a href=https://leetcode.com/problems/majority-element-ii>Majority Element II</a>
+TRANSP:OPAQUE
+UID:575ee0f1-59fc-4684-9fba-79c9131d8a91@575e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191001
+SUMMARY:[LeetTools] Day 150: Longest Common Prefix\, Partition Equal Subset Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-common-prefix>Longest Common Prefix</a>\n   - <a href=https://leetcode.com/problems/partition-equal-subset-sum>Partition Equal Subset Sum</a>
+TRANSP:OPAQUE
+UID:01bf7fe2-d080-4b92-901f-6cea096b44df@01bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191201
+SUMMARY:[LeetTools] Day 211: Longest Uncommon Subsequence I \, Coloring A Border
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-uncommon-subsequence-i>Longest Uncommon Subsequence I </a>\n   - <a href=https://leetcode.com/problems/coloring-a-border>Coloring A Border</a>
+TRANSP:OPAQUE
+UID:ce1e2d70-f865-4061-8b42-12cf5a5b0214@ce1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191014
+SUMMARY:[LeetTools] Day 163: Intersection of Two Arrays\, Single Number III
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/intersection-of-two-arrays>Intersection of Two Arrays</a>\n   - <a href=https://leetcode.com/problems/single-number-iii>Single Number III</a>
+TRANSP:OPAQUE
+UID:386e7eea-d01f-4b98-a58e-b52909c99498@386e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191003
+SUMMARY:[LeetTools] Day 152: Valid Boomerang\, Minimum Falling Path Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-boomerang>Valid Boomerang</a>\n   - <a href=https://leetcode.com/problems/minimum-falling-path-sum>Minimum Falling Path Sum</a>
+TRANSP:OPAQUE
+UID:69480227-a0fc-4c90-bb96-6d91b88fe43e@6948.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190811
+SUMMARY:[LeetTools] Day 99: Balanced Binary Tree\, 4Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/balanced-binary-tree>Balanced Binary Tree</a>\n   - <a href=https://leetcode.com/problems/4sum>4Sum</a>
+TRANSP:OPAQUE
+UID:a467fff4-75a3-4dec-85f4-28927027170d@a467.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191124
+SUMMARY:[LeetTools] Day 204: Best Time to Buy and Sell Stock II\, Search a 2D Matrix II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii>Best Time to Buy and Sell Stock II</a>\n   - <a href=https://leetcode.com/problems/search-a-2d-matrix-ii>Search a 2D Matrix II</a>
+TRANSP:OPAQUE
+UID:377c0547-d98c-4585-bb7e-b20ec2d9af26@377c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190610
+SUMMARY:[LeetTools] Day 37: Valid Anagram\, Longest Palindromic Substring
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-anagram>Valid Anagram</a>\n   - <a href=https://leetcode.com/problems/longest-palindromic-substring>Longest Palindromic Substring</a>
+TRANSP:OPAQUE
+UID:55747f58-4b99-4f60-92ee-ef049b6dd4c3@5574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191126
+SUMMARY:[LeetTools] Day 206: Minimum Distance Between BST Nodes\, Kth Largest Element in an Array
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/minimum-distance-between-bst-nodes>Minimum Distance Between BST Nodes</a>\n   - <a href=https://leetcode.com/problems/kth-largest-element-in-an-array>Kth Largest Element in an Array</a>
+TRANSP:OPAQUE
+UID:330e7c5c-af7a-4518-bc3e-208caf2b99c1@330e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190701
+SUMMARY:[LeetTools] Day 58: Can Place Flowers\, Delete Columns to Make Sorted II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/can-place-flowers>Can Place Flowers</a>\n   - <a href=https://leetcode.com/problems/delete-columns-to-make-sorted-ii>Delete Columns to Make Sorted II</a>
+TRANSP:OPAQUE
+UID:3ba02da1-ff83-4177-95b2-b435b57f0e25@3ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190620
+SUMMARY:[LeetTools] Day 47: Find the Town Judge\, Binary Tree Right Side View
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-the-town-judge>Find the Town Judge</a>\n   - <a href=https://leetcode.com/problems/binary-tree-right-side-view>Binary Tree Right Side View</a>
+TRANSP:OPAQUE
+UID:ef4c526e-6606-411d-86b3-1a1864775d97@ef4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190627
+SUMMARY:[LeetTools] Day 54: First Unique Character in a String\, Max Chunks To Make Sorted
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/first-unique-character-in-a-string>First Unique Character in a String</a>\n   - <a href=https://leetcode.com/problems/max-chunks-to-make-sorted>Max Chunks To Make Sorted</a>
+TRANSP:OPAQUE
+UID:99599e27-f702-4a1e-b3b2-3242c5f786ef@9959.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190812
+SUMMARY:[LeetTools] Day 100: Self Dividing Numbers\, Partition to K Equal Sum Subsets
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/self-dividing-numbers>Self Dividing Numbers</a>\n   - <a href=https://leetcode.com/problems/partition-to-k-equal-sum-subsets>Partition to K Equal Sum Subsets</a>
+TRANSP:OPAQUE
+UID:f48fa6c8-ef97-4b0f-9074-c8e6ad6e986e@f48f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191005
+SUMMARY:[LeetTools] Day 154: K-diff Pairs in an Array\, Maximum XOR of Two Numbers in an Array
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/k-diff-pairs-in-an-array>K-diff Pairs in an Array</a>\n   - <a href=https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array>Maximum XOR of Two Numbers in an Array</a>
+TRANSP:OPAQUE
+UID:01ea3b7e-3b62-4fff-af07-5f7364bc851d@01ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191015
+SUMMARY:[LeetTools] Day 164: Available Captures for Rook\, Accounts Merge
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/available-captures-for-rook>Available Captures for Rook</a>\n   - <a href=https://leetcode.com/problems/accounts-merge>Accounts Merge</a>
+TRANSP:OPAQUE
+UID:f1d8d1d2-8d18-479d-8d94-50d511ce0714@f1d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190525
+SUMMARY:[LeetTools] Day 21: Positions of Large Groups\, Integer Break
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/positions-of-large-groups>Positions of Large Groups</a>\n   - <a href=https://leetcode.com/problems/integer-break>Integer Break</a>
+TRANSP:OPAQUE
+UID:8e0f329f-d547-473a-bdfe-dcfcb5ba9462@8e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190609
+SUMMARY:[LeetTools] Day 36: Two City Scheduling\, Find Duplicate File in System
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/two-city-scheduling>Two City Scheduling</a>\n   - <a href=https://leetcode.com/problems/find-duplicate-file-in-system>Find Duplicate File in System</a>
+TRANSP:OPAQUE
+UID:aab64303-550a-4827-a1e0-7600a1743996@aab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191107
+SUMMARY:[LeetTools] Day 187: Length of Last Word\, Course Schedule
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/length-of-last-word>Length of Last Word</a>\n   - <a href=https://leetcode.com/problems/course-schedule>Course Schedule</a>
+TRANSP:OPAQUE
+UID:53adf1bb-0880-4e3c-b7b7-9bcb977bbe42@53ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190512
+SUMMARY:[LeetTools] Day 8: Convert Sorted Array to Binary Search Tree\, Remove Comments
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree>Convert Sorted Array to Binary Search Tree</a>\n   - <a href=https://leetcode.com/problems/remove-comments>Remove Comments</a>
+TRANSP:OPAQUE
+UID:da03df66-2394-4574-b354-d87e1064f127@da03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191121
+SUMMARY:[LeetTools] Day 201: Relative Ranks\, Next Greater Node In Linked List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/relative-ranks>Relative Ranks</a>\n   - <a href=https://leetcode.com/problems/next-greater-node-in-linked-list>Next Greater Node In Linked List</a>
+TRANSP:OPAQUE
+UID:01e2a820-11ad-4f23-81f6-eec19020b07b@01e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190612
+SUMMARY:[LeetTools] Day 39: Perfect Number\, Minesweeper
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/perfect-number>Perfect Number</a>\n   - <a href=https://leetcode.com/problems/minesweeper>Minesweeper</a>
+TRANSP:OPAQUE
+UID:0c215251-a4e9-4252-ab49-bdd55b7cdada@0c21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190514
+SUMMARY:[LeetTools] Day 10: 1-bit and 2-bit Characters\, Spiral Matrix III
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/1-bit-and-2-bit-characters>1-bit and 2-bit Characters</a>\n   - <a href=https://leetcode.com/problems/spiral-matrix-iii>Spiral Matrix III</a>
+TRANSP:OPAQUE
+UID:647c9d4c-c98f-417a-8dd2-f4914c77309a@647c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190518
+SUMMARY:[LeetTools] Day 14: Happy Number\, Construct Binary Search Tree from Preorder Traversal
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/happy-number>Happy Number</a>\n   - <a href=https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>Construct Binary Search Tree from Preorder Traversal</a>
+TRANSP:OPAQUE
+UID:35e65ae9-67dc-46ba-95d8-7fc53de19d1f@35e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190516
+SUMMARY:[LeetTools] Day 12: Sum of Left Leaves\, Max Increase to Keep City Skyline
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sum-of-left-leaves>Sum of Left Leaves</a>\n   - <a href=https://leetcode.com/problems/max-increase-to-keep-city-skyline>Max Increase to Keep City Skyline</a>
+TRANSP:OPAQUE
+UID:4e0d48c1-8cbb-46a0-8614-5d9f5bbb42c5@4e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190907
+SUMMARY:[LeetTools] Day 126: Count and Say\, Find and Replace Pattern
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/count-and-say>Count and Say</a>\n   - <a href=https://leetcode.com/problems/find-and-replace-pattern>Find and Replace Pattern</a>
+TRANSP:OPAQUE
+UID:f40f71f9-e928-4ac1-885a-ecfa269e6db6@f40f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191009
+SUMMARY:[LeetTools] Day 158: Rotate Array\, Longest Turbulent Subarray
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/rotate-array>Rotate Array</a>\n   - <a href=https://leetcode.com/problems/longest-turbulent-subarray>Longest Turbulent Subarray</a>
+TRANSP:OPAQUE
+UID:3c81682c-69e6-4752-a01d-06e32ed9e948@3c81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190905
+SUMMARY:[LeetTools] Day 124: Convert BST to Greater Tree\, Binary Tree Level Order Traversal
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/convert-bst-to-greater-tree>Convert BST to Greater Tree</a>\n   - <a href=https://leetcode.com/problems/binary-tree-level-order-traversal>Binary Tree Level Order Traversal</a>
+TRANSP:OPAQUE
+UID:f9c53b55-f27a-4b42-87de-fdc648e2f661@f9c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191105
+SUMMARY:[LeetTools] Day 185: Backspace String Compare\, Vertical Order Traversal of a Binary Tree
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/backspace-string-compare>Backspace String Compare</a>\n   - <a href=https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>Vertical Order Traversal of a Binary Tree</a>
+TRANSP:OPAQUE
+UID:d24ef1a1-500b-4ec4-a88f-e3af0842041d@d24e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191115
+SUMMARY:[LeetTools] Day 195: Repeated String Match\, Decode String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/repeated-string-match>Repeated String Match</a>\n   - <a href=https://leetcode.com/problems/decode-string>Decode String</a>
+TRANSP:OPAQUE
+UID:1291888b-df56-435e-9fd0-58b9ce0d082c@1291.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190505
+SUMMARY:[LeetTools] Day 1: Invert Binary Tree\, Merge Intervals
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/invert-binary-tree>Invert Binary Tree</a>\n   - <a href=https://leetcode.com/problems/merge-intervals>Merge Intervals</a>
+TRANSP:OPAQUE
+UID:e3cfd1aa-1fc1-40da-964e-08232be6da2a@e3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190530
+SUMMARY:[LeetTools] Day 26: Minimum Moves to Equal Array Elements\, Find Largest Value in Each Tree Row
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/minimum-moves-to-equal-array-elements>Minimum Moves to Equal Array Elements</a>\n   - <a href=https://leetcode.com/problems/find-largest-value-in-each-tree-row>Find Largest Value in Each Tree Row</a>
+TRANSP:OPAQUE
+UID:a5596c3f-0df0-4790-bbe5-ce3d4b2bdea8@a559.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190531
+SUMMARY:[LeetTools] Day 27: Maximize Sum Of Array After K Negations\, Group Anagrams
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/maximize-sum-of-array-after-k-negations>Maximize Sum Of Array After K Negations</a>\n   - <a href=https://leetcode.com/problems/group-anagrams>Group Anagrams</a>
+TRANSP:OPAQUE
+UID:3080f49f-e76a-4081-96a7-d07cdc9b1bb4@3080.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190614
+SUMMARY:[LeetTools] Day 41: Binary Search\, Longest Absolute File Path
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-search>Binary Search</a>\n   - <a href=https://leetcode.com/problems/longest-absolute-file-path>Longest Absolute File Path</a>
+TRANSP:OPAQUE
+UID:345090e3-364c-45bb-a6b4-e7229b5829dd@3450.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191102
+SUMMARY:[LeetTools] Day 182: Binary Gap\, Exclusive Time of Functions
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-gap>Binary Gap</a>\n   - <a href=https://leetcode.com/problems/exclusive-time-of-functions>Exclusive Time of Functions</a>
+TRANSP:OPAQUE
+UID:53b09891-bd64-4c67-ab5d-d64eaf858165@53b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190914
+SUMMARY:[LeetTools] Day 133: Path Sum\, Rotate Function
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/path-sum>Path Sum</a>\n   - <a href=https://leetcode.com/problems/rotate-function>Rotate Function</a>
+TRANSP:OPAQUE
+UID:5ceeecb3-2d3b-4a9b-a24b-362fb3bb6e40@5cee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191002
+SUMMARY:[LeetTools] Day 151: Moving Stones Until Consecutive\, Minimum Path Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/moving-stones-until-consecutive>Moving Stones Until Consecutive</a>\n   - <a href=https://leetcode.com/problems/minimum-path-sum>Minimum Path Sum</a>
+TRANSP:OPAQUE
+UID:d18d766b-6763-4e9e-9a98-41d89cca2b98@d18d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190920
+SUMMARY:[LeetTools] Day 139: Complement of Base 10 Integer\, Minimum Cost For Tickets
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/complement-of-base-10-integer>Complement of Base 10 Integer</a>\n   - <a href=https://leetcode.com/problems/minimum-cost-for-tickets>Minimum Cost For Tickets</a>
+TRANSP:OPAQUE
+UID:e216bce3-477c-4b56-a641-2bacb95a1d17@e216.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190923
+SUMMARY:[LeetTools] Day 142: Move Zeroes\, Next Greater Element III
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/move-zeroes>Move Zeroes</a>\n   - <a href=https://leetcode.com/problems/next-greater-element-iii>Next Greater Element III</a>
+TRANSP:OPAQUE
+UID:0933da30-ad95-4193-9143-ec342fef032c@0933.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190929
+SUMMARY:[LeetTools] Day 148: Student Attendance Record I\, Binary String With Substrings Representing 1 To N
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/student-attendance-record-i>Student Attendance Record I</a>\n   - <a href=https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n>Binary String With Substrings Representing 1 To N</a>
+TRANSP:OPAQUE
+UID:b4307417-5717-44d3-afa7-1af4b7bac529@b430.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190918
+SUMMARY:[LeetTools] Day 137: Partition Array Into Three Parts With Equal Sum\, Count Numbers with Unique Digits
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>Partition Array Into Three Parts With Equal Sum</a>\n   - <a href=https://leetcode.com/problems/count-numbers-with-unique-digits>Count Numbers with Unique Digits</a>
+TRANSP:OPAQUE
+UID:6f17414a-ae58-43d3-a22b-5d4a11d70512@6f17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190703
+SUMMARY:[LeetTools] Day 60: Construct the Rectangle\, Find Eventual Safe States
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/construct-the-rectangle>Construct the Rectangle</a>\n   - <a href=https://leetcode.com/problems/find-eventual-safe-states>Find Eventual Safe States</a>
+TRANSP:OPAQUE
+UID:5250e87b-8fb4-4853-9b23-47db67688df3@5250.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190601
+SUMMARY:[LeetTools] Day 28: Cousins in Binary Tree\, Bitwise AND of Numbers Range
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/cousins-in-binary-tree>Cousins in Binary Tree</a>\n   - <a href=https://leetcode.com/problems/bitwise-and-of-numbers-range>Bitwise AND of Numbers Range</a>
+TRANSP:OPAQUE
+UID:29572231-ad81-4957-801e-3333385575c6@2957.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191129
+SUMMARY:[LeetTools] Day 209: Valid Palindrome\, Maximum Binary Tree
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-palindrome>Valid Palindrome</a>\n   - <a href=https://leetcode.com/problems/maximum-binary-tree>Maximum Binary Tree</a>
+TRANSP:OPAQUE
+UID:ed8a4c0e-c489-43cd-b48f-edc7a0fac8c5@ed8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190924
+SUMMARY:[LeetTools] Day 143: Average of Levels in Binary Tree\, Score of Parentheses
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/average-of-levels-in-binary-tree>Average of Levels in Binary Tree</a>\n   - <a href=https://leetcode.com/problems/score-of-parentheses>Score of Parentheses</a>
+TRANSP:OPAQUE
+UID:61b49933-9637-4dad-a66c-31d1535e886b@61b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190925
+SUMMARY:[LeetTools] Day 144: Number of Recent Calls\, Decoded String at Index
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/number-of-recent-calls>Number of Recent Calls</a>\n   - <a href=https://leetcode.com/problems/decoded-string-at-index>Decoded String at Index</a>
+TRANSP:OPAQUE
+UID:1e6c7678-fc6b-4823-8e81-fb366ca92e0e@1e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191109
+SUMMARY:[LeetTools] Day 189: Binary Tree Level Order Traversal II\, Letter Combinations of a Phone Number
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-tree-level-order-traversal-ii>Binary Tree Level Order Traversal II</a>\n   - <a href=https://leetcode.com/problems/letter-combinations-of-a-phone-number>Letter Combinations of a Phone Number</a>
+TRANSP:OPAQUE
+UID:22d3c688-3ad1-4b56-bdfa-3c705956831c@22d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191025
+SUMMARY:[LeetTools] Day 174: Find Common Characters\, H-Index
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-common-characters>Find Common Characters</a>\n   - <a href=https://leetcode.com/problems/h-index>H-Index</a>
+TRANSP:OPAQUE
+UID:837e341f-be45-4fd0-be4c-e25ae7b66fa0@837e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191010
+SUMMARY:[LeetTools] Day 159: Two Sum IV - Input is a BST\, Find And Replace in String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/two-sum-iv-input-is-a-bst>Two Sum IV - Input is a BST</a>\n   - <a href=https://leetcode.com/problems/find-and-replace-in-string>Find And Replace in String</a>
+TRANSP:OPAQUE
+UID:171478f6-de63-4767-8e79-740957a9d39f@1714.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190606
+SUMMARY:[LeetTools] Day 33: Guess Number Higher or Lower\, Time Based Key-Value Store
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/guess-number-higher-or-lower>Guess Number Higher or Lower</a>\n   - <a href=https://leetcode.com/problems/time-based-key-value-store>Time Based Key-Value Store</a>
+TRANSP:OPAQUE
+UID:4ad388fb-b4be-49bb-95f5-ba843a30b188@4ad3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190908
+SUMMARY:[LeetTools] Day 127: N-ary Tree Postorder Traversal\, Teemo Attacking
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/n-ary-tree-postorder-traversal>N-ary Tree Postorder Traversal</a>\n   - <a href=https://leetcode.com/problems/teemo-attacking>Teemo Attacking</a>
+TRANSP:OPAQUE
+UID:4aa81bd1-1256-45ee-afd9-14e5b2d580ae@4aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190830
+SUMMARY:[LeetTools] Day 118: Powerful Integers\, Container With Most Water
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/powerful-integers>Powerful Integers</a>\n   - <a href=https://leetcode.com/problems/container-with-most-water>Container With Most Water</a>
+TRANSP:OPAQUE
+UID:f5a6fe59-5838-4e69-8769-e7d0491226bb@f5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190710
+SUMMARY:[LeetTools] Day 67: Subdomain Visit Count\, Minimum Number of Arrows to Burst Balloons
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/subdomain-visit-count>Subdomain Visit Count</a>\n   - <a href=https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons>Minimum Number of Arrows to Burst Balloons</a>
+TRANSP:OPAQUE
+UID:59b039cb-8334-43ea-997f-d1b0aff15492@59b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190715
+SUMMARY:[LeetTools] Day 72: Verifying an Alien Dictionary\, 132 Pattern
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/verifying-an-alien-dictionary>Verifying an Alien Dictionary</a>\n   - <a href=https://leetcode.com/problems/132-pattern>132 Pattern</a>
+TRANSP:OPAQUE
+UID:d2e82743-1972-4775-a947-bd51c2956c6e@d2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191113
+SUMMARY:[LeetTools] Day 193: Leaf-Similar Trees\, Shopping Offers
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/leaf-similar-trees>Leaf-Similar Trees</a>\n   - <a href=https://leetcode.com/problems/shopping-offers>Shopping Offers</a>
+TRANSP:OPAQUE
+UID:f050c417-4683-4bd1-bd1c-4a57988dc1a9@f050.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190521
+SUMMARY:[LeetTools] Day 17: Largest Perimeter Triangle\, Partition List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/largest-perimeter-triangle>Largest Perimeter Triangle</a>\n   - <a href=https://leetcode.com/problems/partition-list>Partition List</a>
+TRANSP:OPAQUE
+UID:52f0641a-2fb8-4d04-a9ba-3351d2272946@52f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190820
+SUMMARY:[LeetTools] Day 108: Reach a Number\, Different Ways to Add Parentheses
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reach-a-number>Reach a Number</a>\n   - <a href=https://leetcode.com/problems/different-ways-to-add-parentheses>Different Ways to Add Parentheses</a>
+TRANSP:OPAQUE
+UID:f4d2e427-6df2-4fa4-9592-fc8bdaf2a9f7@f4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190722
+SUMMARY:[LeetTools] Day 79: Binary Tree Paths\, K-th Symbol in Grammar
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/binary-tree-paths>Binary Tree Paths</a>\n   - <a href=https://leetcode.com/problems/k-th-symbol-in-grammar>K-th Symbol in Grammar</a>
+TRANSP:OPAQUE
+UID:8290ebff-5969-42bf-848c-48187f7d7fc6@8290.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190729
+SUMMARY:[LeetTools] Day 86: Longest Univalue Path\, Coin Change 2
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-univalue-path>Longest Univalue Path</a>\n   - <a href=https://leetcode.com/problems/coin-change-2>Coin Change 2</a>
+TRANSP:OPAQUE
+UID:8dd4e32a-f30c-44e3-a572-94bb1afa3d7a@8dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190816
+SUMMARY:[LeetTools] Day 104: Search Insert Position\, Wiggle Sort II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/search-insert-position>Search Insert Position</a>\n   - <a href=https://leetcode.com/problems/wiggle-sort-ii>Wiggle Sort II</a>
+TRANSP:OPAQUE
+UID:fb442a0e-f688-4a9e-a3d2-9b19ad31ad8d@fb44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190728
+SUMMARY:[LeetTools] Day 85: Reshape the Matrix\, Friend Circles
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reshape-the-matrix>Reshape the Matrix</a>\n   - <a href=https://leetcode.com/problems/friend-circles>Friend Circles</a>
+TRANSP:OPAQUE
+UID:ab8ed4c0-f166-4aea-891f-b90d81f41681@ab8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190901
+SUMMARY:[LeetTools] Day 120: Find All Numbers Disappeared in an Array\, Populating Next Right Pointers in Each Node
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array>Find All Numbers Disappeared in an Array</a>\n   - <a href=https://leetcode.com/problems/populating-next-right-pointers-in-each-node>Populating Next Right Pointers in Each Node</a>
+TRANSP:OPAQUE
+UID:4a557e2d-d6d3-436c-8035-dbac464bcfd1@4a55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191103
+SUMMARY:[LeetTools] Day 183: Find Smallest Letter Greater Than Target\, Sort List
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/find-smallest-letter-greater-than-target>Find Smallest Letter Greater Than Target</a>\n   - <a href=https://leetcode.com/problems/sort-list>Sort List</a>
+TRANSP:OPAQUE
+UID:c5a119da-c822-4779-8dc5-ea92e8e17eb2@c5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190607
+SUMMARY:[LeetTools] Day 34: Hamming Distance\, Keys and Rooms
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/hamming-distance>Hamming Distance</a>\n   - <a href=https://leetcode.com/problems/keys-and-rooms>Keys and Rooms</a>
+TRANSP:OPAQUE
+UID:e3985a00-5709-45a0-b003-14ac70420eba@e398.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191111
+SUMMARY:[LeetTools] Day 191: Intersection of Two Linked Lists\, Domino and Tromino Tiling
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/intersection-of-two-linked-lists>Intersection of Two Linked Lists</a>\n   - <a href=https://leetcode.com/problems/domino-and-tromino-tiling>Domino and Tromino Tiling</a>
+TRANSP:OPAQUE
+UID:b080590f-a33c-46b8-96a2-a02903487ff2@b080.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190921
+SUMMARY:[LeetTools] Day 140: Maximum Product of Three Numbers\, Binary Trees With Factors
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/maximum-product-of-three-numbers>Maximum Product of Three Numbers</a>\n   - <a href=https://leetcode.com/problems/binary-trees-with-factors>Binary Trees With Factors</a>
+TRANSP:OPAQUE
+UID:5d760d8b-f575-481c-b7ad-147e5a35129e@5d76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190725
+SUMMARY:[LeetTools] Day 82: Linked List Cycle\, Construct Binary Tree from Preorder and Inorder Traversal
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/linked-list-cycle>Linked List Cycle</a>\n   - <a href=https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal>Construct Binary Tree from Preorder and Inorder Traversal</a>
+TRANSP:OPAQUE
+UID:e7e56640-fe85-49cc-a18a-3e8481d23e47@e7e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191122
+SUMMARY:[LeetTools] Day 202: Single Number\, Permutation in String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/single-number>Single Number</a>\n   - <a href=https://leetcode.com/problems/permutation-in-string>Permutation in String</a>
+TRANSP:OPAQUE
+UID:ab3d85dd-fd8f-46fd-a8c1-cee22802c926@ab3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190630
+SUMMARY:[LeetTools] Day 57: Valid Perfect Square\, Subsets II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-perfect-square>Valid Perfect Square</a>\n   - <a href=https://leetcode.com/problems/subsets-ii>Subsets II</a>
+TRANSP:OPAQUE
+UID:67c761f7-35c5-4d2c-8534-2558ef1a26ab@67c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190913
+SUMMARY:[LeetTools] Day 132: Array Partition I\, Minimum Increment to Make Array Unique
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/array-partition-i>Array Partition I</a>\n   - <a href=https://leetcode.com/problems/minimum-increment-to-make-array-unique>Minimum Increment to Make Array Unique</a>
+TRANSP:OPAQUE
+UID:fdccba2b-e320-486d-b7ec-9a33dc0353dd@fdcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191117
+SUMMARY:[LeetTools] Day 197: Min Cost Climbing Stairs\, Decode Ways
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/min-cost-climbing-stairs>Min Cost Climbing Stairs</a>\n   - <a href=https://leetcode.com/problems/decode-ways>Decode Ways</a>
+TRANSP:OPAQUE
+UID:7aed47c9-a25f-4ef4-8e5d-01d587b84723@7aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191123
+SUMMARY:[LeetTools] Day 203: Reverse String II\, Mini Parser
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reverse-string-ii>Reverse String II</a>\n   - <a href=https://leetcode.com/problems/mini-parser>Mini Parser</a>
+TRANSP:OPAQUE
+UID:12bc9917-85fc-4216-a6d4-9273befb549d@12bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190730
+SUMMARY:[LeetTools] Day 87: Sum of Root To Leaf Binary Numbers\, Compare Version Numbers
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>Sum of Root To Leaf Binary Numbers</a>\n   - <a href=https://leetcode.com/problems/compare-version-numbers>Compare Version Numbers</a>
+TRANSP:OPAQUE
+UID:db789139-3a84-4376-8ee7-42be26ae61f1@db78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190809
+SUMMARY:[LeetTools] Day 97: N-ary Tree Preorder Traversal\, Interval List Intersections
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/n-ary-tree-preorder-traversal>N-ary Tree Preorder Traversal</a>\n   - <a href=https://leetcode.com/problems/interval-list-intersections>Interval List Intersections</a>
+TRANSP:OPAQUE
+UID:47e52b44-73ab-4747-a90f-d17eeddd2c09@47e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190626
+SUMMARY:[LeetTools] Day 53: Minimum Depth of Binary Tree\, Regions Cut By Slashes
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/minimum-depth-of-binary-tree>Minimum Depth of Binary Tree</a>\n   - <a href=https://leetcode.com/problems/regions-cut-by-slashes>Regions Cut By Slashes</a>
+TRANSP:OPAQUE
+UID:00addb9f-45bb-4f6f-8279-131ecab01c1b@00ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190911
+SUMMARY:[LeetTools] Day 130: Merge Two Sorted Lists\, Continuous Subarray Sum
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/merge-two-sorted-lists>Merge Two Sorted Lists</a>\n   - <a href=https://leetcode.com/problems/continuous-subarray-sum>Continuous Subarray Sum</a>
+TRANSP:OPAQUE
+UID:bc60b3be-3657-454f-8b59-21722fcc0a31@bc60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191031
+SUMMARY:[LeetTools] Day 180: Two Sum II - Input array is sorted\, Valid Sudoku
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>Two Sum II - Input array is sorted</a>\n   - <a href=https://leetcode.com/problems/valid-sudoku>Valid Sudoku</a>
+TRANSP:OPAQUE
+UID:90267480-3b20-4fc8-9a82-5c5c9dd0af3d@9026.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190511
+SUMMARY:[LeetTools] Day 7: Assign Cookies\, Smallest Range II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/assign-cookies>Assign Cookies</a>\n   - <a href=https://leetcode.com/problems/smallest-range-ii>Smallest Range II</a>
+TRANSP:OPAQUE
+UID:aa14de48-e6be-445b-a692-ae63998e6131@aa14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190520
+SUMMARY:[LeetTools] Day 16: Most Common Word\, Basic Calculator II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/most-common-word>Most Common Word</a>\n   - <a href=https://leetcode.com/problems/basic-calculator-ii>Basic Calculator II</a>
+TRANSP:OPAQUE
+UID:70d360ba-e05a-42dd-8e89-08b4f761bb4f@70d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190727
+SUMMARY:[LeetTools] Day 84: Best Time to Buy and Sell Stock\, Convert Sorted List to Binary Search Tree
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/best-time-to-buy-and-sell-stock>Best Time to Buy and Sell Stock</a>\n   - <a href=https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree>Convert Sorted List to Binary Search Tree</a>
+TRANSP:OPAQUE
+UID:5387ec82-fbea-49bb-b070-9f594efc7c91@5387.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190827
+SUMMARY:[LeetTools] Day 115: Maximum Depth of Binary Tree\, H-Index II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/maximum-depth-of-binary-tree>Maximum Depth of Binary Tree</a>\n   - <a href=https://leetcode.com/problems/h-index-ii>H-Index II</a>
+TRANSP:OPAQUE
+UID:26be57ec-fc2f-407f-aead-50e014393bf2@26be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190904
+SUMMARY:[LeetTools] Day 123: Range Addition II\, Spiral Matrix
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/range-addition-ii>Range Addition II</a>\n   - <a href=https://leetcode.com/problems/spiral-matrix>Spiral Matrix</a>
+TRANSP:OPAQUE
+UID:37e46e64-3393-44b3-a90f-bc69b46069c6@37e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191021
+SUMMARY:[LeetTools] Day 170: Remove Duplicates from Sorted Array\, Sort Characters By Frequency
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/remove-duplicates-from-sorted-array>Remove Duplicates from Sorted Array</a>\n   - <a href=https://leetcode.com/problems/sort-characters-by-frequency>Sort Characters By Frequency</a>
+TRANSP:OPAQUE
+UID:4da1dce0-92dc-498a-819a-a7d5bceae2b0@4da1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190513
+SUMMARY:[LeetTools] Day 9: Transpose Matrix\, Triangle
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/transpose-matrix>Transpose Matrix</a>\n   - <a href=https://leetcode.com/problems/triangle>Triangle</a>
+TRANSP:OPAQUE
+UID:447cf1c6-8def-4633-a724-e5770abdaabe@447c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191110
+SUMMARY:[LeetTools] Day 190: License Key Formatting\, Arithmetic Slices
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/license-key-formatting>License Key Formatting</a>\n   - <a href=https://leetcode.com/problems/arithmetic-slices>Arithmetic Slices</a>
+TRANSP:OPAQUE
+UID:a99b30be-011c-478b-b803-db5b880bb378@a99b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191024
+SUMMARY:[LeetTools] Day 173: Valid Mountain Array\, Total Hamming Distance
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-mountain-array>Valid Mountain Array</a>\n   - <a href=https://leetcode.com/problems/total-hamming-distance>Total Hamming Distance</a>
+TRANSP:OPAQUE
+UID:43d89d1c-82b4-45a4-af5f-7b3688f74d01@43d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190917
+SUMMARY:[LeetTools] Day 136: Maximum Depth of N-ary Tree\, Add and Search Word - Data structure design
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/maximum-depth-of-n-ary-tree>Maximum Depth of N-ary Tree</a>\n   - <a href=https://leetcode.com/problems/add-and-search-word-data-structure-design>Add and Search Word - Data structure design</a>
+TRANSP:OPAQUE
+UID:f59c655d-18e1-42a0-bd67-97a48334b03b@f59c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190506
+SUMMARY:[LeetTools] Day 2: Arranging Coins\, Max Area of Island
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/arranging-coins>Arranging Coins</a>\n   - <a href=https://leetcode.com/problems/max-area-of-island>Max Area of Island</a>
+TRANSP:OPAQUE
+UID:75abc0ea-3e9f-4272-abaf-fb83582ac9a8@75ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190702
+SUMMARY:[LeetTools] Day 59: Nth Digit\, Escape The Ghosts
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/nth-digit>Nth Digit</a>\n   - <a href=https://leetcode.com/problems/escape-the-ghosts>Escape The Ghosts</a>
+TRANSP:OPAQUE
+UID:da6cfeea-bd23-422d-9226-56f60e2d8192@da6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190709
+SUMMARY:[LeetTools] Day 66: Delete Node in a Linked List\, Elimination Game
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/delete-node-in-a-linked-list>Delete Node in a Linked List</a>\n   - <a href=https://leetcode.com/problems/elimination-game>Elimination Game</a>
+TRANSP:OPAQUE
+UID:d02089da-f735-4ea7-88b9-237c31715bd7@d020.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190803
+SUMMARY:[LeetTools] Day 91: Unique Morse Code Words\, Implement Trie (Prefix Tree)
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/unique-morse-code-words>Unique Morse Code Words</a>\n   - <a href=https://leetcode.com/problems/implement-trie-prefix-tree>Implement Trie (Prefix Tree)</a>
+TRANSP:OPAQUE
+UID:d171573f-c60b-45a7-84de-5b2c3abe6de2@d171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190903
+SUMMARY:[LeetTools] Day 122: Remove Duplicates from Sorted List\, Task Scheduler
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/remove-duplicates-from-sorted-list>Remove Duplicates from Sorted List</a>\n   - <a href=https://leetcode.com/problems/task-scheduler>Task Scheduler</a>
+TRANSP:OPAQUE
+UID:f07dceb9-ba80-4f79-aad7-3dbee735d0cf@f07d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190814
+SUMMARY:[LeetTools] Day 102: Kth Largest Element in a Stream\, Longest Word in Dictionary through Deleting
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/kth-largest-element-in-a-stream>Kth Largest Element in a Stream</a>\n   - <a href=https://leetcode.com/problems/longest-word-in-dictionary-through-deleting>Longest Word in Dictionary through Deleting</a>
+TRANSP:OPAQUE
+UID:91ed58df-cf21-4bd9-a523-7188b7fc42f0@91ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190910
+SUMMARY:[LeetTools] Day 129: Rectangle Overlap\, Masking Personal Information
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/rectangle-overlap>Rectangle Overlap</a>\n   - <a href=https://leetcode.com/problems/masking-personal-information>Masking Personal Information</a>
+TRANSP:OPAQUE
+UID:9b6d8d2a-7d16-4741-8541-7ef93a3e84bf@9b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190922
+SUMMARY:[LeetTools] Day 141: Univalued Binary Tree\, Subarray Sum Equals K
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/univalued-binary-tree>Univalued Binary Tree</a>\n   - <a href=https://leetcode.com/problems/subarray-sum-equals-k>Subarray Sum Equals K</a>
+TRANSP:OPAQUE
+UID:b4324bf0-50af-4c55-947e-e89b44087605@b432.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190611
+SUMMARY:[LeetTools] Day 38: Sum of Even Numbers After Queries\, Fraction Addition and Subtraction
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sum-of-even-numbers-after-queries>Sum of Even Numbers After Queries</a>\n   - <a href=https://leetcode.com/problems/fraction-addition-and-subtraction>Fraction Addition and Subtraction</a>
+TRANSP:OPAQUE
+UID:79fe2eee-ed3c-4b57-b3e6-d7aa92f36d06@79fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190624
+SUMMARY:[LeetTools] Day 51: Quad Tree Intersection\, Replace Words
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/quad-tree-intersection>Quad Tree Intersection</a>\n   - <a href=https://leetcode.com/problems/replace-words>Replace Words</a>
+TRANSP:OPAQUE
+UID:2d2d3089-8246-47ac-8d6e-f244096983d7@2d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190603
+SUMMARY:[LeetTools] Day 30: Letter Case Permutation\, Implement Magic Dictionary
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/letter-case-permutation>Letter Case Permutation</a>\n   - <a href=https://leetcode.com/problems/implement-magic-dictionary>Implement Magic Dictionary</a>
+TRANSP:OPAQUE
+UID:8e8b8bb2-89ad-4341-af99-8ecef8911d34@8e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191120
+SUMMARY:[LeetTools] Day 200: Longest Harmonious Subsequence\, Optimal Division
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/longest-harmonious-subsequence>Longest Harmonious Subsequence</a>\n   - <a href=https://leetcode.com/problems/optimal-division>Optimal Division</a>
+TRANSP:OPAQUE
+UID:489932dd-da42-4640-ad30-d33a987da1c3@4899.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20191106
+SUMMARY:[LeetTools] Day 186: Factorial Trailing Zeroes\, Lexicographical Numbers
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/factorial-trailing-zeroes>Factorial Trailing Zeroes</a>\n   - <a href=https://leetcode.com/problems/lexicographical-numbers>Lexicographical Numbers</a>
+TRANSP:OPAQUE
+UID:fce93768-a78d-4289-b252-2800911fb368@fce9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190527
+SUMMARY:[LeetTools] Day 23: Design HashMap\, Sum of Subarray Minimums
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/design-hashmap>Design HashMap</a>\n   - <a href=https://leetcode.com/problems/sum-of-subarray-minimums>Sum of Subarray Minimums</a>
+TRANSP:OPAQUE
+UID:8ef40942-9872-41ec-b06e-6e32c2fa76ec@8ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190819
+SUMMARY:[LeetTools] Day 107: Search in a Binary Search Tree\, Bag of Tokens
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/search-in-a-binary-search-tree>Search in a Binary Search Tree</a>\n   - <a href=https://leetcode.com/problems/bag-of-tokens>Bag of Tokens</a>
+TRANSP:OPAQUE
+UID:096178b8-8817-4e89-9baa-f7f68fc33456@0961.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190720
+SUMMARY:[LeetTools] Day 77: Groups of Special-Equivalent Strings\, Multiply Strings
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/groups-of-special-equivalent-strings>Groups of Special-Equivalent Strings</a>\n   - <a href=https://leetcode.com/problems/multiply-strings>Multiply Strings</a>
+TRANSP:OPAQUE
+UID:38d871e8-1264-4f30-89d1-ee0081baa6b8@38d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190509
+SUMMARY:[LeetTools] Day 5: Two Sum\, Word Break
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/two-sum>Two Sum</a>\n   - <a href=https://leetcode.com/problems/word-break>Word Break</a>
+TRANSP:OPAQUE
+UID:4c8d404c-dea0-4302-877f-bac5c21f06a4@4c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190826
+SUMMARY:[LeetTools] Day 114: Add Digits\, Kth Smallest Element in a BST
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/add-digits>Add Digits</a>\n   - <a href=https://leetcode.com/problems/kth-smallest-element-in-a-bst>Kth Smallest Element in a BST</a>
+TRANSP:OPAQUE
+UID:b1ad09fd-9f91-4e6b-9bee-83a2da6b2952@b1ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190902
+SUMMARY:[LeetTools] Day 121: String Compression\, Knight Probability in Chessboard
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/string-compression>String Compression</a>\n   - <a href=https://leetcode.com/problems/knight-probability-in-chessboard>Knight Probability in Chessboard</a>
+TRANSP:OPAQUE
+UID:4e116c51-6fbd-4ab0-83c8-0736e4e12d04@4e11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190831
+SUMMARY:[LeetTools] Day 119: Island Perimeter\, Kth Smallest Element in a Sorted Matrix
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/island-perimeter>Island Perimeter</a>\n   - <a href=https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix>Kth Smallest Element in a Sorted Matrix</a>
+TRANSP:OPAQUE
+UID:de137a1d-88b2-41e4-92c7-f218a0f6fbab@de13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190618
+SUMMARY:[LeetTools] Day 45: Trim a Binary Search Tree\, Convert to Base -2
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/trim-a-binary-search-tree>Trim a Binary Search Tree</a>\n   - <a href=https://leetcode.com/problems/convert-to-base-2>Convert to Base -2</a>
+TRANSP:OPAQUE
+UID:fe12f229-5bf7-494b-b7bc-747cf2e88d41@fe12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190906
+SUMMARY:[LeetTools] Day 125: Reverse Linked List\, Camelcase Matching
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/reverse-linked-list>Reverse Linked List</a>\n   - <a href=https://leetcode.com/problems/camelcase-matching>Camelcase Matching</a>
+TRANSP:OPAQUE
+UID:4e4667b4-4ec1-4c92-b325-6e5be6e7d8a4@4e46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190622
+SUMMARY:[LeetTools] Day 49: Number of Lines To Write String\, Valid Parenthesis String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/number-of-lines-to-write-string>Number of Lines To Write String</a>\n   - <a href=https://leetcode.com/problems/valid-parenthesis-string>Valid Parenthesis String</a>
+TRANSP:OPAQUE
+UID:c969b628-0870-4325-b576-e436c51e00e7@c969.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190712
+SUMMARY:[LeetTools] Day 69: Fair Candy Swap\, Maximum Length of Pair Chain
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/fair-candy-swap>Fair Candy Swap</a>\n   - <a href=https://leetcode.com/problems/maximum-length-of-pair-chain>Maximum Length of Pair Chain</a>
+TRANSP:OPAQUE
+UID:894300c0-9811-4df9-afaa-d166d1aafb3a@8943.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190808
+SUMMARY:[LeetTools] Day 96: Non-decreasing Array\, Next Greater Element II
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/non-decreasing-array>Non-decreasing Array</a>\n   - <a href=https://leetcode.com/problems/next-greater-element-ii>Next Greater Element II</a>
+TRANSP:OPAQUE
+UID:49506b34-3856-41e3-a198-80d9f0121239@4950.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190723
+SUMMARY:[LeetTools] Day 80: Jewels and Stones\, Valid Square
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/jewels-and-stones>Jewels and Stones</a>\n   - <a href=https://leetcode.com/problems/valid-square>Valid Square</a>
+TRANSP:OPAQUE
+UID:849ca8a5-2070-46b6-b525-3e76566842c0@849c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190605
+SUMMARY:[LeetTools] Day 32: Valid Parentheses\, Maximum Difference Between Node and Ancestor
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/valid-parentheses>Valid Parentheses</a>\n   - <a href=https://leetcode.com/problems/maximum-difference-between-node-and-ancestor>Maximum Difference Between Node and Ancestor</a>
+TRANSP:OPAQUE
+UID:21716d86-58ca-4962-8af8-c3e343e1e5c6@2171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190621
+SUMMARY:[LeetTools] Day 48: Buddy Strings\, Pancake Sorting
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/buddy-strings>Buddy Strings</a>\n   - <a href=https://leetcode.com/problems/pancake-sorting>Pancake Sorting</a>
+TRANSP:OPAQUE
+UID:18b3cbad-c6f5-45c3-b517-66fcfe717a76@18b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190824
+SUMMARY:[LeetTools] Day 112: Prime Number of Set Bits in Binary Representation\, Subarray Product Less Than K
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation>Prime Number of Set Bits in Binary Representation</a>\n   - <a href=https://leetcode.com/problems/subarray-product-less-than-k>Subarray Product Less Than K</a>
+TRANSP:OPAQUE
+UID:1b713603-ccd4-4f2f-9250-853bf135a0f8@1b71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190628
+SUMMARY:[LeetTools] Day 55: Fizz Buzz\, Summary Ranges
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/fizz-buzz>Fizz Buzz</a>\n   - <a href=https://leetcode.com/problems/summary-ranges>Summary Ranges</a>
+TRANSP:OPAQUE
+UID:e2577156-62de-426d-a026-251b404590d7@e257.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190619
+SUMMARY:[LeetTools] Day 46: Design HashSet\, Integer Replacement
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/design-hashset>Design HashSet</a>\n   - <a href=https://leetcode.com/problems/integer-replacement>Integer Replacement</a>
+TRANSP:OPAQUE
+UID:f631c03e-2e29-48a1-ae7d-ebc69af45fce@f631.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190806
+SUMMARY:[LeetTools] Day 94: Repeated Substring Pattern\, Minimum Area Rectangle
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/repeated-substring-pattern>Repeated Substring Pattern</a>\n   - <a href=https://leetcode.com/problems/minimum-area-rectangle>Minimum Area Rectangle</a>
+TRANSP:OPAQUE
+UID:3f82f49f-e155-4613-b0bf-8977986f16d0@3f82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190505T043814Z
+DTSTART;VALUE=DATE:20190818
+SUMMARY:[LeetTools] Day 106: Sort Array By Parity II\, Swap Adjacent in LR String
+DESCRIPTION:Problems of the day:\n   - <a href=https://leetcode.com/problems/sort-array-by-parity-ii>Sort Array By Parity II</a>\n   - <a href=https://leetcode.com/problems/swap-adjacent-in-lr-string>Swap Adjacent in LR String</a>
+TRANSP:OPAQUE
+UID:283aa33d-479b-45ee-8abf-2fe71334ad89@283a.org
 END:VEVENT
 END:VCALENDAR
