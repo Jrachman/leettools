@@ -135,7 +135,7 @@ def strat_key_to_name(strat_key):
     return output_name
 
 def analyze_strategies():
-    #remove leftovers and just ask for continuation (future implementation)
+    #just ask for continuation (future implementation)
     #need to change leftovers to percent of problems finished by the time the grinding ends
     problems = get_problems()
     difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
@@ -158,19 +158,19 @@ def analyze_strategies():
 
     else: #for 2 difficulties
         strategies[(difficulty_range, (1, 1))] = min_len # "1 pair of problems per day (without leftovers)"
-        strategies[(difficulty_range, (1, 1))] = max_len # "1 pair of problems per day (with leftovers)"
+        #strategies[(difficulty_range, (1, 1))] = max_len # "1 pair of problems per day (with leftovers)"
 
         if len_of_problems[0]/2 > len_of_problems[1]:
             strategies[(difficulty_range, (2, 1))] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
         else:
             strategies[(difficulty_range, (2, 1))] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
-            strategies[(difficulty_range, (2, 1))] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
+            #strategies[(difficulty_range, (2, 1))] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
 
         if len_of_problems[0] < len_of_problems[1]/2:
             strategies[(difficulty_range, (1, 2))] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
         else:
             strategies[(difficulty_range, (1, 2))] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
-            strategies[(difficulty_range, (1, 2))] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
+            #strategies[(difficulty_range, (1, 2))] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
 
     return strategies, time_range, problems, date_start #here
 
