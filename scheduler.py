@@ -230,6 +230,7 @@ def create_calendar(strat_choice, n_days, problems, date_start):
     curr_date = date_start #current format: yyyy-mm-dd
     diffs, num_of_prob = strat_choice[0], strat_choice[1]
 
+    #need to fix that if there are multiple problems for 1 difficulty, add to list
     for i in range(n_days):
         e = Event() # create events through strat_best_fit
         problems_of_the_day = dict(problems[diff].pop() for diff in diffs)
