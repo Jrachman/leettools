@@ -233,7 +233,7 @@ def create_calendar(strat_choice, n_days, problems, date_start):
     #need to fix that if there are multiple problems for 1 difficulty, add to list
     for i in range(n_days):
         e = Event() # create events through strat_best_fit
-        problems_of_the_day = dict(problems[diff].pop() for diff in diffs)
+        problems_of_the_day = dict(problems[diff].pop() for diff in diffs) # need to fix here
         e.name = f"[LeetTools] Day {i+1}: {', '.join(problems_of_the_day)}"
         e.begin = f"{curr_date.strftime('%Y%m%d')} {t}"
         curr_date += + datetime.timedelta(days=1)
