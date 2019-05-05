@@ -135,12 +135,13 @@ def strat_key_to_name(strat_key):
     return output_name
 
 def analyze_strategies():
+    #remove leftovers and just ask for continuation (future implementation)
     problems = get_problems()
     difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
     strategies = dict()
 
     len_of_problems = [len(problems[i]) for i in difficulty_range]
-    
+
     max_len = max(len_of_problems)
     min_len = min(len_of_problems)
     sum_len = sum(len_of_problems)
