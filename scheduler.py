@@ -127,15 +127,16 @@ def user_personalization_entries():
 
 def strat_key_to_name(strat_key):
     abbr_to_word = {"e": "easy", "m": "medium", "h": "hard"}
-    diff, num_of_prob, leftover = strat_key[0], strat_key[1], strat_key[2]
+    diff, num_of_prob = strat_key[0], strat_key[1]
 
     output_name =  ", ".join([f"{num_of_prob[i]} {abbr_to_word[diff[i]]}" for i in range(len(diff))])
-    output_name += f" problem(s) per day ({'with' if leftover else 'without'} leftovers)"
+    output_name += " problem(s) per day"
 
     return output_name
 
 def analyze_strategies():
     #remove leftovers and just ask for continuation (future implementation)
+    #need to change leftovers to percent of problems finished by the time the grinding ends
     problems = get_problems()
     difficulty_range, time_range, date_start = user_personalization_entries() #, weekends #here
     strategies = dict()
@@ -148,28 +149,28 @@ def analyze_strategies():
     remaining_len = max_len - min_len
 
     if len(len_of_problems) == 1: #for single difficulty
-        strategies[(difficulty_range, (1,), False)] = min_len # "1 problem per day"
+        strategies[(difficulty_range, (1,))] = min_len # "1 problem per day"
 
         for num in [2, 3]:
-            strategies[(difficulty_range, (num,), False)] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
+            strategies[(difficulty_range, (num,))] = int(min_len/num) + int(min_len%num) # f"{num} problems per day"
 
         #need to add 2 problems a day, 1 day break AND 3 problems a day, 1 day break
 
     else: #for 2 difficulties
-        strategies[(difficulty_range, (1, 1), False)] = min_len # "1 pair of problems per day (without leftovers)"
-        strategies[(difficulty_range, (1, 1), True)] = max_len # "1 pair of problems per day (with leftovers)"
+        strategies[(difficulty_range, (1, 1))] = min_len # "1 pair of problems per day (without leftovers)"
+        strategies[(difficulty_range, (1, 1))] = max_len # "1 pair of problems per day (with leftovers)"
 
         if len_of_problems[0]/2 > len_of_problems[1]:
-            strategies[(difficulty_range, (2, 1), False)] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
+            strategies[(difficulty_range, (2, 1))] = len_of_problems[0]/2 # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]}"
         else:
-            strategies[(difficulty_range, (2, 1), False)] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
-            strategies[(difficulty_range, (2, 1), True)] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
+            strategies[(difficulty_range, (2, 1))] = int(min_len/2) + int(min_len%2) # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (without leftovers)"
+            strategies[(difficulty_range, (2, 1))] = max_len # f"2 {difficulty_range[0]} and 1 {difficulty_range[1]} (with leftovers)"
 
         if len_of_problems[0] < len_of_problems[1]/2:
-            strategies[(difficulty_range, (1, 2), False)] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
+            strategies[(difficulty_range, (1, 2))] = len_of_problems[1]/2 # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]}"
         else:
-            strategies[(difficulty_range, (1, 2), False)] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
-            strategies[(difficulty_range, (1, 2), True)] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
+            strategies[(difficulty_range, (1, 2))] = int(max_len/2) + int(max_len%2) # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (without leftovers)"
+            strategies[(difficulty_range, (1, 2))] = min_len # f"2 {difficulty_range[1]} and 1 {difficulty_range[0]} (with leftovers)"
 
     return strategies, time_range, problems, date_start #here
 
