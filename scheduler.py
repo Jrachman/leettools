@@ -239,7 +239,7 @@ def create_calendar(strat_choice, n_days, problems, date_start):
         e.end = f"{curr_date.strftime('%Y%m%d')} {t}"
         composition = [f'<a href=https://leetcode.com/problems/{problems_of_the_day[title]}>{title}</a>' for title in problems_of_the_day]
         comp_body = '\n   - '.join(composition)
-        e.description = f"Problems of the day:{nl}   - {comp_body}"
+        e.description = f"Problem(s) of the day:{nl}   - {comp_body}"
         e.make_all_day()
         c.events.add(e)
 
