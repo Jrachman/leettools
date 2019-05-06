@@ -245,7 +245,7 @@ def create_calendar(strat_choice, n_days, problems, date_start):
         e.make_all_day()
         c.events.add(e)
 
-    with open('test.ics', 'w') as f:
+    with open('test.ics', 'w') as f: #change the name of the file to the username
         f.writelines(c)
 
     return c.events
