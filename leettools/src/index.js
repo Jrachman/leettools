@@ -1,12 +1,57 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+class NameForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {diff_range: "grapefruit", grind_per: ""};
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  handleChange(event) {
+    const target = event.target;
+    const value = target.type === 'checkbox' ? target.checked : target.value;
+    const name = target.name;
+
+    this.setState({
+      [name]: value
+    });
+  }
+
+  handleSubmit(event) {
+    alert("My difficulty is " + this.state.diff_range + ". There are " + this.state.grind_per + " days in the grind period chosen.");
+    event.preventDefault();
+  }
+
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          Choose your difficulty range.
+          <select name="diff_range" value={this.state.diff_range} onChange={this.handleChange}>
+            <option value="e">Easy</option>
+            <option value="em">Easy / Medium</option>
+            <option value="m">Medium</option>
+            <option value="mh">Medium / Hard</option>
+            <option value="h">Hard</option>
+          </select>
+        </label>
+        <br />
+        <label>
+          How many days in grind period?
+          <input name="grind_per" type="type" value={this.state.grind_per} onChange={this.handleChange} />
+        </label>
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
+    );
+  }
+}
+
+ReactDOM.render(
+  <NameForm />,
+  document.getElementById('root')
+);
