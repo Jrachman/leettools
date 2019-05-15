@@ -4,26 +4,101 @@ import './index.css';
 
 var today = new Date();
 
-const minOffset = 0;
-const maxOffset = 10;
-const thisYear = today.getFullYear();
+class DropDownMonth extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.minOffset = 1;
+    this.maxOffset = 12;
+
+    this.state = {
+      month: today.getMonth()
+    };
+  }
+
+  handleChange = () => {
+    var month = this.dropdown.value
+    this.setState({month: month});
+    this.props.onSelectMonth(month)
+  }
+
+  render() {
+    const options = [];
+    //might need to fix this
+    for (let i = this.minOffset; i <= this.maxOffset; i++) {
+      options.push(<option value={i}>{i}</option>);
+    }
+
+    return (
+      <select name="month" value={this.state.month} onChange={this.handleChange} ref={(ref) => this.dropdown = ref}>
+        {options}
+      </select>
+    );
+  }
+}
+
+class DropDownDay extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.minOffset = 1;
+    this.maxOffset = 31;
+
+    this.state = {
+      day: today.getDate()
+    };
+  }
+
+  handleChange = () => {
+    var day = this.dropdown.value
+    this.setState({day: day});
+    this.props.onSelectDay(day)
+  }
+
+  render() {
+    const options = [];
+    //might need to fix this
+    for (let i = this.minOffset; i <= this.maxOffset; i++) {
+      options.push(<option value={i}>{i}</option>);
+    }
+
+    return (
+      <select name="day" value={this.state.day} onChange={this.handleChange} ref={(ref) => this.dropdown = ref}>
+        {options}
+      </select>
+    );
+  }
+}
 
 class DropDownYear extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.minOffset = 0;
+    this.maxOffset = 10;
+    this.thisYear = today.getFullYear();
+
+    this.state = {
+      year: today.getFullYear()
+    };
+  }
+
   handleChange = () => {
     var year = this.dropdown.value
+    this.setState({year: year});
     this.props.onSelectYear(year)
   }
 
   render() {
     const options = [];
 
-    for (let i = minOffset; i <= maxOffset; i++) {
-      const year = thisYear + i;
+    for (let i = this.minOffset; i <= this.maxOffset; i++) {
+      const year = this.thisYear + i;
       options.push(<option value={year}>{year}</option>);
     }
 
     return (
-      <select name="year" value={this.selectedYear} onChange={this.handleChange} ref={(ref) => this.dropdown = ref}>
+      <select name="year" value={this.state.year} onChange={this.handleChange} ref={(ref) => this.dropdown = ref}>
         {options}
       </select>
     );
@@ -39,11 +114,19 @@ class NameForm extends React.Component {
       grind_per: "0",
       month: today.getMonth(),
       day: today.getDate(),
-      year: today.getFullYear(),
+      year: today.getFullYear()
     };
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  handleMonth = (monthValue) => {
+    this.setState({month: monthValue});
+  }
+
+  handleDay = (dayValue) => {
+    this.setState({day: dayValue});
   }
 
   handleYear = (yearValue) => {
@@ -86,53 +169,8 @@ class NameForm extends React.Component {
         <br />
         <label>
           Choose your start date.
-          <select name="month" value={this.state.month} onChange={this.handleChange}>
-            <option value="1">January</option>
-            <option value="2">February</option>
-            <option value="3">March</option>
-            <option value="4">April</option>
-            <option value="5">May</option>
-            <option value="6">June</option>
-            <option value="7">July</option>
-            <option value="8">August</option>
-            <option value="9">September</option>
-            <option value="10">October</option>
-            <option value="11">November</option>
-            <option value="12">December</option>
-          </select>
-          <select name="day" value={this.state.day} onChange={this.handleChange}>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-            <option value="5">5</option>
-            <option value="6">6</option>
-            <option value="7">7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-            <option value="11">11</option>
-            <option value="12">12</option>
-            <option value="13">13</option>
-            <option value="14">14</option>
-            <option value="15">15</option>
-            <option value="16">16</option>
-            <option value="17">17</option>
-            <option value="18">18</option>
-            <option value="19">19</option>
-            <option value="20">20</option>
-            <option value="21">21</option>
-            <option value="22">22</option>
-            <option value="23">23</option>
-            <option value="24">24</option>
-            <option value="25">25</option>
-            <option value="26">26</option>
-            <option value="27">27</option>
-            <option value="28">28</option>
-            <option value="29">29</option>
-            <option value="30">30</option>
-            <option value="31">31</option>
-          </select>
+          <DropDownMonth value={this.state.month} onSelectMonth={this.handleMonth} />
+          <DropDownDay value={this.state.day} onSelectDay={this.handleDay} />
           ,
           <DropDownYear value={this.state.year} onSelectYear={this.handleYear} />
         </label>
