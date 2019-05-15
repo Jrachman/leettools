@@ -13,7 +13,7 @@ class DropDownYear extends React.Component {
     var year = this.dropdown.value
     this.props.onSelectYear(year)
   }
-  
+
   render() {
     const options = [];
 
