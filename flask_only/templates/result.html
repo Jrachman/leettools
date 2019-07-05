@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+   <body>
+      <h2 style = "text-align: center;">Choice Form</h2>
+
+      {% for message in form.diff_range.errors %}
+         <div>Difficulty ERROR: {{ message }}</div>
+      {% endfor %}
+
+      {% for message in form.grind_per.errors %}
+         <div>Grind Duration ERROR: {{ message }}</div>
+      {% endfor %}
+
+      {% for message in form.start_month.errors %}
+         <div>Start Month ERROR: {{ message }}</div>
+      {% endfor %}
+
+      {% for message in form.start_day.errors %}
+         <div>Start Day ERROR: {{ message }}</div>
+      {% endfor %}
+
+      {% for message in form.start_year.errors %}
+         <div>Start Year ERROR: {{ message }}</div>
+      {% endfor %}
+      <br>
+
+      <form action = "http://localhost:5000" method=post>
+         <fieldset>
+            {{ form.hidden_tag() }}
+
+            <div style = font-size:20px; font-weight:bold; margin-left:150px;>
+              {% for message in form.data %}
+                  <div>Difficulty ERROR: {{ message }}</div>
+              {% endfor %}
+              {{ form.submit }}
+            </div>
+
+         </fieldset>
+      </form>
+   </body>
+</html>

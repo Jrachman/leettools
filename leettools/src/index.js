@@ -144,9 +144,26 @@ class NameForm extends React.Component {
   }
 
   handleSubmit(event) {
-    alert("My difficulty is " + this.state.diff_range + ". There are " + this.state.grind_per + " days in the grind period chosen. The date start is " + this.state.month + "/" + this.state.day + "/" + this.state.year);
     event.preventDefault();
-  }
+      const data = {
+        diff_range: this.state.diff_range,
+        grind_per: this.state.grind_per,
+        month: this.state.month,
+        day: this.state.day,
+        year: this.state.year
+       };
+      console.log('submit');
+      console.log(data);
+      fetch('http://127.0.0.1:3000/result', {
+        method: 'POST',
+        headers: {
+          'Content-type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      })
+        .then(res => res.json())
+        .then(res => console.log(res));
+    }
 
   render() {
     return (
