@@ -1,37 +1,24 @@
 <!doctype html>
 <html>
    <body>
-      <h2 style = "text-align: center;">Choice Form</h2>
+      <h2 style = "text-align: center;">Strategy Select</h2>
 
-      {% for message in form.diff_range.errors %}
+      {% for message in form.strat_choice.errors %}
          <div>Difficulty ERROR: {{ message }}</div>
-      {% endfor %}
-
-      {% for message in form.grind_per.errors %}
-         <div>Grind Duration ERROR: {{ message }}</div>
-      {% endfor %}
-
-      {% for message in form.start_month.errors %}
-         <div>Start Month ERROR: {{ message }}</div>
-      {% endfor %}
-
-      {% for message in form.start_day.errors %}
-         <div>Start Day ERROR: {{ message }}</div>
-      {% endfor %}
-
-      {% for message in form.start_year.errors %}
-         <div>Start Year ERROR: {{ message }}</div>
       {% endfor %}
       <br>
 
-      <form action = "http://localhost:5000" method=post>
+      <form action = "http://localhost:5000/result.html" method=post>
          <fieldset>
             {{ form.hidden_tag() }}
-
             <div style = font-size:20px; font-weight:bold; margin-left:150px;>
-              {% for message in form.data %}
-                  <div>Difficulty ERROR: {{ message }}</div>
+              <h2>Please choose one of the following strategies (time range selected: {{ data["time_range"] }})</h2>
+              {% for message in data["choices"] %}
+                  <div>{{ message }}</div>
               {% endfor %}
+              <br>
+              Choose number here: {{ form.strat_choice }}
+              <br>
               {{ form.submit }}
             </div>
 

@@ -1,7 +1,6 @@
 from flask_wtf import FlaskForm
 from wtforms import IntegerField, SubmitField, SelectField
 from datetime import datetime
-import 
 
 
 class ChoiceForm(FlaskForm):
@@ -27,3 +26,5 @@ class ChoiceForm(FlaskForm):
 
 
 class ResultForm(FlaskForm):
+    strat_choice = SelectField(coerce=int, choices=[])
+    submit = SubmitField("Submit")

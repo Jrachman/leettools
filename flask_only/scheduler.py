@@ -198,19 +198,19 @@ def strat_best_fit(strategies, time_range):
 
 def present_strategy(problems, best_fits, strategies, time_range):
     num = 0
-    choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
-
+    # choices = f"Please choose one of the following strategies (time range selected: {time_range}):\n"
+    choices = []
     list_of_ord_strats = []
     for cat, strats in best_fits.items():
-        choices += f"   {cat.upper()}\n"
+        # choices += f"   {cat.upper()}\n"
 
         for strat in strats:
             percent_complete = (sum(strat[1]) * strategies[strat]) / sum([len(problems[i]) for i in strat[0]]) * 100
-            choices += f"      [{num}] ({strategies[strat]} days, {100.0 if percent_complete > 100 else percent_complete:.1f}% complete) {strat_key_to_name(strat)}\n"
+            choices.append(f"[{num}] ({strategies[strat]} days, {100.0 if percent_complete > 100 else percent_complete:.1f}% complete) {strat_key_to_name(strat)}")
             list_of_ord_strats.append(strat)
             num += 1
 
-    choices += "Enter number here: "
+    # choices += "Enter number here: "
 
     return choices, list_of_ord_strats
 
@@ -245,7 +245,11 @@ def create_calendar(strat_choice, n_days, problems, date_start):
     # need to fix that if there are multiple problems for 1 difficulty, add to list
     for i in range(n_days):
         e = Event()  # create events through strat_best_fit
-        problems_of_the_day = dict(problems[diff].pop() for diff in diffs)  # need to fix here
+        try:
+            # if there are no more perfect pairings, this needs to be fixed to adapt
+            problems_of_the_day = dict(problems[diff].pop() for diff in diffs)  # need to fix here
+        except:
+            break
         e.name = f"[LeetTools] Day {i+1}: {', '.join(problems_of_the_day)}"
         e.begin = f"{curr_date.strftime('%Y%m%d')} {t}"
         curr_date += + datetime.timedelta(days=1)
